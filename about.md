@@ -3,28 +3,29 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Hi, as a PhD candidate at the <a href="http://psyres.uva.nl/research/content/programme-group-psychological-methods/programme-group-psychological-methods.html">Psychological Methods group</a> of the University of Amsterdam I study (online) learning.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+<h2>Current topics</h2>
 
-There are currently two themes built on Poole:
+<h3>Modeling cognitive development</h3>
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+We aim to describe patterns of cognitive development with a novel formal model&#151;in collaboration with <a href="http://www.researchgate.net/profile/Gunter_Maris">Gunter Maris</a>, <a href="http://hvandermaas.socsci.uva.nl/Homepage_Han_van_der_Maas/Home.html">Han van der Maas</a>, <a href="https://www.researchgate.net/profile/Frederik_Coomans">Frederik Coomans</a>, <a href="https://www.researchgate.net/profile/Abe_Hofman">Abe Hofman</a>.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+<h3>A/B testing in online learning</h3>
 
-## Setup
+We aim to intervene in large-scale online learning systems, such as Coursera, in order to enable (1) evidence-based iterative improvement of these systems and (2) adaptive and personalized learning experiences (read more <a href="http://alexandersavi.nl/blog/ab-testing-in-online-learning-a-brief-primer/">here</a>)&#151;in collaboration with <a href="http://www.josephjaywilliams.com/">Joseph Williams</a>, <a href="https://www.coursera.org/instructor/annemarie">Annemarie Zand Scholten</a>, <a href="http://www.nienkeruijs.nl/">Nienke Ruijs</a>.
 
-Some fun facts about the setup of this project include:
+<h3>Diagnostics in learning</h3>
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+We aim to identify students' 'cognitive pathology', such as suboptimal strategies or straight misconceptions, such that these students can receive targeted interventions&#151;in collaboration with <a href="http://www.researchgate.net/profile/Gunter_Maris">Gunter Maris</a>, <a href="http://www.researchgate.net/profile/Timo_Bechger">Timo Bechger</a>, <a href="https://www.uva.nl/disciplines/psychologie/medewerkers/psychologische-methodenleer/pm/pm/folder/k/r/j.kruis/j.kruis.html">Joost Kruis</a>.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+## Elsewhere
 
-Thanks for reading!
+* [Figshare](http://figshare.com/authors/Alexander_O_Savi/428079)
+* [GitHub](https://github.com/aosavi)
+* [Google Scholar](https://scholar.google.nl/citations?user=x8Him1UAAAAJ&hl=en)
+* [LinkedIn](http://nl.linkedin.com/in/alexandersavi)
+* [ORCID](http://orcid.org/0000-0002-9271-7476)
+* [ResearchGate](https://www.researchgate.net/profile/Alexander_Savi)
+* [RPubs](https://rpubs.com/aosavi)
+* [Twitter](https://twitter.com/alexandersavi)
