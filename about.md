@@ -3,8 +3,6 @@ layout: page
 title: About
 ---
 
-Hi, as a PhD candidate at the <a href="http://psyres.uva.nl/research/content/programme-group-psychological-methods/programme-group-psychological-methods.html">Psychological Methods group</a> of the University of Amsterdam I study (online) learning.
-
 <h2>Current topics</h2>
 
 <h3>Modeling cognitive development</h3>
@@ -19,7 +17,7 @@ We aim to intervene in large-scale online learning systems, such as Coursera, in
 
 We aim to identify students' 'cognitive pathology', such as suboptimal strategies or straight misconceptions, such that these students can receive targeted interventions&#151;in collaboration with <a href="http://www.researchgate.net/profile/Gunter_Maris">Gunter Maris</a>, <a href="http://www.researchgate.net/profile/Timo_Bechger">Timo Bechger</a>, <a href="https://www.uva.nl/disciplines/psychologie/medewerkers/psychologische-methodenleer/pm/pm/folder/k/r/j.kruis/j.kruis.html">Joost Kruis</a>.
 
-## Elsewhere
+## Follow me
 
 * [Figshare](http://figshare.com/authors/Alexander_O_Savi/428079)
 * [GitHub](https://github.com/aosavi)
