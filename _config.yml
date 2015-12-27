@@ -7,20 +7,20 @@ gems:             [jekyll-paginate, jekyll-gist]
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Alexander Savi
+tagline:          ''
+description:      'PhD candidate at <a href="http://psyres.uva.nl/research/content/programme-group-psychological-methods/programme-group-psychological-methods.html" target="_blank">UvA Psychological Methods</a>, studying (online) learning and psychometrics.'
+url:              http://alexandersavi.nl
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Alexander Savi'
+  url:            https://twitter.com/alexandersavi
 
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          0.1.0
 
 github:
   repo:           https://github.com/poole/hyde
