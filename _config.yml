@@ -18,9 +18,11 @@ author:
   url:            https://twitter.com/alexandersavi
 
 paginate:         5
+paginate_path:    "blog/page:num/"
+blog_path:        "blog/"
 
 # Custom vars
-version:          0.1.0
+version:          0.1.1
 
 github:
   repo:           https://github.com/aosavi/hyde
