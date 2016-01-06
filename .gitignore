@@ -2,6 +2,9 @@
 _gh_pages
 _site
 .ruby-version
+hyde.Rproj
+.RData
+.Rhistory
 
 # Numerous always-ignore extensions
 *.diff
@@ -39,3 +42,4 @@ validation-report.json
 
 # Folders to ignore
 node_modules
+.Rproj.user

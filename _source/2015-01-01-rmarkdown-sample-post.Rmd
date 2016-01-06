@@ -1,0 +1,32 @@
+---
+layout:  post
+title: "RMarkdown Sample Post"
+output:
+  html_document:
+    mathjax:  default
+    fig_caption:  true
+---
+
+```{r include = FALSE}
+library(knitr)
+```
+
+Run code, show output:
+
+```{r}
+summary(cars)
+```
+
+Embed plots:
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
+<p class = "figcaption">Here is a plot for you.</p>
+
+Inline math:  $$ \pi/2 \approx 1.57 $$. 
+
+Displayed math:
+
+$$ \sum_{i=1}^{n} i = \frac{n(n+1)}{2}.$$
