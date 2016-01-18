@@ -10,9 +10,9 @@ permalink:        pretty
 title:            Alexander Savi
 tagline:          ''
 description:      'PhD candidate at <a href="http://psyres.uva.nl/research/content/programme-group-psychological-methods/programme-group-psychological-methods.html" target="_blank">UvA Psychological Methods</a>, studying (online) learning and psychometrics.'
-url:              https://github.com/aosavi/hyde
-baseurl:          /hyde/
-baseurlknitr:     /hyde/
+url:              https://aosavi.github.io
+baseurl:          /
+baseurlknitr:     /
 
 author:
   name:           'Alexander Savi'
@@ -26,4 +26,4 @@ blog_path:        "blog/"
 version:          0.1.2
 
 github:
-  repo:           https://github.com/aosavi/hyde
+  repo:           https://github.com/aosavi/aosavi.github.io
