@@ -30,7 +30,7 @@ summary(cars)
 
 Embed plots:
 
-![plot of chunk unnamed-chunk-3](/hyde/figure/source/2015-01-01-rmarkdown-sample-post/unnamed-chunk-3-1.png) 
+![plot of chunk unnamed-chunk-3](/figure/source/2015-01-01-rmarkdown-sample-post/unnamed-chunk-3-1.png) 
 
 <p class = "figcaption">Here is a plot for you.</p>
 
