@@ -18,11 +18,11 @@
       {% endcomment %}
 
       {% assign pages_list = site.pages %}
-      <a class="sidebar-nav-item {% if page.url contains "blog/" %} active{% endif %}" href="{{ site.baseurl }}/blog">Blog</a>
+      <a class="sidebar-nav-item {% if page.url contains "blog/" %} active{% endif %}" href="/blog">Blog</a>
       {% for node in pages_list %}
         {% if node.title != null %}
           {% if node.layout == "page" %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
           {% endif %}
         {% endif %}
       {% endfor %}
