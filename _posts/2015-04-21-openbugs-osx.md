@@ -3,6 +3,13 @@ layout: post
 title: OpenBUGS on Mac OS X
 ---
 
+<style>
+div {
+    text-align: justify;
+    text-justify: inter-word;
+}
+</style>
+
 Before going through the effort of installing OpenBUGS on a Mac, ask yourself whether you wouldn’t rather want to use [JAGS](http://mcmc-jags.sourceforge.net/), [Stan](http://mc-stan.org/), or the awesome [JASP](https://jasp-stats.org/). If you persist, this quick walk-through should help you out.
 
 ## WineBottler
