@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How can we tailor massive education to each individual learner?
+title: How Can We Tailor Massive Education to Each Individual Learner?
 ---
 
 <style>

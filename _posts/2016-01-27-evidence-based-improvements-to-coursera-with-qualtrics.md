@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Evidence-Based Improvements to Coursera Courses using a Qualtrics Integration 
+title: Evidence-Based Improvements to Coursera Courses Using a Qualtrics Integration 
 ---
 
 <style>
