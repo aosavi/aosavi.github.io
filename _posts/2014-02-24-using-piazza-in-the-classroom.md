@@ -18,7 +18,7 @@ Over the past two and a half years I tutored sophomore Psychology students in ex
 ## Exploring Piazza
 Having sought a solution in the form of a mailing group (even more pressure on my mailbox), the use of a forum on either [Turnitin](http://turnitin.com) or [Blackboard](www.blackboard.com) (very unintuitive for most students), and Facebook (not a professional environment), I decided to try out [Piazza](www.piazza.com). Piazza is a Q&A website, designed to provide a platform for teachers and students for online communication. Piazza is free, very accessible, includes a mobile app, and is already used by many universities. In this post I give some pros and cons, and share some tips for teachers who'd like to start using it. On the Piazza website you may also find more benefits, examples, and a demonstration.
 
-## Benefits
+### Benefits
 - All questions, answers, and discussions are stored on a single spot outside your inbox.
 - Accessible to all students and teachers associated with the course.
 - No need to answer the same question twice.
@@ -32,13 +32,13 @@ Having sought a solution in the form of a mailing group (even more pressure on m
 - Create multiple subgroups within a class. The subgroups may only be accessible to some of the students, while the class is still accessible to all students and teachers.
 - Statistics (e.g., which student has contributed the most).
 
-## Disadvantages
+### Disadvantages
 - Many students and teachers are unfamiliar with Piazza (unlike email, Blackboard, or Facebook).
 - Piazza therefore requires an initial investment of the teacher, both in instruction and in encouragement (see the tips below to ease this process).
 - It can come on top of other media (although it may also completely replace email, and may be used as a full-blown learning environment such as a Blackboard).
 - Only a fast and proper implementation of Piazza may eliminate the students' use of closed environments like Facebook.
 
-## Tips
+### Tips
 - Give a plenary introduction to Piazza, show the students how it works, what you can do with it, and how you want them to use it.
 - Emphasize that in answering a question they always need to cooperate (and that they must therefore edit their peer's answer).
 - Encourage students to use private messages only if truly necessary.
