@@ -1,6 +1,7 @@
 ---
 layout: post
 title: OpenBUGS on Mac OS X
+comments: true
 ---
 
 <style>
@@ -11,6 +12,8 @@ div {
 </style>
 
 Before going through the effort of installing OpenBUGS on a Mac, ask yourself whether you wouldn’t rather want to use [JAGS](http://mcmc-jags.sourceforge.net/), [Stan](http://mc-stan.org/), or the awesome [JASP](https://jasp-stats.org/). If you persist, this quick walk-through should help you out.
+
+![OpenBUGS](/assets/openbugs.png)
 
 ## WineBottler
 [WineBottler](http://winebottler.kronenberg.org/) will help you run Windows applications on your Mac. Download the version of WineBottler that is compatible with your operating system (e.g., OS X Yosemite) and install it. If you are unsure about which OS you are running, hit the Apple sign in the top-left corner and choose ‘About This Mac’.

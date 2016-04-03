@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Tips on Using the Q&A Platform Piazza in the Classroom
+comments: true
 ---
 
 <style>
@@ -11,6 +12,8 @@ div {
 </style>
 
 Managing out-of-class communication can be time-consuming. After having experimented with different approaches to optimizing communication amongst students and myself, I was elected for the [UvA Grassroots program](http://icto.uva.nl/icto-centraal/uva-grassroots/) to explore the educational Q&A platform Piazza. The post below summarizes the lessons I learned from the project, and shares some valuable tips and tricks if you'd like to try it out yourself (first published in Dutch on the [UvA Grassroots blog](http://ict-innovatie.uva.nl/2014/02/24/piazza-grassroot/)).
+
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/1Min8DscrzA?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Out-of-class communication
 Over the past two and a half years I tutored sophomore Psychology students in executing and reporting empirical research. Given the intensity of the course, many students wished to communicate with the instructor and with one another, even when not in class. This gave two problems. First, communication between students often went through a closed Facebook environment. Because of this, I had no insight into the problems of the students and I wasn't able to correct incorrect advice from peers. Moreover, it appeared to promote plagiarism. Second, their communication with me often went through email. This time the students didn't know what their fellow students asked me, and so I sometimes received the same question twice, while some questions could be perfectly answered by the students themselves. It would thus be great if all online communication would be shared with the whole class, such that the pressure on my mailbox would be lowered, and I would be better able to anticipate the problems of my students.

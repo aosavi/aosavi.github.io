@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A/B Tests in Online Learning
+comments: true
 ---
 
 <style>

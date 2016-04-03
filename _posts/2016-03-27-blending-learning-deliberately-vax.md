@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Blending Learning Deliberately&#58; Learning About Networks from Vax!
+comments: true
 ---
 
 <style>

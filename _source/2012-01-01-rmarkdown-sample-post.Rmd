@@ -1,6 +1,7 @@
 ---
 layout:  post
 title: "RMarkdown Sample Post"
+comments: false
 output:
   html_document:
     mathjax:  default
