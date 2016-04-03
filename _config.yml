@@ -18,7 +18,7 @@ author:
   name:           'Alexander Savi'
   url:            https://twitter.com/alexandersavi
 
-paginate:         5
+paginate:         25
 paginate_path:    "blog/page:num/"
 blog_path:        "blog/"
 
