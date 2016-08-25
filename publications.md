@@ -16,10 +16,11 @@ title: Publications
  Manuscript submitted for publication. [<a href="https://www.dropbox.com/s/i9tn0y1q1jyp1uq/ABTestingOnlineLearning_Preprint.pdf?dl=0">preprint</a>]
 </p>
 
+## In press
 <p style="margin-left: .3in; text-indent: -.3in;">
- Jansen, B. R. J., Hofman, A. D., Savi, A. O., Visser, I., & van der Maas, H. L. J. (2015).
- <em>(Self-) adapting the success rate when practicing math.</em>
- Manuscript submitted for publication.
+ Jansen, B. R. J., Hofman, A. D., Savi, A. O., Visser, I., & van der Maas, H. L. J. (in press).
+ Self-adapting the success rate when practicing math.
+ <em>Learning and Individual Differences.</em>
 </p>
 
 ## 2015
