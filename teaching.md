@@ -8,7 +8,7 @@ title: Teaching
 Introductory course on frequentist statistics&#151;in collaboration with [Abe Hofman](https://www.researchgate.net/profile/Abe_Hofman), [Han van der Maas](http://hvandermaas.socsci.uva.nl/Homepage_Han_van_der_Maas/Home.html).
 
 #### Current
-* [Access course](https://blackboard.uva.nl/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_206922_1&handle=cp_announcements&mode=cpview#)
+[Access course](https://blackboard.uva.nl/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_206922_1&handle=cp_announcements&mode=cpview#)
 
 #### Archived
 * 15/16&#151;[Access course](https://blackboard.uva.nl/webapps/portal/frameset.jsp?tab_tab_group_id=_2_1&url=%2Fwebapps%2Fblackboard%2Fexecute%2Flauncher%3Ftype%3DCourse%26id%3D_189484_1%26url%3D)
