@@ -3,7 +3,9 @@ layout: page
 title: Publications
 ---
 
-## Submitted or under revision
+## Preprint
+
+#### Submitted or under revision
 <p style="margin-left: .3in; text-indent: -.3in;">
  Brinkhuis, M. J. S., Savi, A. O., Coomans, F., Hofman, A. D., van der Maas, H. L. J., & Maris, G. (2015).
  <em>Learning as it happens: Advances in computerized adaptive practice.</em>
@@ -16,11 +18,15 @@ title: Publications
  Manuscript submitted for publication. [<a href="https://www.dropbox.com/s/i9tn0y1q1jyp1uq/ABTestingOnlineLearning_Preprint.pdf?dl=0">preprint</a>]
 </p>
 
-## In press
+<!---
+#### In press
+-->
+
+## 2016
 <p style="margin-left: .3in; text-indent: -.3in;">
- Jansen, B. R. J., Hofman, A. D., Savi, A. O., Visser, I., & van der Maas, H. L. J. (in press).
+ Jansen, B. R. J., Hofman, A. D., Savi, A. O., Visser, I., & van der Maas, H. L. J. (2016).
  Self-adapting the success rate when practicing math.
- <em>Learning and Individual Differences.</em>
+ <em>Learning and Individual Differences, 51</em>, 1-10. doi:10.1016/j.lindif.2016.08.027 [<a href="http://dx.doi.org/10.1016/j.lindif.2016.08.027">full text</a>]
 </p>
 
 ## 2015
