@@ -3,6 +3,12 @@ layout: page
 title: Teaching
 ---
 
+<p class="message">
+<small>
+Anything to share with regard to my teaching? Tell me in person or use the (anonymous) <a href="https://docs.google.com/forms/d/e/1FAIpQLSfm1D8cx7JFgaGEBuo3I77qX52TXWkwmuHdcT7F0IxqI9aEhg/viewform">feedback form</a>.
+</small>
+</p>
+
 ## Statistics
 
 Introductory course on frequentist statistics&#151;in collaboration with [Abe Hofman](https://www.researchgate.net/profile/Abe_Hofman), [Han van der Maas](http://hvandermaas.socsci.uva.nl/Homepage_Han_van_der_Maas/Home.html).
