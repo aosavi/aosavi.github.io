@@ -11,7 +11,7 @@ Anything to share with regard to my teaching? Tell me in person or use the (anon
 
 ## Statistics
 
-Introductory course on frequentist statistics&#151;in collaboration with [Abe Hofman](https://www.researchgate.net/profile/Abe_Hofman), [Han van der Maas](http://hvandermaas.socsci.uva.nl/Homepage_Han_van_der_Maas/Home.html).
+Introductory course on frequentist statistics&#151;in collaboration with [Abe Hofman](http://www.abehofman.com/), [Han van der Maas](http://hvandermaas.socsci.uva.nl/Homepage_Han_van_der_Maas/Home.html).
 
 #### Current
 * [Course syllabus](https://dl.dropboxusercontent.com/u/4505928/PML%20Statistiek/2016_PML_Statistiek_Syllabus.pdf)
