@@ -14,7 +14,11 @@ Anything to share with regard to my teaching? Tell me in person or use the (anon
 Introductory course on frequentist statistics&#151;in collaboration with [Abe Hofman](https://www.researchgate.net/profile/Abe_Hofman), [Han van der Maas](http://hvandermaas.socsci.uva.nl/Homepage_Han_van_der_Maas/Home.html).
 
 #### Current
-[Access course](https://blackboard.uva.nl/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_206922_1&handle=cp_announcements&mode=cpview#)
+* [Course syllabus](https://dl.dropboxusercontent.com/u/4505928/PML%20Statistiek/2016_PML_Statistiek_Syllabus.pdf)
+* Lecture 1: probability ([lecture](https://dl.dropboxusercontent.com/u/4505928/PML%20Statistiek/2016_PML_Statistiek_College_1.html), [assignment](https://dl.dropboxusercontent.com/u/4505928/PML%20Statistiek/2016_PML_Statistiek_Opdracht_1.pdf), [code](https://dl.dropboxusercontent.com/u/4505928/PML%20Statistiek/2016_PML_Statistiek_Opdracht_1.Rdata))
+* Lecture 2: hypothesis testing (lecture, assignment)
+* Lecture 3: p-values and power (lecture, assignment)
+* Lecture 4: regression (lecture, assignment)
 
 #### Archived
 * 15/16&#151;[Access course](https://blackboard.uva.nl/webapps/portal/frameset.jsp?tab_tab_group_id=_2_1&url=%2Fwebapps%2Fblackboard%2Fexecute%2Flauncher%3Ftype%3DCourse%26id%3D_189484_1%26url%3D)
