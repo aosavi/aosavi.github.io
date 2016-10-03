@@ -3,18 +3,20 @@ layout: page
 title: Publications
 ---
 
+Some publications are highlighted: <font color="#CC79A7">A/B tests in online learning</font>, <font color="#009E73">computerized adaptive practice</font>.
+
 ## Preprint
 
 #### Submitted or under revision
 <p style="margin-left: .3in; text-indent: -.3in;">
  Brinkhuis, M. J. S., Savi, A. O., Coomans, F., Hofman, A. D., van der Maas, H. L. J., & Maris, G. (2015).
- <em>Learning as it happens: Advances in computerized adaptive practice.</em>
+ <font color="#009E73"><em>Learning as it happens: Advances in computerized adaptive practice.</em></font>
  Manuscript submitted for publication. [<a href="https://www.dropbox.com/s/7vlkjudfkelj3l5/LearningAsItHappens_Preprint.pdf?dl=0">preprint</a>]
 </p>
 
 <p style="margin-left: 0.3in; text-indent: -0.3in;">
  Savi, A. O., Williams, J. J., Maris, G. K. J., & van der Maas, H. L. J. (2015).
- <em>The role of A/B tests in the study of large-scale online learning.</em>
+ <font color="#CC79A7"><em>The role of A/B tests in the study of large-scale online learning.</em></font>
  Manuscript submitted for publication. [<a href="https://www.dropbox.com/s/i9tn0y1q1jyp1uq/ABTestingOnlineLearning_Preprint.pdf?dl=0">preprint</a>]
 </p>
 
@@ -25,8 +27,8 @@ title: Publications
 ## 2016
 <p style="margin-left: .3in; text-indent: -.3in;">
  Jansen, B. R. J., Hofman, A. D., Savi, A. O., Visser, I., & van der Maas, H. L. J. (2016).
- Self-adapting the success rate when practicing math.
- <em>Learning and Individual Differences, 51</em>, 1-10. doi:10.1016/j.lindif.2016.08.027 [<a href="http://dx.doi.org/10.1016/j.lindif.2016.08.027">full text</a>]
+ <font color="#009E73">Self-adapting the success rate when practicing math.</font>
+ <em>Learning and Individual Differences, 51</em>, 1-10. doi:10.1016/j.lindif.2016.08.027 [<a href="http://dx.doi.org/10.1016/j.lindif.2016.08.027">full text</a>, <a href="/assets/bibliography.bib">bibtex</a>]
 </p>
 
 ## 2015
@@ -38,7 +40,7 @@ title: Publications
 
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O., van der Maas, H. L. J., & Maris, G. K. J. (2015).
- Navigating massive open online courses.
+ <font color="#CC79A7">Navigating massive open online courses.</font>
  <em>Science, 347</em>, 958. doi:10.1126/science.347.6225.958 [<a href="http://www.sciencemag.org/cgi/content/full/347/6225/958?ijkey=Cvwc9s8Vmj7jM&amp;keytype=ref&amp;siteid=sci">full text</a>, <a href="http://www.sciencemag.org/cgi/rapidpdf/347/6225/958?ijkey=Cvwc9s8Vmj7jM&amp;keytype=ref&amp;siteid=sci">reprint</a>, <a href="/assets/bibliography.bib">bibtex</a>]
 </p>
 
