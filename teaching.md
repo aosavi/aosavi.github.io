@@ -17,7 +17,7 @@ Introductory course on frequentist statistics&#151;in collaboration with [Abe Ho
 * [Course syllabus](https://dl.dropboxusercontent.com/u/4505928/PML%20Statistiek/2016_PML_Statistiek_Syllabus.pdf)
 * Lecture 1: probability ([lecture](https://dl.dropboxusercontent.com/u/4505928/PML%20Statistiek/2016_PML_Statistiek_College_1.html), [assignment](https://dl.dropboxusercontent.com/u/4505928/PML%20Statistiek/2016_PML_Statistiek_Opdracht_1.pdf), [data](https://dl.dropboxusercontent.com/u/4505928/PML%20Statistiek/2016_PML_Statistiek_Opdracht_1.Rdata))
 * Lecture 2: hypothesis testing ([lecture](https://dl.dropboxusercontent.com/u/4505928/PML%20Statistiek/2016_PML_Statistiek_College_2.html), [assignment](https://dl.dropboxusercontent.com/u/4505928/PML%20Statistiek/2016_PML_Statistiek_Opdracht_2.pdf), [quiz instructions](https://dl.dropboxusercontent.com/u/4505928/PML%20Statistiek/2016_PML_Statistiek_Quiz.html))
-* Lecture 3: p-values and power (lecture, assignment)
+* Lecture 3: p-values and power ([lecture](https://dl.dropboxusercontent.com/u/4505928/PML%20Statistiek/2016_PML_Statistiek_College_3.html), [assignment](https://dl.dropboxusercontent.com/u/4505928/PML%20Statistiek/2016_PML_Statistiek_Opdracht_3.pdf))
 * Lecture 4: regression (lecture, assignment)
 
 #### Archived
