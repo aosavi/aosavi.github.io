@@ -18,7 +18,7 @@ Introductory course on frequentist statistics&#151;in collaboration with [Abe Ho
 * Lecture 1: probability ([lecture](https://dl.dropboxusercontent.com/u/4505928/PML%20Statistiek/2016_PML_Statistiek_College_1.html), [assignment](https://dl.dropboxusercontent.com/u/4505928/PML%20Statistiek/2016_PML_Statistiek_Opdracht_1.pdf), [data](https://dl.dropboxusercontent.com/u/4505928/PML%20Statistiek/2016_PML_Statistiek_Opdracht_1.Rdata))
 * Lecture 2: hypothesis testing ([lecture](https://dl.dropboxusercontent.com/u/4505928/PML%20Statistiek/2016_PML_Statistiek_College_2.html), [assignment](https://dl.dropboxusercontent.com/u/4505928/PML%20Statistiek/2016_PML_Statistiek_Opdracht_2.pdf), [quiz instructions](https://dl.dropboxusercontent.com/u/4505928/PML%20Statistiek/2016_PML_Statistiek_Quiz.html))
 * Lecture 3: p-values and power ([lecture](https://dl.dropboxusercontent.com/u/4505928/PML%20Statistiek/2016_PML_Statistiek_College_3.html), [assignment](https://dl.dropboxusercontent.com/u/4505928/PML%20Statistiek/2016_PML_Statistiek_Opdracht_3.pdf))
-* Lecture 4: regression (lecture, assignment)
+* Lecture 4: regression ([lecture](https://dl.dropboxusercontent.com/u/4505928/PML%20Statistiek/2016_PML_Statistiek_College_4.html), [assignment](https://dl.dropboxusercontent.com/u/4505928/PML%20Statistiek/2016_PML_Statistiek_Opdracht_4.html), [answer template](https://dl.dropboxusercontent.com/u/4505928/PML%20Statistiek/2016_PML_Statistiek_Opdracht_4_Antwoordvel.Rmd) (knit to html before you submit))
 
 #### Archived
 * 15/16&#151;[Access course](https://blackboard.uva.nl/webapps/portal/frameset.jsp?tab_tab_group_id=_2_1&url=%2Fwebapps%2Fblackboard%2Fexecute%2Flauncher%3Ftype%3DCourse%26id%3D_189484_1%26url%3D)
