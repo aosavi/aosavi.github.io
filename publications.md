@@ -3,9 +3,14 @@ layout: page
 title: Publications
 ---
 
-Some publications are highlighted: <font color="#CC79A7">A/B tests in online learning</font>, <font color="#009E73">computerized adaptive practice</font>.
+Keywords: <font color="#CC79A7">A/B tests in online learning</font>, <font color="#009E73">computerized adaptive practice</font>.
 
 ## Preprint
+
+<!---
+#### In press
+[<a href="">preprint</a>]
+-->
 
 #### Submitted or under revision
 <p style="margin-left: .3in; text-indent: -.3in;">
@@ -14,15 +19,12 @@ Some publications are highlighted: <font color="#CC79A7">A/B tests in online lea
  Manuscript submitted for publication. [<a href="https://www.dropbox.com/s/7vlkjudfkelj3l5/LearningAsItHappens_Preprint.pdf?dl=0">preprint</a>]
 </p>
 
+#### In preparation
 <p style="margin-left: 0.3in; text-indent: -0.3in;">
- Savi, A. O., Williams, J. J., Maris, G. K. J., & van der Maas, H. L. J. (2015).
+ Savi, A. O., Ruijs, N. M., Maris, G. K. J., & van der Maas, H. L. J. (2015).
  <font color="#CC79A7"><em>The role of A/B tests in the study of large-scale online learning.</em></font>
- Manuscript submitted for publication. [<a href="https://www.dropbox.com/s/i9tn0y1q1jyp1uq/ABTestingOnlineLearning_Preprint.pdf?dl=0">preprint</a>]
+ Manuscript in preparation. [preprint available soon]
 </p>
-
-<!---
-#### In press
--->
 
 ## 2016
 <p style="margin-left: .3in; text-indent: -.3in;">
