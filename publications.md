@@ -9,21 +9,29 @@ Keywords: <font color="#CC79A7">A/B tests in online learning</font>, <font color
 
 <!---
 #### In press
-[<a href="">preprint</a>]
--->
 
 #### Submitted or under revision
+
+e.g.,
+
 <p style="margin-left: .3in; text-indent: -.3in;">
  Brinkhuis, M. J. S., Savi, A. O., Coomans, F., Hofman, A. D., van der Maas, H. L. J., & Maris, G. (2015).
  <font color="#009E73"><em>Learning as it happens: Advances in computerized adaptive practice.</em></font>
  Manuscript submitted for publication. [<a href="https://www.dropbox.com/s/7vlkjudfkelj3l5/LearningAsItHappens_Preprint.pdf?dl=0">preprint</a>]
 </p>
+-->
 
 #### In preparation
-<p style="margin-left: 0.3in; text-indent: -0.3in;">
- Savi, A. O., Ruijs, N. M., Maris, G. K. J., & van der Maas, H. L. J. (2015).
+<p style="margin-left: .3in; text-indent: -.3in;">
+ Savi, A. O., Ruijs, N. M., Maris, G. K. J., & van der Maas, H. L. J. (2016).
  <font color="#CC79A7"><em>The role of A/B tests in the study of large-scale online learning.</em></font>
  Manuscript in preparation. [preprint available soon]
+</p>
+
+<p style="margin-left: .3in; text-indent: -.3in;">
+ Brinkhuis, M. J. S., Savi, A. O., Coomans, F., Hofman, A. D., van der Maas, H. L. J., & Maris, G. (2015).
+ <font color="#009E73"><em>Learning as it happens: Advances in computerized adaptive practice.</em></font>
+ Manuscript in preparation. [<a href="https://www.dropbox.com/s/7vlkjudfkelj3l5/LearningAsItHappens_Preprint.pdf?dl=0">preprint</a>]
 </p>
 
 ## 2016
