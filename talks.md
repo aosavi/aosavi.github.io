@@ -3,7 +3,7 @@ layout: page
 title: Talks
 ---
 
-2016-11-30 <font color="#999999">FI</font> EARLI SIG 27 Online Measures of Learning Processes - The role of A/B tests in the study of online learning
+2016-11-30 <font color="#999999">FI</font> EARLI SIG 27 Online Measures of Learning Processes - <a href="/assets/talks/2016_EARLISIG27.html">The role of A/B tests in the study of online learning</a>
 
 2016-11-09 <font color="#999999">NL</font> Dé Onderwijsdagen - <a href="/assets/talks/2016_Talk_Onderwijsdagen.html">Wat leren we van online adaptieve leersystemen?</a>
 
