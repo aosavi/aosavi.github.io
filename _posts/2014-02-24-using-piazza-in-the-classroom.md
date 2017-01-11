@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tips on Using the Q&A Platform Piazza in the Classroom
+title: Tips on Using the Q\&A Platform Piazza in the Classroom
 comments: true
 ---
 
