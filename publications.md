@@ -36,7 +36,7 @@ Keywords: <font color="#CC79A7">A/B tests in online learning</font>, <font color
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O., Ruijs, N. M., Maris, G. K. J., & van der Maas, H. L. J. (2017).
  <font color="#CC79A7"><em>Online learning solves sturdy problems in education experiments.</em></font>
- Manuscript submitted for publication. [preprint available soon]
+ Manuscript submitted for publication. [<a href="https://osf.io/preprints/socarxiv/m6jqe">preprint</a>]
 </p>
 
 #### In preparation
