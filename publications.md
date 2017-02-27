@@ -39,18 +39,18 @@ Keywords: <font color="#CC79A7">A/B tests in online learning</font>, <font color
  Manuscript submitted for publication. [<a href="https://osf.io/preprints/socarxiv/m6jqe">preprint</a>]
 </p>
 
-#### In preparation
-
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O. (2017).
- <font color="#CC79A7"><em>Enabling MOOC teachers to make evidence-based course improvements.</em></font>
- Manuscript in preparation. [preprint available soon]
+ <font color="#CC79A7"><em>A tool for MOOC teachers to make evidence-based and domain-specific course improvements.</em></font>
+ Manuscript submitted for publication. [<a href="https://osf.io/q53jx/">preprint</a>]
 </p>
+
+#### In preparation
 
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O., Williams, J. J., Maris, G. K. J., & van der Maas, H. L. J. (2016).
  <font color="#CC79A7"><em>The role of A/B tests in the study of large-scale online learning.</em></font>
- Manuscript in preparation. [preprint available soon]
+ Manuscript in preparation. [<a href="https://osf.io/83jsg/">preprint</a>]
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
