@@ -29,7 +29,7 @@ A conceptual and practical introductory course on frequentist statistics in R&#1
 Honours Bachelor course on state-of-the-art research methods with applications in Psychology. Several guest lecturers contribute to the course and topics include machine learning in cognitive psychology, network models for psychopathology, A/B testing in online learning, and N=1 timeseries in clinical psychology&#151;in collaboration with [Max van der Linden](https://www.uva.nl/en/contact/staff/item/m.a.vanderlinden.html?f=linden), [Jolanda Kossakowski](http://www.jolandakossakowski.eu/), [Joost Zandvliet](https://www.uva.nl/en/contact/staff/item/j.a.agelinkvanrentergemzandvliet.html), Vera van der Molen.
 
 #### Current
-* 10/3. Introduction
+* 10/3. <a href="/assets/talks/2017_Lecture_IntroductionMM.html">Introduction to Modern Measurement</a>
 * 17/3. Guest lecture 1: Marie Deserno
 * 24/3. Guest lecture 2: Marija Maric
 * 31/3. Guest lecture 3: Alexander Savi
