@@ -9,7 +9,7 @@ permalink:        /blog/:title/
 # Setup
 title:            Alexander Savi
 tagline:          ''
-description:      'PhD candidate at <a href="http://psyres.uva.nl/research/content/programme-group-psychological-methods/programme-group-psychological-methods.html" target="_blank">UvA Psychological Methods</a>, studying (online) learning and psychometrics.'
+description:      'Psychological methods, learning & education, adaptive practice, cognitive development, a/b testing.'
 url:              https://aosavi.github.io
 baseurl:          /
 baseurlknitr:     /
@@ -22,6 +22,8 @@ author:
 paginate:         25
 paginate_path:    "blog/page:num/"
 blog_path:        "blog/"
+
+future:           true
 
 # Custom vars
 version:          0.1.2
