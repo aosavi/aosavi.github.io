@@ -25,9 +25,9 @@ Open the learning environment that you use for your course (if you don't have on
 
 In your learning environment, create an 'LTI item' (terms may very across environments). Make sure to copy the launch URL, consumer key, and consumer secret from the image below. The image shows how the configuration is done in Coursera.
 
-For demonstration purposes it is not necessary to share your learner ID. Of course, when using the LTI bridge in your own course you do want to share the learner ID, as it will enable you to identify your students' responses in Qualtrics.
-
 ![LTI Configuration](/assets/lti_demonstration.png)
+
+For demonstration purposes it is not necessary to share your learner ID. Of course, when using the LTI bridge in your own course you do want to share the learner ID, as it will enable you to identify your students' responses in Qualtrics.
 
 ## 3. Run the demonstration
 
