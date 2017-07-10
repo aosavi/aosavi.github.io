@@ -21,15 +21,13 @@ Qualtrics survey software will enable you to create enhanced questionnaires and 
 * Detailed [instructions](https://github.com/renspoesse/qualtrics_lti_bridge) on setting up the bridge.
 * The [paper](https://osf.io/q53jx/) about the bridge.
 
-## 2. Returning grades
+## 2. Grading
 
 Now that you've got the bridge in place, it's time to make sure grades can be sent from Qualtrics to your MOOC.  You have two options. Either you assign a fixed grade, for instance to simply see whether a student finished a quiz or questionnaire, or you assign a variable grade, for instance to reflect the proportion correct answers.
 
 ### Fixed grades
 
 You might just want to know whether a student finished the quiz or questionnaire, without the need to assign a variable grade. You can do this by following the instructions on [setting up the tool provider](https://github.com/renspoesse/qualtrics_lti_bridge/#setting-up-the-tool-provider-qualtrics). By setting `custom_grade=1`, Qualtrics will return a `1` (or 100%) whenever a student finishes the questionnaire or quiz. You can set this value to any value in the range of `0.00` to `1.00` (which corresponds to 0% to 100% correct).
-
-Of course, you'll want your MOOC to collect this grade. You can do this by following the instructions on [setting up the tool consumer](https://github.com/renspoesse/qualtrics_lti_bridge/#setting-up-the-tool-consumer-coursera). That is, simply make sure you enable grading callbacks when setting up the LTI item in your MOOC, and optionally, set the return URL.
 
 ### Variable grades
 
@@ -65,6 +63,8 @@ The piped text carries the variable grade and is used by the Qualtrics LTI tool 
 1. If you've set up the Qualtrics bridge correctly, this redirect URL has the value of `1` attached to the `custom_grade` parameter (see instructions on [setting up the tool provider](https://github.com/renspoesse/qualtrics_lti_bridge/#setting-up-the-tool-provider-qualtrics)).
 1. Replace the `1` with the piped text, which will most likely result in `[URL]&custom_grade=${e://Field/custom_grade}`.
 
-To make sure that your MOOC actually collects the grade, follow instructions on [setting up the tool consumer](https://github.com/renspoesse/qualtrics_lti_bridge/#setting-up-the-tool-consumer-coursera). That is, simply make sure you enable grading callbacks when setting up the LTI item in your MOOC.
+## 3. Returning grades
+
+Of course, you'll want your MOOC to collect this grade. You can do this by following the instructions on [setting up the tool consumer](https://github.com/renspoesse/qualtrics_lti_bridge/#setting-up-the-tool-consumer-coursera). That is, simply make sure you enable grading callbacks when setting up the LTI item in your MOOC, and optionally, set the return URL.
 
 Happy grading!
