@@ -41,22 +41,20 @@ Keywords: <font color="#CC79A7">A/B tests in online learning</font>, <font color
 
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O. (2017).
- <font color="#CC79A7"><em>A tool for MOOC teachers to make evidence-based and domain-specific course improvements.</em></font>
+ <font color="#CC79A7"><em>A tool to support MOOC teachers with questionnaires, adaptive Lessons, and experimental comparisons.</em></font>
  Manuscript submitted for publication. [<a href="https://osf.io/q53jx/">preprint</a>]
 </p>
-
-#### In preparation
 
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O., Williams, J. J., Maris, G. K. J., & van der Maas, H. L. J. (2016).
  <font color="#CC79A7"><em>The role of A/B tests in the study of large-scale online learning.</em></font>
- Manuscript in preparation. [<a href="https://osf.io/83jsg/">preprint</a>]
+ Manuscript submitted for publication. [<a href="https://osf.io/83jsg/">preprint</a>]
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
  Brinkhuis, M. J. S., Savi, A. O., Coomans, F., Hofman, A. D., van der Maas, H. L. J., & Maris, G. (2015).
  <font color="#009E73"><em>Learning as it happens: Advances in computerized adaptive practice.</em></font>
- Manuscript in preparation. [<a href="https://www.dropbox.com/s/7vlkjudfkelj3l5/LearningAsItHappens_Preprint.pdf?dl=0">preprint</a>]
+ Manuscript submitted for publication.
 </p>
 
 ## 2016
