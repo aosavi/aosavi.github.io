@@ -17,7 +17,7 @@ You are teaching a MOOC or using a more traditional virtual learning environment
 
 Qualtrics survey software will enable you to create enhanced questionnaires and quizzes. In order to return the grade from a Qualtrics quiz to the MOOC or VLE of your choice, you'll first need to make sure to setup the Qualtrics LTI bridge. The following resources will introduce you to the tool and help you set it up:
 
-* A [demonstration](/blog/qualtrics-lti-demonstration/) of the bridge.
+* A [demonstration](/blog/qualtrics-lti-demonstration/) of the bridge, without grade returns. Settings for a demonstration with grade returns are provided below.
 * Detailed [instructions](https://github.com/renspoesse/qualtrics_lti_bridge) on setting up the bridge.
 * The [paper](https://osf.io/q53jx/) about the bridge.
 
@@ -66,5 +66,11 @@ The piped text carries the variable grade and is used by the Qualtrics LTI tool 
 ## 3. Returning grades
 
 Of course, you'll want your MOOC to collect this grade. You can do this by following the instructions on [setting up the tool consumer](https://github.com/renspoesse/qualtrics_lti_bridge/#setting-up-the-tool-consumer-coursera). That is, simply make sure you enable grading callbacks when setting up the LTI item in your MOOC, and optionally, set the return URL.
+
+## 4. A demonstration
+
+Use the instructions from the [demonstration post](/blog/qualtrics-lti-demonstration/) and the settings from the image below.
+
+![LTI Configuration](/assets/lti_grading.png)
 
 Happy grading!
