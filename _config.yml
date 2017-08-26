@@ -11,7 +11,7 @@ title:            Alexander Savi
 tagline:          ''
 description:      'Psychological methods, learning & education, adaptive practice, cognitive development, a/b testing.'
 url:              https://aosavi.github.io
-baseurl:          /
+baseurl:          
 baseurlknitr:     /
 
 author:
