@@ -250,3 +250,12 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+/* Color blind dark blue */
+.theme-base-cb-db .sidebar {
+  background-color: #0072B2;
+}
+.theme-base-cb-db .content a,
+.theme-base-cb-db .related-posts li a:hover {
+  color: #56B4E9;
+}
