@@ -14,11 +14,14 @@ Anything to share with regard to my teaching? Tell me in person or use the (anon
 A conceptual and practical introductory course on frequentist statistics in R&#151;in collaboration with [Abe Hofman](http://www.abehofman.com/), [Han van der Maas](http://hvandermaas.socsci.uva.nl/Homepage_Han_van_der_Maas/Home.html).
 
 #### Present
-* Course syllabus
-* Lecture 1: probability (lecture, assignment, data, answer sheet (knit to html before you submit))
-* Lecture 2: hypothesis testing (lecture, assignment, answer sheet)
-* Lecture 3: p-values and power (lecture, assignment, answer sheet)
-* Lecture 4: regression (lecture, assignment, answer sheet)
+* [Course syllabus](https://www.dropbox.com/s/aonn0whord2v0p2/PML_Statistics_Syllabus.pdf?dl=0)
+* 8/9. Teaser talk
+* 2/10. Lecture 1: probability (lecture, assignment, data, answer sheet (knit to html before you submit))
+* 4/10. Lecture 2: hypothesis testing (lecture, assignment, answer sheet)
+* 6/10. Lecture 3: p-values and power (lecture, assignment, answer sheet)
+* 9/10. Lecture 4: regression (lecture, assignment, answer sheet)
+* 11/10. Question time
+* 16/10. Exam
 
 #### Past
 * 2016-17&#151;[Archived course](https://blackboard.uva.nl/webapps/blackboard/content/listContentEditable.jsp?content_id=_6184442_1&course_id=_206922_1&mode=reset)
