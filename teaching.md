@@ -15,7 +15,7 @@ A conceptual and practical introductory course on frequentist statistics in R&#1
 
 #### Present
 * [Course syllabus](https://www.dropbox.com/s/aonn0whord2v0p2/PML_Statistics_Syllabus.pdf?dl=0)
-* 8/9. Teaser talk
+* 8/9. [Teaser talk](https://www.dropbox.com/s/0allz5l0271uaf9/PML_Statistics_Teasertalk.html?dl=0)
 * 2/10. Lecture 1: probability (lecture, assignment, data, answer sheet (knit to html before you submit))
 * 4/10. Lecture 2: hypothesis testing (lecture, assignment, answer sheet)
 * 6/10. Lecture 3: p-values and power (lecture, assignment, answer sheet)
