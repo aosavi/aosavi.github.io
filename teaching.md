@@ -15,7 +15,7 @@ A conceptual and practical introductory course on frequentist statistics in R&#1
 
 #### Present
 * [Course syllabus](https://www.dropbox.com/s/aonn0whord2v0p2/PML_Statistics_Syllabus.pdf?dl=0)
-* 8/9. [Teaser talk](https://www.dropbox.com/s/0allz5l0271uaf9/PML_Statistics_Teasertalk.html?dl=0)
+* 8/9. <a href="/assets/lectures/2017_PML_Statistics_Teasertalk.html">Teaser talk</a>
 * 2/10. Lecture 1: probability (lecture, assignment, data, answer sheet (knit to html before you submit))
 * 4/10. Lecture 2: hypothesis testing (lecture, assignment, answer sheet)
 * 6/10. Lecture 3: p-values and power (lecture, assignment, answer sheet)
@@ -33,5 +33,5 @@ A conceptual and practical introductory course on frequentist statistics in R&#1
 Honours Bachelor course on state-of-the-art research methods with applications in Psychology. Several guest lecturers contribute to the course and topics include machine learning in cognitive psychology, network models for psychopathology, A/B testing in online learning, and N=1 timeseries in clinical psychology&#151;in collaboration with [Max van der Linden](https://www.uva.nl/en/contact/staff/item/m.a.vanderlinden.html?f=linden), [Jolanda Kossakowski](http://www.jolandakossakowski.eu/), [Joost Zandvliet](https://www.uva.nl/en/contact/staff/item/j.a.agelinkvanrentergemzandvliet.html), Vera van der Molen.
 
 #### Past
-* 2016-17&#151;<a href="/assets/talks/2017_Lecture_MM_Introduction/lecture.html">Introduction</a>. Lecturers: Marie Deserno, Marija Maric, <a href="/assets/talks/2017_Lecture_MM_ABTesting/lecture.html">Alexander Savi</a>, Gilles de Hollander.
+* 2016-17&#151;<a href="/assets/lectures/2017_Lecture_MM_Introduction/lecture.html">Introduction</a>. Lecturers: Marie Deserno, Marija Maric, <a href="/assets/lectures/2017_Lecture_MM_ABTesting/lecture.html">Alexander Savi</a>, Gilles de Hollander.
 * 2015-16&#151;[Research project instructions (CC-BY)](https://www.oercommons.org/courses/quantify-thyself). Lecturers: Denny Borsboom, Gilles de Hollander, Max van der Linden, Marija Maric, Alexander Savi.
