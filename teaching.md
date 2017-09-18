@@ -9,18 +9,18 @@ Anything to share with regard to my teaching? Tell me in person or use the (anon
 </small>
 </p>
 
-## Statistics
+## Basic Skills in Statistics
 
 A conceptual and practical introductory course on frequentist statistics in R&#151;in collaboration with [Abe Hofman](http://www.abehofman.com/), [Han van der Maas](http://hvandermaas.socsci.uva.nl/Homepage_Han_van_der_Maas/Home.html).
 
 #### Present
 * [Course syllabus](https://www.dropbox.com/s/aonn0whord2v0p2/PML_Statistics_Syllabus.pdf?dl=0)
-* [Statquiz submission form](https://goo.gl/forms/rFDgmENRFWiHas1l1)
+* [Pub quiz submission form](https://goo.gl/forms/rFDgmENRFWiHas1l1)
 * 8/9. <a href="/assets/lectures/2017_PML_Statistics_Teasertalk.html">Teaser talk</a>
-* 2/10. Lecture 1: probability (lecture, assignment, data, answer sheet (knit to html before you submit))
-* 4/10. Lecture 2: hypothesis testing (lecture, assignment, answer sheet)
-* 6/10. Lecture 3: p-values and power (lecture, assignment, answer sheet)
-* 9/10. Lecture 4: regression (lecture, assignment, answer sheet)
+* 2/10. Lecture 1: probability (lecture sheets, assignment, data)
+* 4/10. Lecture 2: hypothesis testing (lecture sheets, assignment)
+* 6/10. Lecture 3: p-values and power (lecture sheets, assignment)
+* 9/10. Lecture 4: regression (lecture sheets, assignment, answer sheet (knit to html before you submit))
 * 11/10. Question time
 * 16/10. Exam
 
