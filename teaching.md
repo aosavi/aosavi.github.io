@@ -17,10 +17,10 @@ A conceptual and practical introductory course on frequentist statistics in R&#1
 * [Course syllabus](https://www.dropbox.com/s/aonn0whord2v0p2/PML_Statistics_Syllabus.pdf?dl=0)
 * [Pub quiz submission form](https://goo.gl/forms/rFDgmENRFWiHas1l1)
 * 8/9. <a href="/assets/lectures/2017_PML_Statistics_Teasertalk.html">Teaser talk</a>
-* 2/10. Lecture 1: probability (lecture sheets, assignment, data)
-* 4/10. Lecture 2: hypothesis testing (lecture sheets, assignment)
-* 6/10. Lecture 3: p-values and power (lecture sheets, assignment)
-* 9/10. Lecture 4: regression (lecture sheets, assignment, answer sheet (knit to html before you submit))
+* 2/10. Lecture 1: probability (<a href="/assets/lectures/2017_PML_Statistics_Lecture_1.html">lecture slides</a>, assignment, data)
+* 4/10. Lecture 2: inference (lecture slides, assignment)
+* 6/10. Lecture 3: validity (lecture slides, assignment)
+* 9/10. Lecture 4: regression (lecture slides, assignment, answer sheet (knit to html before you submit))
 * 11/10. Question time
 * 16/10. Exam
 
