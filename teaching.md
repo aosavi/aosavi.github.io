@@ -18,7 +18,7 @@ A conceptual and practical introductory course on frequentist statistics in R&#1
 * [Pub quiz submission form](https://goo.gl/forms/rFDgmENRFWiHas1l1)
 * 8/9. <a href="/assets/lectures/2017_PML_Statistics_Teasertalk.html">Teaser talk</a>
 * 2/10. Lecture 1: probability (<a href="/assets/lectures/2017_PML_Statistics_Lecture_1.html">lecture slides</a>, [assignment](https://www.dropbox.com/s/myckkdk8dg1u0qo/2017_PML_Statistics_Assignment_1.pdf?dl=0), [data](https://www.dropbox.com/s/o7rxutxdhu5z24w/assignment1.Rdata?dl=0))
-* 4/10. Lecture 2: inference (lecture slides, assignment)
+* 4/10. Lecture 2: inference (<a href="/assets/lectures/2017_PML_Statistics_Lecture_2.html">lecture slides</a>, [assignment](https://www.dropbox.com/s/tgtf5nsqcsaaych/2017_PML_Statistics_Assignment_2.pdf?dl=0))
 * 6/10. Lecture 3: validity (lecture slides, assignment)
 * 9/10. Lecture 4: regression (lecture slides, assignment, answer sheet (knit to html before you submit))
 * 11/10. Question time
