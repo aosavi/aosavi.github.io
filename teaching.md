@@ -21,7 +21,7 @@ A conceptual and practical introductory course on frequentist statistics in R&#1
 * 2/10. <a href="/assets/lectures/2017_PML_Statistics_Lecture_1.html">Probability lecture</a>, [assignment](https://www.dropbox.com/s/myckkdk8dg1u0qo/2017_PML_Statistics_Assignment_1.pdf?dl=0), [data](https://www.dropbox.com/s/o7rxutxdhu5z24w/assignment1.Rdata?dl=0)
 * 4/10. <a href="/assets/lectures/2017_PML_Statistics_Lecture_2.html">Inference lecture</a>, [assignment](https://www.dropbox.com/s/tgtf5nsqcsaaych/2017_PML_Statistics_Assignment_2.pdf?dl=0)
 * 6/10. <a href="/assets/lectures/2017_PML_Statistics_Lecture_3.html">Validity lecture</a>, [assignment](https://www.dropbox.com/s/r45qf8cwxoal2kd/2017_PML_Statistics_Assignment_3.pdf?dl=0)
-* 9/10. <a href="/assets/lectures/2017_PML_Statistics_Lecture_4.html">Regression lecture</a>, <a href="/assets/lectures/2017_PML_Statistics_Assignment_4.html">assignment</a>
+* 9/10. <a href="/assets/lectures/2017_PML_Statistics_Lecture_4.html">Regression lecture</a>, [assignment](https://www.dropbox.com/s/ybidnql4ncbd3gr/2017_PML_Statistics_Assignment_4.Rmd?dl=0)
 * 11/10. Question time
 * 16/10. Exam
 
