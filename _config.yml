@@ -28,5 +28,4 @@ future:           true
 # Custom vars
 version:          0.1.2
 
-github:
-  repo:           https://github.com/aosavi/aosavi.github.io
+github:           [metadata]
