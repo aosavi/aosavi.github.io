@@ -40,15 +40,20 @@ Keywords: <font color="#CC79A7">A/B tests in online learning</font>, <font color
 -->
 
 <p style="margin-left: .3in; text-indent: -.3in;">
- Savi, A. O. (2017, July 13).
- <font color="#CC79A7">A tool to support MOOC teachers with questionnaires, adaptive lessons, and experimental comparisons.</font>
- doi:<a href="http://dx.doi.org/10.17605/OSF.IO/Q53JX">10.17605/OSF.IO/Q53JX</a>
+ Brinkhuis, M. J. S., Savi, A. O., Coomans, F., Hofman, A. D., van der Maas, H. L. J., & Maris, G. (2017).
+ <font color="#009E73">Learning as it happens: A decade of analyzing and shaping a large-scale online learning system.</font>
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
- Savi, A. O., Ruijs, N. M., Maris, G. K. J., & van der Maas, H. L. J. (2017, February 27).
- <font color="#CC79A7">Online learning solves sturdy problems in education experiments.</font>
+ Savi, A. O., Ruijs, N. M., Maris, G. K. J., & van der Maas, H. L. J. (2017, November 3).
+ <font color="#CC79A7">Delaying access to a problem-skipping option increases effortful practice: Application of an A/B test in large-scale online learning.</font>
  doi:<a href="https://dx.doi.org/10.17605/OSF.IO/M6JQE">10.17605/OSF.IO/M6JQE</a>
+</p>
+
+<p style="margin-left: .3in; text-indent: -.3in;">
+ Savi, A. O. (2017, July 13).
+ <font color="#CC79A7">A tool to support MOOC teachers with questionnaires, adaptive lessons, and experimental comparisons.</font>
+ doi:<a href="http://dx.doi.org/10.17605/OSF.IO/Q53JX">10.17605/OSF.IO/Q53JX</a>
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
