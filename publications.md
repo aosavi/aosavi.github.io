@@ -5,6 +5,10 @@ title: Publications
 
 Keywords: <font color="#CC79A7">A/B tests in online learning</font>, <font color="#009E73">computerized adaptive practice</font>.
 
+<!---
+<a href="/assets/bibliography.bib">bibtex</a>
+-->
+
 ## Preprints
 
 <!---
@@ -45,12 +49,6 @@ Keywords: <font color="#CC79A7">A/B tests in online learning</font>, <font color
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
- Savi, A. O., Ruijs, N. M., Maris, G. K. J., & van der Maas, H. L. J. (2017, November 3).
- <font color="#CC79A7">Delaying access to a problem-skipping option increases effortful practice: Application of an A/B test in large-scale online learning.</font>
- doi:<a href="https://dx.doi.org/10.17605/OSF.IO/M6JQE">10.17605/OSF.IO/M6JQE</a>
-</p>
-
-<p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O. (2017, July 13).
  <font color="#CC79A7">A tool to support MOOC teachers with questionnaires, adaptive lessons, and experimental comparisons.</font>
  doi:<a href="http://dx.doi.org/10.17605/OSF.IO/Q53JX">10.17605/OSF.IO/Q53JX</a>
@@ -62,12 +60,20 @@ Keywords: <font color="#CC79A7">A/B tests in online learning</font>, <font color
  doi:<a href="https://dx.doi.org/10.17605/OSF.IO/83JSG">10.17605/OSF.IO/83JSG</a>
 </p>
 
+## 2018
+
+<p style="margin-left: .3in; text-indent: -.3in;">
+ Savi, A. O., Ruijs, N. M., Maris, G. K. J., & van der Maas, H. L. J. (2018).
+ <font color="#CC79A7">Delaying access to a problem-skipping option increases effortful practice: Application of an A/B test in large-scale online learning.</font>
+ <em>Computers & Education, 119</em>, 84-94. doi:10.1016/j.compedu.2017.12.008 [<a href="https://doi.org/10.1016/j.compedu.2017.12.008">full text</a>, <a href="https://dx.doi.org/10.17605/OSF.IO/M6JQE">preprint</a>, href="https://osf.io/z88wh/">code&data</a>, <a href="/assets/talks/2017_Poster_IOPS/poster.pdf">poster</a>]
+</p>
+
 ## 2016
 
 <p style="margin-left: .3in; text-indent: -.3in;">
  Jansen, B. R. J., Hofman, A. D., Savi, A. O., Visser, I., & van der Maas, H. L. J. (2016).
  <font color="#009E73">Self-adapting the success rate when practicing math.</font>
- <em>Learning and Individual Differences, 51</em>, 1-10. doi:10.1016/j.lindif.2016.08.027 [<a href="http://dx.doi.org/10.1016/j.lindif.2016.08.027">full text</a>, <a href="/assets/bibliography.bib">bibtex</a>]
+ <em>Learning and Individual Differences, 51</em>, 1-10. doi:10.1016/j.lindif.2016.08.027 [<a href="http://dx.doi.org/10.1016/j.lindif.2016.08.027">full text</a>]
 </p>
 
 ## 2015
@@ -75,13 +81,13 @@ Keywords: <font color="#CC79A7">A/B tests in online learning</font>, <font color
 <p style="margin-left: .3in; text-indent: -.3in;">
  Schmittmann, V. D., Jahfari, S., Borsboom, D., Savi, A. O., & Waldorp, L. J. (2015).
  Making large-scale networks from fMRI data.
- <em>PLoS ONE, 10</em>(9): e0129074. doi:10.1371/journal.pone.0129074 [<a href="http://dx.doi.org/10.1371/journal.pone.0129074">full text</a>, <a href="http://persistent-identifier.nl/?identifier=urn:nbn:nl:ui:13-okb6-1d">data</a>, <a href="/assets/bibliography.bib">bibtex</a>]
+ <em>PLoS ONE, 10</em>(9): e0129074. doi:10.1371/journal.pone.0129074 [<a href="http://dx.doi.org/10.1371/journal.pone.0129074">full text</a>, <a href="http://persistent-identifier.nl/?identifier=urn:nbn:nl:ui:13-okb6-1d">data</a>]
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O., van der Maas, H. L. J., & Maris, G. K. J. (2015).
  <font color="#CC79A7">Navigating massive open online courses.</font>
- <em>Science, 347</em>, 958. doi:10.1126/science.347.6225.958 [<a href="http://www.sciencemag.org/cgi/content/full/347/6225/958?ijkey=Cvwc9s8Vmj7jM&amp;keytype=ref&amp;siteid=sci">full text</a>, <a href="http://www.sciencemag.org/cgi/rapidpdf/347/6225/958?ijkey=Cvwc9s8Vmj7jM&amp;keytype=ref&amp;siteid=sci">reprint</a>, <a href="/assets/bibliography.bib">bibtex</a>]
+ <em>Science, 347</em>, 958. doi:10.1126/science.347.6225.958 [<a href="http://www.sciencemag.org/cgi/content/full/347/6225/958?ijkey=Cvwc9s8Vmj7jM&amp;keytype=ref&amp;siteid=sci">full text</a>, <a href="http://www.sciencemag.org/cgi/rapidpdf/347/6225/958?ijkey=Cvwc9s8Vmj7jM&amp;keytype=ref&amp;siteid=sci">reprint</a>]
 </p>
 
 ## 2014 and before
@@ -95,13 +101,13 @@ Keywords: <font color="#CC79A7">A/B tests in online learning</font>, <font color
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O. (2013).
  <em>Accurately explaining exploratory decisions in a non-stationary bandit problem: A recovery study of the Kalman filter model</em> (Internship report).
- Retrieved from http://dx.doi.org/10.6084/m9.figshare.1286872 [<a href="http://dx.doi.org/10.6084/m9.figshare.1286872">full text (CC-BY)</a>, data included, <a href="/assets/bibliography.bib">bibtex</a>]
+ Retrieved from http://dx.doi.org/10.6084/m9.figshare.1286872 [<a href="http://dx.doi.org/10.6084/m9.figshare.1286872">full text (CC-BY)</a>, data included]
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O. (2010).
  <em>Automated inductive causation: Recovering causal structures from observational data</em> (Bachelor’s thesis).
- Retrieved from http://dx.doi.org/10.6084/m9.figshare.1286876 [<a href="http://dx.doi.org/10.6084/m9.figshare.1286876">full text (CC-BY)</a>, <a href="http://dx.doi.org/10.6084/m9.figshare.1286876">data (GPL≥v3)</a>, <a href="/assets/bibliography.bib">bibtex</a>]
+ Retrieved from http://dx.doi.org/10.6084/m9.figshare.1286876 [<a href="http://dx.doi.org/10.6084/m9.figshare.1286876">full text (CC-BY)</a>, <a href="http://dx.doi.org/10.6084/m9.figshare.1286876">code&data (GPL≥v3)</a>]
 </p>
 
 <p class="message">
