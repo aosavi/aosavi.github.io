@@ -65,7 +65,7 @@ Keywords: <font color="#CC79A7">A/B tests in online learning</font>, <font color
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O., Ruijs, N. M., Maris, G. K. J., & van der Maas, H. L. J. (2018).
  <font color="#CC79A7">Delaying access to a problem-skipping option increases effortful practice: Application of an A/B test in large-scale online learning.</font>
- <em>Computers & Education, 119</em>, 84-94. doi:10.1016/j.compedu.2017.12.008 [<a href="https://doi.org/10.1016/j.compedu.2017.12.008">full text</a>, <a href="https://dx.doi.org/10.17605/OSF.IO/M6JQE">preprint</a>, href="https://osf.io/z88wh/">code&data</a>, <a href="/assets/talks/2017_Poster_IOPS/poster.pdf">poster</a>]
+ <em>Computers & Education, 119</em>, 84-94. doi:10.1016/j.compedu.2017.12.008 [<a href="https://doi.org/10.1016/j.compedu.2017.12.008">full text</a>, <a href="https://dx.doi.org/10.17605/OSF.IO/M6JQE">preprint</a>, <a href="https://osf.io/z88wh/">code&data</a>, <a href="/assets/talks/2017_Poster_IOPS/poster.pdf">poster</a>]
 </p>
 
 ## 2016
