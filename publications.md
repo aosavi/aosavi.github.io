@@ -44,8 +44,9 @@ Keywords: <font color="#CC79A7">A/B tests in online learning</font>, <font color
 -->
 
 <p style="margin-left: .3in; text-indent: -.3in;">
- Brinkhuis, M. J. S., Savi, A. O., Coomans, F., Hofman, A. D., van der Maas, H. L. J., & Maris, G. (2017).
+ Brinkhuis, M. J. S., Savi, A. O., Coomans, F., Hofman, A. D., van der Maas, H. L. J., & Maris, G. (2018).
  <font color="#009E73">Learning as it happens: A decade of analyzing and shaping a large-scale online learning system.</font>
+ doi:<a href="https://psyarxiv.com/g4z85">10.17605/OSF.IO/G4Z85</a>
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
