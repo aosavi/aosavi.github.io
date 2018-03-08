@@ -1,0 +1,610 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>intelligence_talk_xaringan.utf8</title>
+    <meta charset="utf-8">
+    <meta name="author" content="" />
+    <link href="libs/remark-css/default.css" rel="stylesheet" />
+    <link href="libs/remark-css/default-fonts.css" rel="stylesheet" />
+  </head>
+  <body>
+    <textarea id="source">
+
+
+
+
+class: bottom, inverse
+background-image: url(images/school_of_athens.jpeg)
+background-size: cover
+
+## A Network Theory of Developmental Intelligence
+#### Alexander Savi, 8 March 2018
+
+???
+
+* Welcome everyone
+* Grateful for getting the opportunity to visit ACT for 2 weeks
+* I enjoyed it very much, and met some terrific people
+* Thank you for giving me the opportunity to speak about this project
+* I should start with a disclaimer, it's not a technical talk
+* Although the models behind the ideas I discuss are
+
+---
+class: bottom, inverse
+background-image: url(images/world_map_nl.png)
+background-size: cover
+
+&lt;font color="#56B4E9"&gt;Alexander Savi&lt;/font&gt;&lt;br&gt;
+PhD candidate at University of Amsterdam&lt;br&gt;
+Department of Psychological Methods
+
+&lt;font color="#E69F00"&gt;Supervised by&lt;/font&gt;&lt;br&gt;
+Gunter Maris&lt;br&gt;
+Han van der Maas
+
+&lt;font color="#D55E00"&gt;Involved with&lt;/font&gt;&lt;br&gt;
+Experimental interventions in online learning&lt;br&gt;
+Formal models for developmental intelligence
+
+???
+
+* For those of you wondering where The Netherlands is
+* Can't see it on the map, because it's fully covered by the bullet
+
+* Before I go into developmental intelligence, I'd like to take the opportunity to quickly introduce a project that Benjamin Deonovic, here from ACTNext, collaborates on
+* And which might be of interest to some of you
+
+---
+background-image: url(images/9x9misconception.png)
+background-size: 95%
+
+.footnote[
+[Math Garden](https://www.mathsgarden.com/more-info/)
+]
+
+???
+
+* Explain Math Garden
+* Show error
+* In education, we'd like to know the cause of the error, or the misconception
+* Ask audience for possible causes
+* The exact cause is not so easily determined
+
+---
+background-image: url(images/9x9theory.png)
+background-size: contain
+
+???
+
+---
+class: middle
+
+&lt;img src="images/misconceptions_overlap.png" style="height: 550px;"/&gt;
+
+[Straatemeier, 2014](https://pure.uva.nl/ws/files/2261542/139035_08.pdf)
+
+???
+
+* Marthe Straatemeier, current CEO, classified 21 error categories
+* In the cells you see the proportion of overlap between categories
+* This shows the difficulty of finding the misconception of a student
+
+* If you're able to record enough errors, in a period that you can assume that a student is not learning, ...
+* ... those errors can be used to calculate probability estimates for the misconceptions
+
+---
+background-image: url(images/misconceptions_data.png)
+background-size: contain
+
+???
+
+* Here's some the data from Math Garden
+* Notice the number of recorded errors over a short period of time
+* Gunter created a model to get probability estimates from such errors
+
+---
+
+???
+
+* Hoped to be able to show some preliminary results
+* Unfortunately we haven't been able to get the model fully under our control yet
+
+---
+class: bottom, inverse
+
+# More information
+
+[Gunter Maris](mailto:Gunter.Maris@act.org), ACTNext&lt;br&gt;
+[Benjamin Deonovic](mailto:Benjamin.Deonovic@act.org), ACTNext&lt;br&gt;
+[Alexander Savi](mailto:O.A.Savi@gmail.com), University of Amsterdam
+
+Manuscript in preparation&lt;br&gt;
+Preprint / publication available this summer @ [alexandersavi.nl](https://www.alexandersavi.nl/)
+
+???
+
+* Please stay in touch with one of us, if you want to know more about the approach
+
+---
+class: middle
+
+&lt;img src="images/positivemanifold.png" style="height: 250px;"/&gt;
+
+.footnote[
+[Spearman, 1904](https://archive.org/details/jstor-1412107); [Carrol, 1993](http://www.cambridge.org/us/academic/subjects/psychology/cognition/human-cognitive-abilities-survey-factor-analytic-studies?format=PB&amp;isbn=9780521387125)
+]
+
+???
+
+* The talk that was advertized is about intelligence, and specifically, a network approach to developmental intelligence
+
+* If we discuss intelligence, there's one main finding that must be addressed
+* Reflected in this table, published by Spearman in 1904
+* Correlations between different scholastic / cognitive abilities
+* You'll see high correlations between languages --&gt; __hierarchy__
+* But most important: you should observe is that __all correlations are positive__
+* This is a phenomenon that we call the __positive manifold__
+* Stress it is __not a spurious finding__, John B. Carroll (former president psychometric society) found it in 461 datasets
+
+---
+class: center
+
+&lt;img src="images/factor.png" style="height: 400px;"/&gt;
+
+.footnote[
+[Spearman, 1927](https://archive.org/details/abilitiesofman031969mbp); _g_ = general factor; x&lt;sub&gt;i&lt;/sub&gt; = score on a cognitive test
+]
+
+???
+
+* The most famous explanation is the formative _g_ factor model of general intelligence
+* One single factor / common cause that influences all mental tasks, hence their positive correlations
+* The question __'what is g'__ remains a mystery as of today
+* It's certainly not (only) genes
+* As of today, __the most popular model of intelligence__ actually is a factor model
+* And we asked ourselves: how does development fit into a theory of intelligence
+
+---
+class: center, middle
+
+## "[o]ne of the most intractable problems in evaluating the relationship between education and _g_ is the problem of development and age. As near as we can tell, _g_ theories have failed to provide any account of development across the lifespan."
+
+.footnote[
+[Ackerman &amp; Lohman, 2003](https://doi.org/10.1016/B978-008043793-4/50052-0)
+]
+
+???
+
+* So _g_ theory is not where we should be looking
+* Where might we look?
+* There are __2 important contemporary explanations__ of the positive manifold
+
+---
+
+.pull-left[
+&lt;img src="images/mutualism.png" style="height: 400px;"/&gt;
+]
+
+.footnote[
+[van der Maas et al.](https://dx.doi.org/10.1037/0033-295x.113.4.842); x&lt;sub&gt;i&lt;/sub&gt; = cognitive process
+]
+
+???
+
+* First is van der Maas' __mutualism model__
+* As you can see, this is a __network model__
+* __Explain model__
+
+* Two things to notice
+* 1. "The __positive manifold emerges purely by positive beneficial interactions__ between cognitive processes during development"
+* 2. __No single underlying _g_ factor__
+
+* ? The processes are not further specified, but assumed to be measurable by tests
+
+--
+
+.pull-right[
+&lt;br&gt;&lt;font size="5"&gt;"Reciprocal causal relations are well known in the psychological literature. For instance, better short-term memory helps to develop better cognitive strategies, and better strategies make it possible to increase the efficiency of short-term memory. Similar examples are the relations between cognition and meta-cognition, between action and perception, and between performance and motivation."&lt;/font&gt;
+]
+
+???
+
+* The authors defend their model by explaining the following:
+
+* An __interisting mechanism but simplistic__
+* For one, __no explicit roles for genes and the environment__
+* And __no actual growth dynamics__ (everything is in there from the start)
+
+---
+
+.pull-left[
+&lt;img src="images/multiplier.png" style="height: 400px;"/&gt;
+]
+
+.footnote[
+.pull-left[
+&lt;br&gt;[Dickens &amp; Flynn, 2001](https://dx.doi.org/10.1037/0033-295x.108.2.346); G = genetic endowment, m&lt;sub&gt;i&lt;/sub&gt; = intelligence measure at moment i, e = environment at moment i
+]
+]
+
+???
+
+* The second is Dickens and Flynn's __multiplier effect model__
+* They explicitly model genes and the environment (__gene-environment interaction__ model)
+* __Explain model__
+
+* __Positive manifold emerges__ from the reciprocal relations of IQ with the environment
+
+* This multiplier effect is a very powerful idea, beautifully described by Stanovich
+
+* ? Self-reinforcement, state-dependence, cumulative advantage, preferential attachment
+* ? Explain heritability increase
+
+--
+
+.pull-right[
+&lt;br&gt;&lt;font size="5"&gt;"The very children who are reading well and who have good vocabularies will read more, learn more word meanings, and hence read even better. Children with inadequate vocabularies – who read slowly and without enjoyment – read less, and as a result have slower development of vocabulary knowledge, which inhibits further growth in reading ability."&lt;/font&gt;
+]
+
+.footnote[
+.pull-left[
+[Dickens &amp; Flynn, 2001](https://dx.doi.org/10.1037/0033-295x.108.2.346); G = genetic endowment, m&lt;sub&gt;i&lt;/sub&gt; = intelligence measure at moment i, e = environment at moment i
+]
+.pull-right[
+[Stanovich, 1986](http://www.jstor.org/stable/747612)
+]
+]
+
+???
+
+* This mechanism can be generalized:
+* The children who are reading well __will also receive better education__, __make friends with people__ that also have a higher ability, etc.
+
+* Yet again, __no actual growth mechanism__
+
+* Now let me take you to __our first step in building a network approach__
+* We will __use the multiplier effect to grow a network__
+* Let me __explain this through an urn example__
+
+---
+background-image: url(images/polya.jpg)
+background-size: cover
+
+.footnote[
+[Eggenberger &amp; Pólya, 1923](https://dx.doi.org/10.1002/zamm.19230030407)
+]
+
+???
+
+* This model is known as __Polya's urn__
+* Assume the urn represents a person, let's call her Ann
+* Then the balls represent her cognitive abilities: blue for cognitive abilities and yellow for cognitive disabilities
+* Now we use one very simple growth mechanism: pick a random ball and put 2 of the same color back
+
+* Another way of looking at this is that: 
+* The urn is Ann's IQ, which is at timepoint 0 fully determined by her __genetic endowment__
+* The growth mechanism is the __environment__
+
+* Let's take an example:
+* E.g., table tennis example backhand versus forehand
+
+---
+class: center, middle
+background-image: url(images/background.png)
+background-size: cover
+
+
+.pull-left[
+&lt;img src="images/polya_net_0.png" style="width: 300px;"/&gt;
+&lt;img src="images/background.png" style="width: 300px;"/&gt;
+]
+
+.pull-right[
+&lt;img src="images/background.png" style="width: 300px;"/&gt;
+&lt;img src="images/background.png" style="width: 300px;"/&gt;
+]
+
+???
+
+* Now do this in a network framework, let's see if it works live
+* Balls of the same color get connected
+* We start with an initial network, and at each trial we add a node to it
+* We attach it to a random node in the network and give it the color of that node
+
+---
+class: center, middle
+background-image: url(images/background.png)
+background-size: cover
+
+.pull-left[
+&lt;img src="images/polya_net_0.png" style="width: 300px;"/&gt;
+&lt;img src="images/polya_net_1.png" style="width: 300px;"/&gt;
+]
+
+.pull-right[
+&lt;img src="images/polya_net_2.png" style="width: 300px;"/&gt;
+&lt;img src="images/polya_net_3.png" style="width: 300px;"/&gt;
+]
+
+???
+
+* As you can see the proportion of blue balls, or cognitive ability as we called it, starts to vary greatly
+
+---
+class: center, middle
+
+&lt;img src="images/matthew.png" style="height: 500px;"/&gt;
+
+???
+
+* If we observe many copies of Ann on the long run, this is what we see
+* __Explain figure__
+* p(blue) is our measure of cognitive ability
+
+* What we see is also called the __Matthew effect__: poor get poorer and rich get richer
+* Widening gap (increasing achievement gap)
+* Observed in many complex systems: citations, internet, ..., and also in IQ
+
+* Polya works with __identical genetic endowment__
+
+* For the moment, we have only consider the influence of the environment on IQ
+* If we would model the full multiplier effect: the urn rule would dependent on what's in the urn
+* Even stronger effect!
+
+* But, Matthew effect is not undisputed!
+* A closing gap (decreasing achievement gap), called the compensation effect, is also observed
+
+---
+class: center, middle
+
+&lt;img src="images/compensation.png" style="height: 500px;"/&gt;
+
+???
+
+* To obtain this, I gave all Anns formal education
+* Rather than adding two balls, I added three balls with p=.5
+
+* __Let me pause for a moment__
+* Our simple toy model of a multiplier effect just explained __two of the most important phenomena in the development of intelligence__ (Matthew and compensation effect)
+* These phenomena were previously unexplained
+* We know that this type of mechanism can explain the positive manifold
+
+---
+class: middle
+
+.pull-left[
+## Idiographic theory
+
+## Nodes represent items
+
+## Positive manifold
+]
+
+.pull-right[
+## Hierarchical structure
+
+## Growth &amp; decline
+
+## Matthew &amp; compensation
+]
+
+???
+
+* This is what we're working on
+
+* Each person is described as a network
+* Nodes are on the level of items
+
+* Intelligence is hierarchical, clusters may represent that
+* And we want both growth and decay
+* __Preferential attachment__ is a multiplier-like mechanism for networks
+* But may also include forgetting, by removing nodes or edges
+
+* __Show wiring cognition 2.0 alpha__
+
+---
+
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;img src="images/nodes.png" style="height: 300px;"/&gt;
+
+Nodes may represent skills, knowledge, or items, such as 9x9=81 (an adequacy) or 9x9=18 (an inadequacy)
+
+---
+
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;img src="images/edges.png" style="height: 300px;"/&gt;
+
+Edges represent relations between skills, knowledge, or items
+
+---
+
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;img src="images/fk.png" style="height: 140px;"/&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+⚔ Idiographic theory
+
+⚔ Positive manifold
+
+.footnote[
+&lt;a href="http://dx.doi.org/10.1016/0031-8914(72)90045-6"&gt;Fortuin &amp; Kasteleyn, 1972&lt;/a&gt;
+]
+
+???
+
+* Model we use is the Fortuin Kasteleyn model
+* Describes the distribution of the nodes and edges
+* Gives us a random network, nodes and edges are allowed to differ across individuals
+* Satisfies our requirement of idiography
+
+* The beauty of the model is that it, by definition, satisfies the positive manifold
+
+* ? θ is a parameter of the model that describes the probability that any two skills become connected
+* ? δ(a, b) is known as Kronecker’s delta (1 if a=b) (0 if a!=b)
+* ? Erdos-Renyi versus Fortuyn-Kastelein: random versus preference for clusters (among other things)
+
+---
+
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;img src="images/communities.png" style="height: 300px;"/&gt;
+
+⚔ Hierarchical structure
+
+???
+
+* To get the hierarchical structure, we add communities of nodes
+* Within-community connections have a higher probability than between-community connections
+
+---
+class: middle
+
+&lt;img src="images/positivemanifold.png" style="height: 250px;"/&gt;
+
+.footnote[
+[Spearman, 1904](https://archive.org/details/jstor-1412107); [Carrol, 1993](http://www.cambridge.org/us/academic/subjects/psychology/cognition/human-cognitive-abilities-survey-factor-analytic-studies?format=PB&amp;isbn=9780521387125)
+]
+
+???
+
+* So if we look back at the phenomena described by Spearman
+* We now satisfy both
+
+---
+background-image: url(images/fk_network.png)
+background-size: cover
+
+???
+
+* Here's what a network looks like
+* A huge cluster of skills / knowledge
+* A smaller cluster that might be viewed as a misconception
+
+* Static, no growth yet
+* So, how to grow the model
+* ? Need to find growth mechanisms that retain properties of the model
+
+---
+class: bottom, inverse
+background-image: url(images/school_of_athens.jpeg)
+background-size: cover
+
+## How intelligence gets wired
+
+???
+
+* Through education! (among others)
+* The painting you're looking at is the [School of Athens](http://www.museivaticani.va/content/museivaticani/en/collezioni/musei/stanze-di-raffaello/stanza-della-segnatura/scuola-di-atene.html), where you can see philosophers like Plato teach their pupils
+* Growth really comes from experiences, instructions, hints, interactions
+
+---
+
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;img src="images/edge_sampling.png" style="height: 300px;"/&gt;
+
+⚔ Cognitive growth
+
+* Forgetting / cognitive decline
+
+* Matthew / compensation effects
+
+* Individualization / stratification
+
+???
+
+* We conceptualize it as the sampling of edges
+* We might sample an edge with two nodes that haven't been observed before
+* At that point the nodes become observed, and the edge is either accepted or not accepted
+* Just as in real life (one might get the instruction, or one might not)
+
+* We now have cognitive growth
+* And it gives us a tool to study forgetting (microscopic mechanisms in a macroscopic theory)
+* ... incorporate Matthew effects
+* ... study individualization and stratification (vary how edges are sampled)
+
+---
+class: center, middle
+background-image: url(images/background.png)
+background-size: cover
+
+&lt;img src="images/fk_han.gif" style="height: 700px;"/&gt;
+
+???
+
+* An example of a growing network
+* Including multiple domains / communities
+* And forgetting
+
+---
+class: bottom, inverse
+
+# More information
+
+[Gunter Maris](mailto:Gunter.Maris@act.org), ACTNext&lt;br&gt;
+[Maarten Marsman](mailto:M.Marsman@uva.nl), University of Amsterdam&lt;br&gt;
+[Han van der Maas](mailto:H.L.J.vanderMaas@uva.nl), University of Amsterdam&lt;br&gt;
+[Alexander Savi](mailto:O.A.Savi@gmail.com), University of Amsterdam
+
+Manuscript in preparation&lt;br&gt;
+Preprint / publication available this summer @ [alexandersavi.nl](https://www.alexandersavi.nl/)
+
+---
+class: bottom, center, inverse
+background-image: url(images/fk_network.png)
+background-size: cover
+
+# Thank you
+
+slides available @ [alexandersavi.nl/talks](http://www.alexandersavi.nl/talks/)
+    </textarea>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+<script>var slideshow = remark.create({
+"highlightStyle": "github",
+"highlightLines": true,
+"countIncrementalSlides": false
+});
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
+  window.dispatchEvent(new Event('resize'));
+});
+(function() {
+  var d = document, s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+  if (!r) return;
+  s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
+  d.head.appendChild(s);
+})();</script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+  }
+});
+</script>
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+(function () {
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src  = 'https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML';
+  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
+    script.src  = script.src.replace(/^https?:/, '');
+  document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+  </body>
+</html>

@@ -3,7 +3,7 @@ layout: page
 title: Talks
 ---
 
-2018-03-08 <font color="#999999">US</font> ACT Tech Talk
+2018-03-08 <font color="#999999">US</font> <a href="/assets/talks/2018_Talk_ACTNext/talk.html">ACT Tech Talk</a>
 
 2017-12-14 <font color="#999999">NL</font> IOPS - <a href="/assets/talks/2017_Talk_IOPS/talk.html">A network approach to the development of intelligence</a>
 
