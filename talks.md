@@ -3,7 +3,9 @@ layout: page
 title: Talks
 ---
 
-2018-03-08 <font color="#999999">US</font> <a href="/assets/talks/2018_Talk_ACTNext/talk.html">ACT Tech Talk</a>
+2018-04-03 <font color="#999999">NL</font> Tilburg University - <a href="/assets/talks/2018_Talk_MTOTilburg/talk.html">The holdout principle & developmental intelligence</a>
+
+2018-03-08 <font color="#999999">US</font> ACT Tech Talk - <a href="/assets/talks/2018_Talk_ACTNext/talk.html">Multiplication error diagnosis & developmental intelligence</a>
 
 2017-12-14 <font color="#999999">NL</font> IOPS - <a href="/assets/talks/2017_Talk_IOPS/talk.html">A network approach to the development of intelligence</a>
 
