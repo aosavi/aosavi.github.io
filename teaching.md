@@ -11,13 +11,13 @@ Anything to share with regard to my teaching? Tell me in person or use the (anon
 
 ## Programming: The Next Step
 
-Students refresh and improve their programming skills while independently developing software. After this course, students should be able to program large-scale simulations, implement new statistical methods, and program experiments&#151;in collaboration with [Jasper Wijnen](https://www.researchgate.net/profile/Jasper_Wijnen), [Raoul Grasman](https://www.researchgate.net/profile/Raoul_Grasman2), [Han van der Maas](http://hvandermaas.socsci.uva.nl/Homepage_Han_van_der_Maas/Home.html).
+Students refresh and improve their programming skills while independently developing software. After this course, students should be able to program large-scale simulations, implement new statistical methods, and program experiments&#151;in collaboration with [Jasper Wijnen](https://www.researchgate.net/profile/Jasper_Wijnen), [Raoul Grasman](https://www.researchgate.net/profile/Raoul_Grasman2), [Han van der Maas](http://hvandermaas.socsci.uva.nl/Homepage_Han_van_der_Maas/Home.html), [Claire Stevenson](https://www.researchgate.net/profile/Claire_Stevenson4).
 
 * 1/5. <a href="/assets/lectures/2018_RM_ProgrammingTNS_Lecture_1.pdf">Lecture 1</a>
-* 8/5.
-* 15/5.
-* 22/5.
-* 31/5.
+* 8/5. <a href="/assets/lectures/2018_RM_ProgrammingTNS_Lecture_2.pdf">Lecture 2</a>
+* 15/5. Lecture 3
+* 22/5. Lecture 4
+* 31/5. Presentations
 
 ## Basic Skills in Statistics
 
