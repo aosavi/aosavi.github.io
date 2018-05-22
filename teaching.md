@@ -16,7 +16,7 @@ Students refresh and improve their programming skills while independently develo
 * 1/5. <a href="/assets/lectures/2018_RM_ProgrammingTNS_Lecture_1.pdf">Lecture 1</a>
 * 8/5. <a href="/assets/lectures/2018_RM_ProgrammingTNS_Lecture_2.pdf">Lecture 2</a>
 * 15/5. <a href="/assets/lectures/2018_RM_ProgrammingTNS_Lecture_3.pdf">Lecture 3</a>
-* 22/5. Lecture 4
+* 22/5. <a href="/assets/lectures/2018_RM_ProgrammingTNS_Lecture_4.pdf">Lecture 4</a>
 * 31/5. Presentations
 
 ## Basic Skills in Statistics
