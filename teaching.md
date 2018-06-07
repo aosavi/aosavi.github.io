@@ -9,7 +9,7 @@ Anything to share with regard to my teaching? Tell me in person or use the (anon
 </small>
 </p>
 
-## Introduction in Mathematical Psychology
+## Introduction to Mathematical Psychology
 
 Students are introduced to the concept of a formal theoretical model, to aid in understanding latent cognitive and neural processes. Three leading formal modeling approaches are discussed (growth models, diffusion models, and catastrophe models), and these serve as case studies to understand the basic concepts of mathematical psychology&#151;in collaboration with [Leendert van Maanen](http://leendertvanmaanen.com/), [Han van der Maas](http://hvandermaas.socsci.uva.nl/Homepage_Han_van_der_Maas/Home.html).
 
