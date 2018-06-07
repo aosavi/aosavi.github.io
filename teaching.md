@@ -9,15 +9,15 @@ Anything to share with regard to my teaching? Tell me in person or use the (anon
 </small>
 </p>
 
-## Mathematical Psychology
+## Introduction in Mathematical Psychology
 
-Students are introduced to the concept of a formal theoretical model, to aid in understanding latent cognitive and neural processes. Three leading formal modeling approaches are discussed (network models, diffusion models, and catastrophe models), and these serve as case studies to understand the basic concepts of mathematical psychology&#151;in collaboration with [Leendert van Maanen](http://leendertvanmaanen.com/), [Han van der Maas](http://hvandermaas.socsci.uva.nl/Homepage_Han_van_der_Maas/Home.html).
+Students are introduced to the concept of a formal theoretical model, to aid in understanding latent cognitive and neural processes. Three leading formal modeling approaches are discussed (growth models, diffusion models, and catastrophe models), and these serve as case studies to understand the basic concepts of mathematical psychology&#151;in collaboration with [Leendert van Maanen](http://leendertvanmaanen.com/), [Han van der Maas](http://hvandermaas.socsci.uva.nl/Homepage_Han_van_der_Maas/Home.html).
 
 #### Present
 
-* Week 1: Alexander Savi
-* Week 2: Leendert van Maanen
-* Week 3: Han van der Maas
+* Week 1: <a href="/assets/lectures/2018_PML_MathematicalPsychology_Week_1.pdf">Introduction & growth models</a> (Alexander Savi)
+* Week 2: Diffusion models (Leendert van Maanen)
+* Week 3: Catastrophe models (Han van der Maas)
 * Week 4: Research project
 
 ## Programming: The Next Step
