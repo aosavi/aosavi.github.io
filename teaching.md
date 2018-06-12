@@ -16,7 +16,7 @@ Students are introduced to the concept of a formal theoretical model, to aid in 
 #### Present
 
 * Week 1: <a href="/assets/lectures/2018_PML_MathematicalPsychology_Week_1.pdf">Introduction & growth models</a> (Alexander Savi)
-* Week 2: Diffusion models (Leendert van Maanen)
+* Week 2: <a href="/assets/lectures/2018_PML_MathematicalPsychology_Week_2_LeendertvMaanen.pdf">Diffusion models</a> (Leendert van Maanen)
 * Week 3: Catastrophe models (Han van der Maas)
 * Week 4: Research project
 
