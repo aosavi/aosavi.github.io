@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-Keywords: <font color="#CC79A7">A/B tests in online learning</font>, <font color="#009E73">computerized adaptive practice</font>.
+Keywords: <font color="#E69F00">developmental intelligence</font>, <font color="#56B4E9">learning diagnosis</font>, <font color="#CC79A7">A/B tests in online learning</font>, <font color="#009E73">computerized adaptive practice</font>.
 
 <!---
 <a href="/assets/bibliography.bib">bibtex</a>
@@ -44,29 +44,41 @@ Keywords: <font color="#CC79A7">A/B tests in online learning</font>, <font color
 -->
 
 <p style="margin-left: .3in; text-indent: -.3in;">
- Brinkhuis, M. J. S., Savi, A. O., Coomans, F., Hofman, A. D., van der Maas, H. L. J., & Maris, G. (2018).
- <font color="#009E73">Learning as it happens: A decade of analyzing and shaping a large-scale online learning system.</font>
- doi:<a href="https://psyarxiv.com/g4z85">10.17605/OSF.IO/G4Z85</a>
+ Savi, A. O., Marsman, M., van der Maas, H. L. J., & Maris, G. K. J. (2018).
+ <font color="#E69F00">The wiring of intelligence.</font>
+ doi:<a href="https://dx.doi.org/">soon available</a>
+</p>
+
+<p style="margin-left: .3in; text-indent: -.3in;">
+ Savi, A. O., Deonovic, B. E., Bolsinova, M., van der Maas, H. L. J., & Maris, G. K. J. (2018).
+ <font color="#56B4E9">Automated diagnosis of misconceptions in single digit multiplication.</font>
+ doi:<a href="https://dx.doi.org/">soon available</a>
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O. (2017, July 13).
  <font color="#CC79A7">A tool to support MOOC teachers with questionnaires, adaptive lessons, and experimental comparisons.</font>
- doi:<a href="http://dx.doi.org/10.17605/OSF.IO/Q53JX">10.17605/OSF.IO/Q53JX</a>
+ doi:<a href="http://dx.doi.org/10.31219/osf.io/q53jx">10.31219/osf.io/q53jx</a>
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O., Williams, J. J., Maris, G. K. J., & van der Maas, H. L. J. (2017, February 27).
  <font color="#CC79A7">The role of A/B tests in the study of large-scale online learning.</font>
- doi:<a href="https://dx.doi.org/10.17605/OSF.IO/83JSG">10.17605/OSF.IO/83JSG</a>
+ doi:<a href="https://dx.doi.org/10.31219/osf.io/83jsg">10.31219/osf.io/83jsg</a>
 </p>
 
 ## 2018
 
 <p style="margin-left: .3in; text-indent: -.3in;">
+ Brinkhuis, M. J. S., Savi, A. O., Coomans, F., Hofman, A. D., van der Maas, H. L. J., & Maris, G. (2018).
+ <font color="#009E73">Learning as it happens: A decade of analyzing and shaping a large-scale online learning system.</font>
+ <em>Journal of Learning Analytics, xx</em>, xx-xx. doi:xx [<a href="https://dx.doi.org/">full text soon available</a>, <a href="https://dx.doi.org/10.31234/osf.io/g4z85">preprint</a>]
+</p>
+
+<p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O., Ruijs, N. M., Maris, G. K. J., & van der Maas, H. L. J. (2018).
  <font color="#CC79A7">Delaying access to a problem-skipping option increases effortful practice: Application of an A/B test in large-scale online learning.</font>
- <em>Computers & Education, 119</em>, 84-94. doi:10.1016/j.compedu.2017.12.008 [<a href="https://doi.org/10.1016/j.compedu.2017.12.008">full text</a>, <a href="https://dx.doi.org/10.17605/OSF.IO/M6JQE">preprint</a>, <a href="https://osf.io/z88wh/">code&data</a>, <a href="/assets/talks/2017_Poster_IOPS/poster.pdf">poster</a>]
+ <em>Computers & Education, 119</em>, 84-94. doi:10.1016/j.compedu.2017.12.008 [<a href="https://dx.doi.org/10.1016/j.compedu.2017.12.008">full text</a>, <a href="https://dx.doi.org/10.31235/osf.io/m6jqe">preprint</a>, <a href="https://osf.io/z88wh/">code&data</a>, <a href="/assets/talks/2017_Poster_IOPS/poster.pdf">poster</a>]
 </p>
 
 ## 2016
