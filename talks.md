@@ -3,7 +3,7 @@ layout: page
 title: Talks
 ---
 
-2018-07-10 <font color="#999999">US</font> IMPS - A network model for developmental intelligence
+2018-07-10 <font color="#999999">US</font> IMPS - <a href="/assets/talks/2018_Talk_IMPS/talk.html">A network model for developmental intelligence</a>
 
 2018-04-03 <font color="#999999">NL</font> Tilburg University - <a href="/assets/talks/2018_Talk_MTOTilburg/talk.html">The holdout principle & developmental intelligence</a>
 
