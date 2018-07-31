@@ -46,13 +46,13 @@ Keywords: <font color="#E69F00">developmental intelligence</font>, <font color="
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O., Marsman, M., van der Maas, H. L. J., & Maris, G. K. J. (2018).
  <font color="#E69F00">The wiring of intelligence.</font>
- doi:<a href="https://dx.doi.org/">soon available</a>
+ doi:<a href="https://dx.doi.org/10.31234/osf.io/32wr8">10.31234/osf.io/32wr8</a>
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O., Deonovic, B. E., Bolsinova, M., van der Maas, H. L. J., & Maris, G. K. J. (2018).
  <font color="#56B4E9">Automated diagnosis of misconceptions in single digit multiplication.</font>
- doi:<a href="https://dx.doi.org/">soon available</a>
+ doi:<a href="https://dx.doi.org/10.31234/osf.io/53muj">10.31234/osf.io/53muj</a>
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
@@ -72,7 +72,7 @@ Keywords: <font color="#E69F00">developmental intelligence</font>, <font color="
 <p style="margin-left: .3in; text-indent: -.3in;">
  Brinkhuis, M. J. S., Savi, A. O., Coomans, F., Hofman, A. D., van der Maas, H. L. J., & Maris, G. (2018).
  <font color="#009E73">Learning as it happens: A decade of analyzing and shaping a large-scale online learning system.</font>
- <em>Journal of Learning Analytics, xx</em>, xx-xx. doi:xx [<a href="https://dx.doi.org/">full text soon available</a>, <a href="https://dx.doi.org/10.31234/osf.io/g4z85">preprint</a>]
+ <em>Journal of Learning Analytics, xx</em>, xx-xx. doi:xx [<a href="https://dx.doi.org/">full text available soon</a>, <a href="https://dx.doi.org/10.31234/osf.io/g4z85">preprint</a>]
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
