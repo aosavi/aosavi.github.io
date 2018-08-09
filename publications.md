@@ -72,7 +72,7 @@ Keywords: <font color="#E69F00">developmental intelligence</font>, <font color="
 <p style="margin-left: .3in; text-indent: -.3in;">
  Brinkhuis, M. J. S., Savi, A. O., Coomans, F., Hofman, A. D., van der Maas, H. L. J., & Maris, G. (2018).
  <font color="#009E73">Learning as it happens: A decade of analyzing and shaping a large-scale online learning system.</font>
- <em>Journal of Learning Analytics, xx</em>, xx-xx. doi:xx [<a href="https://dx.doi.org/">full text available soon</a>, <a href="https://dx.doi.org/10.31234/osf.io/g4z85">preprint</a>]
+ <em>Journal of Learning Analytics, 5</em>, 29-46. doi:10.18608/jla.2018.52.3 [<a href="https://dx.doi.org/10.18608/jla.2018.52.3">full text</a>, <a href="https://dx.doi.org/10.31234/osf.io/g4z85">preprint</a>]
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
