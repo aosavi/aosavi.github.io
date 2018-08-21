@@ -7,11 +7,8 @@ Keywords: <font color="#E69F00">developmental intelligence</font>, <font color="
 
 <!---
 <a href="/assets/bibliography.bib">bibtex</a>
--->
 
 ## Preprints
-
-<!---
 
 #### In press
 
@@ -43,31 +40,19 @@ Keywords: <font color="#E69F00">developmental intelligence</font>, <font color="
 </p>
 -->
 
+## 2018
+
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O., Marsman, M., van der Maas, H. L. J., & Maris, G. K. J. (2018).
- <font color="#E69F00">The wiring of intelligence.</font>
+ <font color="#E69F00">The wiring of intelligence.</font> Preprint.
  doi:<a href="https://dx.doi.org/10.31234/osf.io/32wr8">10.31234/osf.io/32wr8</a>
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O., Deonovic, B. E., Bolsinova, M., van der Maas, H. L. J., & Maris, G. K. J. (2018).
- <font color="#56B4E9">Automated diagnosis of misconceptions in single digit multiplication.</font>
+ <font color="#56B4E9">Automated diagnosis of misconceptions in single digit multiplication.</font> Preprint.
  doi:<a href="https://dx.doi.org/10.31234/osf.io/53muj">10.31234/osf.io/53muj</a>
 </p>
-
-<p style="margin-left: .3in; text-indent: -.3in;">
- Savi, A. O. (2017, July 13).
- <font color="#CC79A7">A tool to support MOOC teachers with questionnaires, adaptive lessons, and experimental comparisons.</font>
- doi:<a href="http://dx.doi.org/10.31219/osf.io/q53jx">10.31219/osf.io/q53jx</a>
-</p>
-
-<p style="margin-left: .3in; text-indent: -.3in;">
- Savi, A. O., Williams, J. J., Maris, G. K. J., & van der Maas, H. L. J. (2017, February 27).
- <font color="#CC79A7">The role of A/B tests in the study of large-scale online learning.</font>
- doi:<a href="https://dx.doi.org/10.31219/osf.io/83jsg">10.31219/osf.io/83jsg</a>
-</p>
-
-## 2018
 
 <p style="margin-left: .3in; text-indent: -.3in;">
  Brinkhuis, M. J. S., Savi, A. O., Coomans, F., Hofman, A. D., van der Maas, H. L. J., & Maris, G. (2018).
@@ -79,6 +64,20 @@ Keywords: <font color="#E69F00">developmental intelligence</font>, <font color="
  Savi, A. O., Ruijs, N. M., Maris, G. K. J., & van der Maas, H. L. J. (2018).
  <font color="#CC79A7">Delaying access to a problem-skipping option increases effortful practice: Application of an A/B test in large-scale online learning.</font>
  <em>Computers & Education, 119</em>, 84-94. doi:10.1016/j.compedu.2017.12.008 [<a href="https://dx.doi.org/10.1016/j.compedu.2017.12.008">full text</a>, <a href="https://dx.doi.org/10.31235/osf.io/m6jqe">preprint</a>, <a href="https://osf.io/z88wh/">code&data</a>, <a href="/assets/talks/2017_Poster_IOPS/poster.pdf">poster</a>]
+</p>
+
+## 2017
+
+<p style="margin-left: .3in; text-indent: -.3in;">
+ Savi, A. O. (2017).
+ <font color="#CC79A7">A tool to support MOOC teachers with questionnaires, adaptive lessons, and experimental comparisons.</font> Preprint.
+ doi:<a href="http://dx.doi.org/10.31219/osf.io/q53jx">10.31219/osf.io/q53jx</a>
+</p>
+
+<p style="margin-left: .3in; text-indent: -.3in;">
+ Savi, A. O., Williams, J. J., Maris, G. K. J., & van der Maas, H. L. J. (2017).
+ <font color="#CC79A7">The role of A/B tests in the study of large-scale online learning.</font> Preprint.
+ doi:<a href="https://dx.doi.org/10.31219/osf.io/83jsg">10.31219/osf.io/83jsg</a>
 </p>
 
 ## 2016
