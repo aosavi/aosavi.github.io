@@ -44,14 +44,14 @@ Keywords: <font color="#E69F00">developmental intelligence</font>, <font color="
 
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O., Marsman, M., van der Maas, H. L. J., & Maris, G. K. J. (2018).
- <font color="#E69F00">The wiring of intelligence.</font> Preprint.
- doi:<a href="https://dx.doi.org/10.31234/osf.io/32wr8">10.31234/osf.io/32wr8</a>
+ <font color="#E69F00">The wiring of intelligence.</font>
+ doi:10.31234/osf.io/32wr8 [<a href="https://dx.doi.org/10.31234/osf.io/32wr8">preprint</a>]
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O., Deonovic, B. E., Bolsinova, M., van der Maas, H. L. J., & Maris, G. K. J. (2018).
- <font color="#56B4E9">Automated diagnosis of misconceptions in single digit multiplication.</font> Preprint.
- doi:<a href="https://dx.doi.org/10.31234/osf.io/53muj">10.31234/osf.io/53muj</a>
+ <font color="#56B4E9">Automated diagnosis of misconceptions in single digit multiplication.</font>
+ doi:10.31234/osf.io/53muj [<a href="https://dx.doi.org/10.31234/osf.io/53muj">preprint</a>]
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
@@ -70,14 +70,14 @@ Keywords: <font color="#E69F00">developmental intelligence</font>, <font color="
 
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O. (2017).
- <font color="#CC79A7">A tool to support MOOC teachers with questionnaires, adaptive lessons, and experimental comparisons.</font> Preprint.
- doi:<a href="http://dx.doi.org/10.31219/osf.io/q53jx">10.31219/osf.io/q53jx</a>
+ <font color="#CC79A7">A tool to support MOOC teachers with questionnaires, adaptive lessons, and experimental comparisons.</font>
+ doi:10.31219/osf.io/q53jx [<a href="http://dx.doi.org/10.31219/osf.io/q53jx">preprint</a>]
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O., Williams, J. J., Maris, G. K. J., & van der Maas, H. L. J. (2017).
- <font color="#CC79A7">The role of A/B tests in the study of large-scale online learning.</font> Preprint.
- doi:<a href="https://dx.doi.org/10.31219/osf.io/83jsg">10.31219/osf.io/83jsg</a>
+ <font color="#CC79A7">The role of A/B tests in the study of large-scale online learning.</font>
+ doi:10.31219/osf.io/83jsg [<a href="https://dx.doi.org/10.31219/osf.io/83jsg">preprint</a>]
 </p>
 
 ## 2016
