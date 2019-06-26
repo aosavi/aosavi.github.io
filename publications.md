@@ -40,13 +40,15 @@ Keywords: <font color="#E69F00">developmental intelligence</font>, <font color="
 </p>
 -->
 
-## 2018
+## 2019
 
 <p style="margin-left: .3in; text-indent: -.3in;">
- Savi, A. O., Marsman, M., van der Maas, H. L. J., & Maris, G. K. J. (2018).
+ Savi, A. O., Marsman, M., van der Maas, H. L. J., & Maris, G. K. J. (in press).
  <font color="#E69F00">The wiring of intelligence.</font>
- doi:10.31234/osf.io/32wr8 [<a href="https://dx.doi.org/10.31234/osf.io/32wr8">preprint</a>]
+ <em>Perspectives on Psychological Science.</em> [<a href="https://dx.doi.org/10.31234/osf.io/32wr8">preprint</a>]
 </p>
+
+## 2018
 
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O., Deonovic, B. E., Bolsinova, M., van der Maas, H. L. J., & Maris, G. K. J. (2018).

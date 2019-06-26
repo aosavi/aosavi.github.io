@@ -3,21 +3,31 @@ layout: page
 title: Talks
 ---
 
-2018-07-10 <font color="#999999">US</font> IMPS - <a href="/assets/talks/2018_Talk_IMPS/talk.html">A network model for developmental intelligence</a>
+2019-07-31 <font color="#999999">DE</font> University of Tübingen - Tracing systematic errors in multiplication and beyond
 
-2018-04-03 <font color="#999999">NL</font> Tilburg University - <a href="/assets/talks/2018_Talk_MTOTilburg/talk.html">The holdout principle & developmental intelligence</a>
+2019-06-27 <font color="#999999">NL</font> [ORD](https://ord2019.nl/) - Exploring case based predictions of schools at risk
 
-2018-03-08 <font color="#999999">US</font> ACT Tech Talk - <a href="/assets/talks/2018_Talk_ACTNext/talk.html">Multiplication error diagnosis & developmental intelligence</a>
+2019-06-06 <font color="#999999">NL</font> University of Amsterdam - The wiring of intelligence & double blind experiments in online learning
 
-2017-12-14 <font color="#999999">NL</font> IOPS - <a href="/assets/talks/2017_Talk_IOPS/talk.html">A network approach to the development of intelligence</a>
+2019-05-22 <font color="#999999">NL</font> [IvhO Sectordag PO](https://www.onderwijsinspectie.nl/) - ICT in het onderwijs
 
-2017-12-14 <font color="#999999">NL</font> IOPS - <a href="/assets/talks/2017_Poster_IOPS/poster.pdf">The curious case of the question mark</a>
+2018-12-13 <font color="#999999">NL</font> [IvhO AWP Conferentie](https://www.onderwijsinspectie.nl/) - Voorspellingsmodellen voor risicoscholen
 
-2017-03-07 <font color="#999999">NL</font> Leiden University - <a href="/assets/talks/2017_Lecture_HonoursLeiden/lecture.html">Adaptive practice in online learning</a>
+2018-07-10 <font color="#999999">US</font> [IMPS](https://www.psychometricsociety.org/content/imps-2018) - A network model for developmental intelligence
 
-2016-11-30 <font color="#999999">FI</font> EARLI SIG 27 Online Measures of Learning Processes - <a href="/assets/talks/2016_Talk_EARLISIG27/talk.html">The role of A/B tests in the study of online learning</a>
+2018-04-03 <font color="#999999">NL</font> Tilburg University - The holdout principle & developmental intelligence
 
-2016-11-09 <font color="#999999">NL</font> Dé Onderwijsdagen - <a href="/assets/talks/2016_Talk_Onderwijsdagen/talk.html">Wat leren we van online adaptieve leersystemen?</a>
+2018-03-08 <font color="#999999">US</font> [ACT Tech Talk](https://actnext.org/) - Multiplication error diagnosis & developmental intelligence
+
+2017-12-14 <font color="#999999">NL</font> [IOPS](https://www.iops.nl/) - A network approach to the development of intelligence
+
+2017-12-14 <font color="#999999">NL</font> [IOPS](https://www.iops.nl/) - The curious case of the question mark
+
+2017-03-07 <font color="#999999">NL</font> Leiden University - Adaptive practice in online learning
+
+2016-11-30 <font color="#999999">FI</font> [EARLI SIG 27 Online Measures of Learning Processes](https://www.earli.org/node/50) - The role of A/B tests in the study of online learning
+
+2016-11-09 <font color="#999999">NL</font> [Dé Onderwijsdagen](https://www.deonderwijsdagen.nl) - Wat leren we van online adaptieve leersystemen?
 
 <!---
 https://techinonderwijs.wordpress.com/2016/11/11/wat-kunnen-we-leren-van-adaptieve-leersystemen/
