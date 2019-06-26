@@ -48,6 +48,12 @@ Keywords: <font color="#E69F00">developmental intelligence</font>, <font color="
  <em>Perspectives on Psychological Science.</em> [<a href="https://dx.doi.org/10.31234/osf.io/32wr8">preprint</a>]
 </p>
 
+<p style="margin-left: .3in; text-indent: -.3in;">
+ van der Maas, H. L. J., Savi, A. O., Hofman, A., Kan, K.-J., & Marsman, M. (in press).
+ <font color="#E69F00">The network approach to general intelligence.</font>
+ In D. J. McFarland (Ed.), <em>General and specific mental abilities</em> (pp. 108–131). Cambridge Scholars Publishing.
+</p>
+
 ## 2018
 
 <p style="margin-left: .3in; text-indent: -.3in;">
