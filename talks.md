@@ -29,6 +29,8 @@ title: Talks
 
 2016-11-09 <font color="#999999">NL</font> [Dé Onderwijsdagen](https://www.deonderwijsdagen.nl) - Wat leren we van online adaptieve leersystemen?
 
+2010-11-18 <font color="#999999">NL</font> [Spui25](https://www.spui25.nl/en) - Recovering causal structures from observational data
+
 <!---
 https://techinonderwijs.wordpress.com/2016/11/11/wat-kunnen-we-leren-van-adaptieve-leersystemen/
 -->
