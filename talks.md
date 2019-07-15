@@ -3,6 +3,8 @@ layout: page
 title: Talks
 ---
 
+2019-09-17 <font color="#999999">NL</font> [LEARN! Annual Seminar](https://learn.vu.nl/) - The wiring of intelligence
+
 2019-07-31 <font color="#999999">DE</font> University of Tübingen - Tracing systematic errors in multiplication and beyond
 
 2019-06-27 <font color="#999999">NL</font> [ORD](https://ord2019.nl/) - Exploring case based predictions of schools at risk
