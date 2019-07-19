@@ -3,7 +3,7 @@ layout: page
 title: Talks
 ---
 
-2019-09-17 <font color="#999999">NL</font> [LEARN! Annual Seminar](https://learn.vu.nl/) - The wiring of intelligence
+2019-09-17 <font color="#999999">NL</font> [LEARN! Annual Conference](https://learn.vu.nl/) - The wiring of intelligence
 
 2019-07-31 <font color="#999999">DE</font> University of Tübingen - Tracing systematic errors in multiplication and beyond
 

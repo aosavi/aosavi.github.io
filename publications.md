@@ -54,6 +54,12 @@ Keywords: <font color="#E69F00">developmental intelligence</font>, <font color="
  In D. J. McFarland (Ed.), <em>General and specific mental abilities</em> (pp. 108–131). Cambridge Scholars Publishing.
 </p>
 
+<p style="margin-left: .3in; text-indent: -.3in;">
+ Savi, A. O. (2019).
+ <em>Towards an idiographic education</em> (Doctoral dissertation).
+ University of Amsterdam, The Netherlands. doi:10.31237/osf.io/7gqhz [<a href="https://doi.org/10.31237/osf.io/7gqhz">full text</a>]
+</p>
+
 ## 2018
 
 <p style="margin-left: .3in; text-indent: -.3in;">
