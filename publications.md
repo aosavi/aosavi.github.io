@@ -40,16 +40,24 @@ Keywords: <font color="#E69F00">developmental intelligence</font>, <font color="
 </p>
 -->
 
+## 2020
+
+<p style="margin-left: .3in; text-indent: -.3in;">
+ Savi, A. O., van der Maas, H. L. J., Maris, G. K. J., & Marsman, M. (submitted).
+ <font color="#E69F00">Mitochondrial functioning &#8800; general intelligence.</font>
+ <em>Journal of Intelligence.</em>
+</p>
+
 ## 2019
 
 <p style="margin-left: .3in; text-indent: -.3in;">
- Savi, A. O., Marsman, M., van der Maas, H. L. J., & Maris, G. K. J. (in press).
+ Savi, A. O., Marsman, M., van der Maas, H. L. J., & Maris, G. K. J. (2019).
  <font color="#E69F00">The wiring of intelligence.</font>
- <em>Perspectives on Psychological Science.</em> [<a href="https://dx.doi.org/10.31234/osf.io/32wr8">preprint</a>]
+ <em>Perspectives on Psychological Science, 14</em>, 1034–1061. doi:10.1177/1745691619866447 [<a href="https://dx.doi.org/10.1177/1745691619866447">full text</a>, <a href="https://dx.doi.org/10.31234/osf.io/32wr8">preprint</a>]
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
- van der Maas, H. L. J., Savi, A. O., Hofman, A., Kan, K.-J., & Marsman, M. (in press).
+ van der Maas, H. L. J., Savi, A. O., Hofman, A., Kan, K.-J., & Marsman, M. (2019).
  <font color="#E69F00">The network approach to general intelligence.</font>
  In D. J. McFarland (Ed.), <em>General and specific mental abilities</em> (pp. 108–131). Cambridge Scholars Publishing.
 </p>
