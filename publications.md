@@ -59,7 +59,7 @@ Keywords: <font color="#E69F00">developmental intelligence</font>, <font color="
 <p style="margin-left: .3in; text-indent: -.3in;">
  van der Maas, H. L. J., Savi, A. O., Hofman, A., Kan, K.-J., & Marsman, M. (2019).
  <font color="#E69F00">The network approach to general intelligence.</font>
- In D. J. McFarland (Ed.), <em>General and specific mental abilities</em> (pp. 108–131). Cambridge Scholars Publishing.
+ In D. J. McFarland (Ed.), <em>General and specific mental abilities</em> (pp. 108–131). Cambridge Scholars Publishing. [<a href="https://www.cambridgescholars.com/general-and-specific-mental-abilities">book</a>]
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
