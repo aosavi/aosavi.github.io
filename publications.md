@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-Keywords: <font color="#E69F00">developmental intelligence</font>, <font color="#56B4E9">learning diagnosis</font>, <font color="#CC79A7">A/B tests in online learning</font>, <font color="#009E73">computerized adaptive practice</font>.
+Keywords: <font color="#E69F00">developmental intelligence</font>, <font color="#F0E442">learning diagnosis</font>, <font color="#CC79A7">A/B tests in online learning</font>, <font color="#009E73">computerized adaptive practice</font>, <font color="#D55E00">predictive modelling</font>.
 
 <!---
 <a href="/assets/bibliography.bib">bibtex</a>
@@ -72,7 +72,7 @@ Keywords: <font color="#E69F00">developmental intelligence</font>, <font color="
 
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O., Deonovic, B. E., Bolsinova, M., van der Maas, H. L. J., & Maris, G. K. J. (2018).
- <font color="#56B4E9">Automated diagnosis of misconceptions in single digit multiplication.</font>
+ <font color="#F0E442">Automated diagnosis of misconceptions in single digit multiplication.</font>
  doi:10.31234/osf.io/53muj [<a href="https://dx.doi.org/10.31234/osf.io/53muj">preprint</a>]
 </p>
 

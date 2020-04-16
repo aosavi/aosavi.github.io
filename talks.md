@@ -5,11 +5,11 @@ title: Talks
 
 2019-09-17 <font color="#999999">NL</font> [LEARN! Annual Conference](https://learn.vu.nl/) - The wiring of intelligence
 
-2019-07-31 <font color="#999999">DE</font> University of Tübingen - Tracing systematic errors in multiplication and beyond
+2019-07-31 <font color="#999999">DE</font> [Leibniz-Institut für Wissensmedien](https://www.iwm-tuebingen.de/www/index.html) - Tracing systematic errors in multiplication and beyond
 
 2019-06-27 <font color="#999999">NL</font> [ORD](https://ord2019.nl/) - Exploring case based predictions of schools at risk
 
-2019-06-06 <font color="#999999">NL</font> University of Amsterdam - The wiring of intelligence & double blind experiments in online learning
+2019-06-06 <font color="#999999">NL</font> [University of Amsterdam](https://www.uva.nl/en) - The wiring of intelligence & double blind experiments in online learning
 
 2019-05-22 <font color="#999999">NL</font> [IvhO Sectordag PO](https://www.onderwijsinspectie.nl/) - ICT in het onderwijs
 
@@ -17,7 +17,7 @@ title: Talks
 
 2018-07-10 <font color="#999999">US</font> [IMPS](https://www.psychometricsociety.org/content/imps-2018) - A network model for developmental intelligence
 
-2018-04-03 <font color="#999999">NL</font> Tilburg University - The holdout principle & developmental intelligence
+2018-04-03 <font color="#999999">NL</font> [Tilburg University](https://www.tilburguniversity.edu/) - The holdout principle & developmental intelligence
 
 2018-03-08 <font color="#999999">US</font> [ACT Tech Talk](https://actnext.org/) - Multiplication error diagnosis & developmental intelligence
 
@@ -25,7 +25,7 @@ title: Talks
 
 2017-12-14 <font color="#999999">NL</font> [IOPS](https://www.iops.nl/) - The curious case of the question mark
 
-2017-03-07 <font color="#999999">NL</font> Leiden University - Adaptive practice in online learning
+2017-03-07 <font color="#999999">NL</font> [Leiden University](https://www.universiteitleiden.nl/en) - Adaptive practice in online learning
 
 2016-11-30 <font color="#999999">FI</font> [EARLI SIG 27 Online Measures of Learning Processes](https://www.earli.org/node/50) - The role of A/B tests in the study of online learning
 
