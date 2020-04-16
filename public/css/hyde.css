@@ -272,13 +272,13 @@ a.sidebar-nav-item:focus {
 
 /* White */
 .theme-base-w .sidebar {
-  color: #000000;
-  background-color: #FFFFFF;
+  color: #e7e8eb;
+  background-color: #393939;
 }
 .theme-base-w .sidebar a {
-  color: #0072B2;
+  color: #56b4e9;
 }
 .theme-base-w .content a,
 .theme-base-w .related-posts li a:hover {
-  color: #0072B2;
+  color: #56b4e9;
 }
