@@ -11,7 +11,7 @@ div {
 }
 </style>
 
-In 2015 the Dutch government initiated a National Research Agenda, requesting both citizens and scientific, corporate, and societal organizations, to formulate their most pressing questions for the future. The 12000 submitted questions where condensed into the 140 overarching questions that ultimately make up the national research agenda. The post below contains my contribution (first published in Dutch on the website of the [National Research Agenda](https://vragen.wetenschapsagenda.nl/vraag/hoe-kunnen-we-in-grootschalig-onderwijs-ieder-individu-persoonlijk-bedienen-en-optimaal-laten)).
+In 2015 the Dutch government initiated a National Research Agenda, requesting both citizens and scientific, corporate, and societal organizations, to formulate their most pressing questions for the future. The 12000 submitted questions were condensed into the 140 overarching questions that ultimately make up the national research agenda. The post below contains my contribution (first published in Dutch on the website of the [National Research Agenda](https://vragen.wetenschapsagenda.nl/vraag/hoe-kunnen-we-in-grootschalig-onderwijs-ieder-individu-persoonlijk-bedienen-en-optimaal-laten)).
 
 ![Future school](/assets/futureschool.jpg)
 
