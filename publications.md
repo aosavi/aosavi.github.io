@@ -45,7 +45,7 @@ Keywords: <font color="#E69F00">developmental intelligence</font>, <font color="
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O., van der Maas, H. L. J., Maris, G. K. J., & Marsman, M. (submitted).
  <font color="#E69F00">Mitochondrial functioning &#8800; general intelligence.</font>
- <em>Journal of Intelligence.</em>
+ <em>Journal of Intelligence, 8</em>, 20. doi:10.3390/jintelligence8020020 [<a href="https://doi.org/10.3390/jintelligence8020020">full text</a>]
 </p>
 
 ## 2019
@@ -53,7 +53,7 @@ Keywords: <font color="#E69F00">developmental intelligence</font>, <font color="
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O., Marsman, M., van der Maas, H. L. J., & Maris, G. K. J. (2019).
  <font color="#E69F00">The wiring of intelligence.</font>
- <em>Perspectives on Psychological Science, 14</em>, 1034–1061. doi:10.1177/1745691619866447 [<a href="https://dx.doi.org/10.1177/1745691619866447">full text</a>, <a href="https://dx.doi.org/10.31234/osf.io/32wr8">preprint</a>]
+ <em>Perspectives on Psychological Science, 14</em>, 1034–1061. doi:10.1177/1745691619866447 [<a href="https://doi.org/10.1177/1745691619866447">full text</a>, <a href="https://doi.org/10.31234/osf.io/32wr8">preprint</a>]
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
@@ -73,19 +73,19 @@ Keywords: <font color="#E69F00">developmental intelligence</font>, <font color="
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O., Deonovic, B. E., Bolsinova, M., van der Maas, H. L. J., & Maris, G. K. J. (2018).
  <font color="#F0E442">Automated diagnosis of misconceptions in single digit multiplication.</font>
- doi:10.31234/osf.io/53muj [<a href="https://dx.doi.org/10.31234/osf.io/53muj">preprint</a>]
+ doi:10.31234/osf.io/53muj [<a href="https://doi.org/10.31234/osf.io/53muj">preprint</a>]
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
  Brinkhuis, M. J. S., Savi, A. O., Coomans, F., Hofman, A. D., van der Maas, H. L. J., & Maris, G. (2018).
  <font color="#009E73">Learning as it happens: A decade of analyzing and shaping a large-scale online learning system.</font>
- <em>Journal of Learning Analytics, 5</em>, 29-46. doi:10.18608/jla.2018.52.3 [<a href="https://dx.doi.org/10.18608/jla.2018.52.3">full text</a>, <a href="https://dx.doi.org/10.31234/osf.io/g4z85">preprint</a>]
+ <em>Journal of Learning Analytics, 5</em>, 29-46. doi:10.18608/jla.2018.52.3 [<a href="https://doi.org/10.18608/jla.2018.52.3">full text</a>, <a href="https://doi.org/10.31234/osf.io/g4z85">preprint</a>]
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O., Ruijs, N. M., Maris, G. K. J., & van der Maas, H. L. J. (2018).
  <font color="#CC79A7">Delaying access to a problem-skipping option increases effortful practice: Application of an A/B test in large-scale online learning.</font>
- <em>Computers & Education, 119</em>, 84-94. doi:10.1016/j.compedu.2017.12.008 [<a href="https://dx.doi.org/10.1016/j.compedu.2017.12.008">full text</a>, <a href="https://dx.doi.org/10.31235/osf.io/m6jqe">preprint</a>, <a href="https://osf.io/z88wh/">code&data</a>, <a href="/assets/talks/2017_Poster_IOPS/poster.pdf">poster</a>]
+ <em>Computers & Education, 119</em>, 84-94. doi:10.1016/j.compedu.2017.12.008 [<a href="https://doi.org/10.1016/j.compedu.2017.12.008">full text</a>, <a href="https://doi.org/10.31235/osf.io/m6jqe">preprint</a>, <a href="https://osf.io/z88wh/">code&data</a>, <a href="/assets/talks/2017_Poster_IOPS/poster.pdf">poster</a>]
 </p>
 
 ## 2017
@@ -93,13 +93,13 @@ Keywords: <font color="#E69F00">developmental intelligence</font>, <font color="
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O. (2017).
  <font color="#CC79A7">A tool to support MOOC teachers with questionnaires, adaptive lessons, and experimental comparisons.</font>
- doi:10.31219/osf.io/q53jx [<a href="http://dx.doi.org/10.31219/osf.io/q53jx">preprint</a>]
+ doi:10.31219/osf.io/q53jx [<a href="http://doi.org/10.31219/osf.io/q53jx">preprint</a>]
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O., Williams, J. J., Maris, G. K. J., & van der Maas, H. L. J. (2017).
  <font color="#CC79A7">The role of A/B tests in the study of large-scale online learning.</font>
- doi:10.31219/osf.io/83jsg [<a href="https://dx.doi.org/10.31219/osf.io/83jsg">preprint</a>]
+ doi:10.31219/osf.io/83jsg [<a href="https://doi.org/10.31219/osf.io/83jsg">preprint</a>]
 </p>
 
 ## 2016
@@ -107,7 +107,7 @@ Keywords: <font color="#E69F00">developmental intelligence</font>, <font color="
 <p style="margin-left: .3in; text-indent: -.3in;">
  Jansen, B. R. J., Hofman, A. D., Savi, A. O., Visser, I., & van der Maas, H. L. J. (2016).
  <font color="#009E73">Self-adapting the success rate when practicing math.</font>
- <em>Learning and Individual Differences, 51</em>, 1-10. doi:10.1016/j.lindif.2016.08.027 [<a href="http://dx.doi.org/10.1016/j.lindif.2016.08.027">full text</a>]
+ <em>Learning and Individual Differences, 51</em>, 1-10. doi:10.1016/j.lindif.2016.08.027 [<a href="http://doi.org/10.1016/j.lindif.2016.08.027">full text</a>]
 </p>
 
 ## 2015
@@ -115,7 +115,7 @@ Keywords: <font color="#E69F00">developmental intelligence</font>, <font color="
 <p style="margin-left: .3in; text-indent: -.3in;">
  Schmittmann, V. D., Jahfari, S., Borsboom, D., Savi, A. O., & Waldorp, L. J. (2015).
  Making large-scale networks from fMRI data.
- <em>PLoS ONE, 10</em>(9): e0129074. doi:10.1371/journal.pone.0129074 [<a href="http://dx.doi.org/10.1371/journal.pone.0129074">full text</a>, <a href="http://persistent-identifier.nl/?identifier=urn:nbn:nl:ui:13-okb6-1d">data</a>]
+ <em>PLoS ONE, 10</em>(9): e0129074. doi:10.1371/journal.pone.0129074 [<a href="http://doi.org/10.1371/journal.pone.0129074">full text</a>, <a href="http://persistent-identifier.nl/?identifier=urn:nbn:nl:ui:13-okb6-1d">data</a>]
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
@@ -135,13 +135,13 @@ Keywords: <font color="#E69F00">developmental intelligence</font>, <font color="
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O. (2013).
  <em>Accurately explaining exploratory decisions in a non-stationary bandit problem: A recovery study of the Kalman filter model</em> (Internship report).
- Retrieved from http://dx.doi.org/10.6084/m9.figshare.1286872 [<a href="http://dx.doi.org/10.6084/m9.figshare.1286872">full text (CC-BY)</a>, data included]
+ Retrieved from http://doi.org/10.6084/m9.figshare.1286872 [<a href="http://doi.org/10.6084/m9.figshare.1286872">full text (CC-BY)</a>, data included]
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O. (2010).
  <em>Automated inductive causation: Recovering causal structures from observational data</em> (Bachelor’s thesis).
- Retrieved from http://dx.doi.org/10.6084/m9.figshare.1286876 [<a href="http://dx.doi.org/10.6084/m9.figshare.1286876">full text (CC-BY)</a>, <a href="http://dx.doi.org/10.6084/m9.figshare.1286876">code&data (GPL≥v3)</a>]
+ Retrieved from http://doi.org/10.6084/m9.figshare.1286876 [<a href="http://doi.org/10.6084/m9.figshare.1286876">full text (CC-BY)</a>, <a href="http://doi.org/10.6084/m9.figshare.1286876">code&data (GPL≥v3)</a>]
 </p>
 
 <p class="message">
