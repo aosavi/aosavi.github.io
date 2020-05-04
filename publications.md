@@ -43,7 +43,7 @@ Keywords: <font color="#E69F00">developmental intelligence</font>, <font color="
 ## 2020
 
 <p style="margin-left: .3in; text-indent: -.3in;">
- Savi, A. O., van der Maas, H. L. J., Maris, G. K. J., & Marsman, M. (submitted).
+ Savi, A. O., van der Maas, H. L. J., Maris, G. K. J., & Marsman, M. (2020).
  <font color="#E69F00">Mitochondrial functioning &#8800; general intelligence.</font>
  <em>Journal of Intelligence, 8</em>, 20. doi:10.3390/jintelligence8020020 [<a href="https://doi.org/10.3390/jintelligence8020020">full text</a>]
 </p>
