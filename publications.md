@@ -40,15 +40,11 @@ Keywords: <font color="#E69F00">developmental intelligence</font>, <font color="
 </p>
 -->
 
-## 2020
-
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O., van der Maas, H. L. J., Maris, G. K. J., & Marsman, M. (2020).
  <font color="#E69F00">Mitochondrial functioning &#8800; general intelligence.</font>
  <em>Journal of Intelligence, 8</em>, 20. doi:10.3390/jintelligence8020020 [<a href="https://doi.org/10.3390/jintelligence8020020">full text</a>]
 </p>
-
-## 2019
 
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O., Marsman, M., van der Maas, H. L. J., & Maris, G. K. J. (2019).
@@ -68,8 +64,6 @@ Keywords: <font color="#E69F00">developmental intelligence</font>, <font color="
  University of Amsterdam, The Netherlands. doi:10.31237/osf.io/7gqhz [<a href="https://doi.org/10.31237/osf.io/7gqhz">full text</a>]
 </p>
 
-## 2018
-
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O., Deonovic, B. E., Bolsinova, M., van der Maas, H. L. J., & Maris, G. K. J. (2018).
  <font color="#F0E442">Automated diagnosis of misconceptions in single digit multiplication.</font>
@@ -88,8 +82,6 @@ Keywords: <font color="#E69F00">developmental intelligence</font>, <font color="
  <em>Computers & Education, 119</em>, 84-94. doi:10.1016/j.compedu.2017.12.008 [<a href="https://doi.org/10.1016/j.compedu.2017.12.008">full text</a>, <a href="https://doi.org/10.31235/osf.io/m6jqe">preprint</a>, <a href="https://osf.io/z88wh/">code&data</a>, <a href="/assets/talks/2017_Poster_IOPS/poster.pdf">poster</a>]
 </p>
 
-## 2017
-
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O. (2017).
  <font color="#CC79A7">A tool to support MOOC teachers with questionnaires, adaptive lessons, and experimental comparisons.</font>
@@ -102,15 +94,11 @@ Keywords: <font color="#E69F00">developmental intelligence</font>, <font color="
  doi:10.31219/osf.io/83jsg [<a href="https://doi.org/10.31219/osf.io/83jsg">preprint</a>]
 </p>
 
-## 2016
-
 <p style="margin-left: .3in; text-indent: -.3in;">
  Jansen, B. R. J., Hofman, A. D., Savi, A. O., Visser, I., & van der Maas, H. L. J. (2016).
  <font color="#009E73">Self-adapting the success rate when practicing math.</font>
  <em>Learning and Individual Differences, 51</em>, 1-10. doi:10.1016/j.lindif.2016.08.027 [<a href="http://doi.org/10.1016/j.lindif.2016.08.027">full text</a>]
 </p>
-
-## 2015
 
 <p style="margin-left: .3in; text-indent: -.3in;">
  Schmittmann, V. D., Jahfari, S., Borsboom, D., Savi, A. O., & Waldorp, L. J. (2015).
@@ -123,8 +111,6 @@ Keywords: <font color="#E69F00">developmental intelligence</font>, <font color="
  <font color="#CC79A7">Navigating massive open online courses.</font>
  <em>Science, 347</em>, 958. doi:10.1126/science.347.6225.958 [<a href="http://www.sciencemag.org/cgi/content/full/347/6225/958?ijkey=Cvwc9s8Vmj7jM&amp;keytype=ref&amp;siteid=sci">full text</a>, <a href="http://www.sciencemag.org/cgi/rapidpdf/347/6225/958?ijkey=Cvwc9s8Vmj7jM&amp;keytype=ref&amp;siteid=sci">reprint</a>]
 </p>
-
-## 2014 and before
 
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O. (2013).
