@@ -19,13 +19,13 @@ Disruptive innovation, disruptive technologyIn this course, we'll go beyond the 
 * 18/12/06 <a href="/assets/lectures/2018_IIS_DisruptingScience_TeaserTalk.pdf">Sneak peek</a>
 -->
 
-## We R Programmers
+## We R Champions
 
 Masterclass series on programming in R, with a primary focus on the tidyverse&#151;in collaboration with [Simone Plak](https://www.researchgate.net/profile/Simone_Plak).
 
 #### Present
 
-* 2019/20&#151;<a href="/assets/lectures/2020_We_R_Programmers_Syllabus.pdf">Course syllabus</a>.
+* 2019/20&#151;<a href="/assets/lectures/2020_we_r_champions/2020_we_r_champions_syllabus.pdf">Course syllabus</a>. <a href="/assets/lectures/2020_we_r_champions/2020_we_r_novices.html">Course preparations</a>.
 
 ## Introduction to Mathematical Psychology
 
