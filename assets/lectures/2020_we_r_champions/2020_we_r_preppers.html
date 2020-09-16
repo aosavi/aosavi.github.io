@@ -9,12 +9,12 @@
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
-<meta name="author" content="Alexander Savi, Amsterdam Center for Learning Analytics, alexandersavi.nl" />
+<meta name="author" content="Alexander Savi, Amsterdam Center for Learning Analytics" />
 <meta name="author" content="Simone Plak, Amsterdam Center for Learning Analytics" />
 
-<meta name="date" content="2020-06-23" />
+<meta name="date" content="2020-09-16" />
 
-<title>We R Champions: Prep Guide</title>
+<title>We R Preppers</title>
 
 <script>// Pandoc 2.9 adds attributes on both header and div. We remove the former (to
 // be compatible with the behavior of Pandoc < 2.8).
@@ -1302,6 +1302,22 @@ window.buildTabsets = function(tocID) {
 };
 
 </script>
+<script>// Hide empty <a> tag within highlighted CodeBlock for screen reader accessibility (see https://github.com/jgm/pandoc/issues/6352#issuecomment-626106786) -->
+// v0.0.1
+// Written by JooYoung Seo (jooyoung@psu.edu) and Atsushi Yasumoto on June 1st, 2020.
+
+document.addEventListener('DOMContentLoaded', function() {
+  const codeList = document.getElementsByClassName("sourceCode");
+  for (var i = 0; i < codeList.length; i++) {
+    var linkList = codeList[i].getElementsByTagName('a');
+    for (var j = 0; j < linkList.length; j++) {
+      if (linkList[j].innerHTML === "") {
+        linkList[j].setAttribute('aria-hidden', 'true');
+      }
+    }
+  }
+});
+</script>
 
 
 <style type="text/css">code{white-space: pre;}</style>
@@ -1428,6 +1444,10 @@ h6 {
 }
 </style>
 
+<style type="text/css">aside {
+float: right;
+color: blue;
+}</style>
 
 
 
@@ -1609,77 +1629,48 @@ div.tocify {
 
 
 
-<h1 class="title toc-ignore">We R Champions: Prep Guide</h1>
-<h3 class="subtitle">An <em>R Masterclass Series</em> Original</h3>
-<h4 class="author">Alexander Savi, Amsterdam Center for Learning Analytics, <a href="https://www.alexandersavi.nl/">alexandersavi.nl</a></h4>
+<h1 class="title toc-ignore">We R Preppers</h1>
+<h3 class="subtitle">Prep guide for the <em>We R Champions</em> masterclass series</h3>
+<h4 class="author">Alexander Savi, Amsterdam Center for Learning Analytics</h4>
 <h4 class="author">Simone Plak, Amsterdam Center for Learning Analytics</h4>
-<h4 class="date">June 23, 2020</h4>
+<h4 class="date">September 16, 2020</h4>
 
 </div>
 
 
-<div id="we-r-preppers" class="section level1">
-<h1>We R Preppers</h1>
-<p><code>25m</code> Twenty-five minutes of preparations helps us to have a flying start and quickly get to the fun part: learning R. Make sure to <strong>finish these preparations a week before the start of the masterclass</strong>, as that should give us sufficient time to fix foreseen and unforeseen issues. You’ll need to install the required software, introduce yourself on our Q&amp;A platform, and learn how to get the most out of this masterclass.</p>
+<!-- Numberlines bug: https://github.com/yihui/rmarkdown-cookbook/issues/271 -->
+<style type="text/css">
+.sourceCode { overflow: visible; }
+</style>
+<div id="welcome" class="section level1 unnumbered" number>
+<h1 class="unnumbered" number>Welcome</h1>
+<p>Twenty-five minutes of preparations helps us to have a flying start and quickly get to the fun part: learning R. Make sure to <strong>finish these preparations a week before the start of the masterclass</strong>, as that should give us sufficient time to fix foreseen and unforeseen issues. You’ll need to install the required software and introduce yourself on our Q&amp;A platform, and learn how to get the most out of this masterclass.</p>
 </div>
-<div id="organization" class="section level1">
-<h1>Organization</h1>
-<div id="materials" class="section level2">
-<h2>Materials</h2>
-<p>You’ll receive a document with the complete outline for the masterclass. It includes resources and exercises that you can use both during and after the masterclass. Besides the document, we’ll use three pieces of software.</p>
-<ul>
-<li><a href="https://www.r-project.org/">R</a>. It’s the core software.</li>
-<li><a href="https://rstudio.com/products/rstudio/">RStudio</a>. A terrific user interface for R.</li>
-<li><a href="https://piazza.com/?">Piazza</a>. You’ll use it for questions and answers. Anytime during or after the masterclass, you can use it to post your R questions. Piazza helps us to <em>collaboratively</em> answer them. Yes, that’s right, you can help your fellow students. Because the questions and answers are available to all of us, we can all learn from them, or help answer them. And guess what, answering questions helps you to develop mastery yourself.</li>
-</ul>
+<div id="read-the-syllabus" class="section level1" number="1">
+<h1 number="1"><span class="header-section-number">1</span> Read the syllabus</h1>
+<p>Although our syllabus didn’t make it to the International Booker Prize shortlist, we know many other great texts that didn’t. Go read it, it will help you get the most out of the masterclass.</p>
 </div>
-<div id="activities" class="section level2">
-<h2>Activities</h2>
-<p>In the document that outlines the masterclass, different sections are color-coded. Those colors help you recognize different activities.</p>
-<ul>
-<li><font color="#E69F00">Plenary activity</font>. <code>cam on / mic on</code> We’re a class, so let’s make it feel like one. These are the moments we can look each other in the eyes and share the pain that optimists call learning.</li>
-<li><font color="#D55E00">Instruction</font>. <code>cam off / mic off</code> Instructions guide you in your R adventures, separating main issues from side issues, keeping you on the right track. Instructions come in two flavours; live instructions and self-guided instructions. Live instructions speak for themselves. You’ll learn the most from doing it yourself, so we’ll stick to the main themes and keep it short. Additionally, we’ve added lots of resources in the document. You’re invited to consult these resources whenever you feel like it. You may benefit from them during the exercises, or when you start exploring R on your own.</li>
-<li><font color="#009E73">Programming activity</font>. <code>cam off / mic off</code> This is what it’s all about. You and R alone, and a little help from your fellow students and us. During the programming activities, break out rooms help you discuss the exercises in small groups. Wearing your speedpants today? See if you can help out the others by answering questions on Piazza.</li>
-<li><font color="#CC79A7">Break</font>. <code>cam on / mic on</code> You’ll need one once a while. Have a (virtual) break with the others, go for a stroll, feed your hamster, whatever works for you.</li>
-</ul>
-</div>
-<div id="mode" class="section level2">
-<h2>Mode</h2>
-<p><strong>Offline masterclass</strong></p>
-<p>You wish. Corona age is here.</p>
-<p><strong>Online masterclass</strong></p>
-<p>In an online masterclass you’ll need <a href="https://zoom.us/">Zoom</a>. You’ll use it for the live instructions and for working together in break out rooms.</p>
-<p>And yes, <a href="https://www.bbc.com/worklife/article/20200421-why-zoom-video-chats-are-so-exhausting">video conferencing drains energy</a> for most of us, and it can’t be blamed on your fellow students. At least not all of it. We hope the different activities keep it fresh. Using a secondary screen for this masterclass and putting it off to the side can help, but we don’t all have that luxury. You may use the camera and microphone <code>suggestions</code> that are shown with the activities above.</p>
-</div>
-</div>
-<div id="try-r-and-rstudio" class="section level1">
-<h1>Try R and RStudio</h1>
-<p>Please install the required software, R and RStudio, as it takes up precious time, things can go wrong (more precious time), and some computers might have restrictions (even more precious time). Let us know immediately if you come across any issues, and we’ll make sure to fix it in time.</p>
+<div id="install-r" class="section level1" number="2">
+<h1 number="2"><span class="header-section-number">2</span> Install R</h1>
+<p>Please install the required software, R and RStudio, as it takes up precious time, things can go wrong (more precious time), and some computers might have restrictions (even more precious time). Let us know immediately if you come across any issues, and we’ll make sure to help you fix it in time.</p>
 <p>Ready? Follow <a href="https://learnr-examples.shinyapps.io/ex-setup-r/">these instructions</a> to setup R and RStudio. For now, skip the last part (installing the <em>tidyverse</em> package).</p>
 <p>Let’s see if everything works as expected. First, run the following code in the console panel of RStudio (the (lower) left panel):</p>
-<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1"></a><span class="kw">print</span>(<span class="st">&quot;OMG I FEEL LIKE A PROGRAMMER ALREADY&quot;</span>)</span></code></pre></div>
+<div class="sourceCode" id="cb1"><pre class="sourceCode numberSource r numberLines"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1"></a><span class="kw">print</span>(<span class="st">&quot;OMG I FEEL LIKE A PROGRAMMER ALREADY&quot;</span>)</span></code></pre></div>
 <p>Here, <code>print()</code> is a called a <em>function</em>. A function takes an input, does its magic, and gives some output. The print function simply prints the input to your screen. So far the magic. But learning already!</p>
 <p>Then, install and load a package. This way we make sure you have the right permissions. Again, run the following code in your console:</p>
-<div class="sourceCode" id="cb2"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1"></a><span class="kw">install.packages</span>(<span class="st">&quot;tidyverse&quot;</span>)</span>
+<div class="sourceCode" id="cb2"><pre class="sourceCode numberSource r numberLines"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1"></a><span class="kw">install.packages</span>(<span class="st">&quot;tidyverse&quot;</span>)</span>
 <span id="cb2-2"><a href="#cb2-2"></a><span class="kw">library</span>(<span class="st">&quot;tidyverse&quot;</span>)</span></code></pre></div>
 <p>This may take a while, you’re basically downloading and installing additional software. Packages extend the basic functionality of R. That is, they provide lots of extra functions!</p>
 </div>
-<div id="introduce-yourself-on-piazza" class="section level1">
-<h1>Introduce yourself on Piazza</h1>
-<p>You should have received an invitation on your VU email address (it might not work with a different one). Check your spam if you cannot find the invitation, or let us know if it is nowhere to be found.</p>
+<div id="install-zoom" class="section level1" number="3">
+<h1 number="3"><span class="header-section-number">3</span> Install Zoom</h1>
+<p>This is only required for online masterclasses. Most of you have been using Zoom more than you ever desired. Didn’t use it before? Let us know!</p>
+</div>
+<div id="introduce-yourself" class="section level1" number="4">
+<h1 number="4"><span class="header-section-number">4</span> Introduce yourself</h1>
+<p>You should have received a Piazza invitation on your VU email address (it might not work with a different one). Check your spam if you cannot find the invitation, or let us know if it is nowhere to be found.</p>
 <p>Now, sign up to Piazza and introduce yourself. On Piazza, you should find the post that says “Introduce yourself” and follow the instructions.</p>
-</div>
-<div id="install-zoom" class="section level1">
-<h1>Install Zoom</h1>
-<p><code>For online masterclasses only</code> Most of you have been using Zoom more than you ever desired. Didn’t use it before? Let us know!</p>
-</div>
-<div id="teaching-philosophy" class="section level1">
-<h1>Teaching philosophy</h1>
-<p>We like to end with our teaching philosophy. Our teaching philosophy in three words: practice, practice, practice, practice. Okay, that were four, but you get the idea.</p>
-<p>In each masterclass, we aim to give you the right amount of contextual knowledge, important tools that help you start practicing and learning on your own, and some guidance along the way.</p>
-<p>But there’s only one way to learn R. You must …, …, …, …!</p>
-<p>And although practice makes perfect, it starts with failure. Lots of it. Learn to fail, make mistakes, fool around, try random stuff. What happens? Why?</p>
-<p><strong>Enjoy!</strong></p>
+<p>You can also use the <a href="https://piazza.com/product/mobile">Piazza app</a>, but it won’t be of much use if you want to copy-paste some R code in a question or answer.</p>
 </div>
 
 
@@ -1728,7 +1719,7 @@ $(document).ready(function ()  {
 
     // establish options
     var options = {
-      selectors: "h1",
+      selectors: "h1,h2,h3,h4",
       theme: "bootstrap3",
       context: '.toc-content',
       hashGenerator: function (text) {
