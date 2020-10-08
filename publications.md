@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-Keywords: <font color="#E69F00">developmental intelligence</font>, <font color="#F0E442">learning diagnosis</font>, <font color="#CC79A7">A/B tests in online learning</font>, <font color="#009E73">computerized adaptive practice</font>, <font color="#D55E00">predictive modelling</font>.
+Keywords: <font color="#E69F00">developmental intelligence</font>, <font color="#F0E442">learning diagnosis</font>, <font color="#CC79A7">A/B tests in online learning</font>, <font color="#009E73">computerized adaptive practice</font>, <font color="#D55E00">predictive modeling</font>.
 
 Open science indicators:
 [&Omicron;](https://en.wikipedia.org/wiki/Open_access) open access or preprint,
@@ -48,6 +48,13 @@ Open science indicators:
  doi:
 </p>
 -->
+
+<p style="margin-left: .3in; text-indent: -.3in;">
+ Savi, A. O., Cornelisz, I., Sjerps, M. J., Greup, S. L., Bres, C. M., & van Klaveren, C. (2020).
+ <font color="#D55E00"><em>Balancing trade-offs in the detection of schools at risk.</em></font>
+ Manuscript submitted for publication. [<a href="">preprint</a>] /
+ <font color="#56B4E9">&Omicron;</font>
+</p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O., van der Maas, H. L. J., Maris, G. K. J., & Marsman, M. (2020).
