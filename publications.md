@@ -52,7 +52,7 @@ Open science indicators:
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O., Cornelisz, I., Sjerps, M. J., Greup, S. L., Bres, C. M., & van Klaveren, C. (2020).
  <font color="#D55E00"><em>Balancing trade-offs in the detection of schools at risk.</em></font>
- Manuscript submitted for publication. <a href="https://edarxiv.org/q6z4r">preprint</a> /
+ Manuscript submitted for publication. doi:10.35542/osf.io/q6z4r <a href="https://doi.org/10.35542/osf.io/q6z4r">preprint</a> /
  <font color="#56B4E9">&Omicron;</font>
 </p>
 
