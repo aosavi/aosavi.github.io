@@ -3,6 +3,8 @@ layout: page
 title: Talks
 ---
 
+2020-01-28 <font color="#999999">NL</font> [Stichting Tabijn](https://www.tabijn.nl/) - Data in het onderwijs
+
 2019-09-17 <font color="#999999">NL</font> [LEARN! Annual Conference](https://learn.vu.nl/) - The wiring of intelligence
 
 2019-07-31 <font color="#999999">DE</font> [Leibniz-Institut für Wissensmedien](https://www.iwm-tuebingen.de/www/index.html) - Tracing systematic errors in multiplication and beyond
