@@ -25,7 +25,7 @@ Masterclass series on programming in R, with a primary focus on the tidyverse&#1
 
 #### Present
 
-* 2019/20&#151;<a href="/assets/lectures/2020_we_r_champions/2020_we_r_champions.html">We R Champions</a> (syllabus). <a href="/assets/lectures/2020_we_r_champions/2020_we_r_preppers.html">We R Preppers</a> (prep guide). <a href="/assets/lectures/2020_we_r_champions/2020_we_r_novices.html">We R Novices</a>. <a href="/assets/lectures/2020_we_r_champions/2020_we_r_analysts.html">We R Analysts</a>.
+* 2019/20&#151;<a href="/assets/lectures/2020_we_r_champions/2020_we_r_champions.html">We R Champions</a> (syllabus). <a href="/assets/lectures/2020_we_r_champions/2020_we_r_preppers.html">We R Preppers</a> (prep guide). <a href="/assets/lectures/2020_we_r_champions/2020_we_r_novices.html">We R Novices</a> (R and tidyverse foundations). <a href="/assets/lectures/2020_we_r_champions/2020_we_r_analysts.html">We R Analysts</a> (data analysis).
 
 ## Introduction to Mathematical Psychology
 
