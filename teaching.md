@@ -21,11 +21,11 @@ Disruptive innovation, disruptive technologyIn this course, we'll go beyond the 
 
 ## We R Champions
 
-Masterclass series on programming in R, with a primary focus on the tidyverse&#151;in collaboration with [Simone Plak](https://www.researchgate.net/profile/Simone_Plak).
+A modular masterclass series on programming in R, with a primary focus on the tidyverse&#151;in collaboration with [Simone Plak](https://www.researchgate.net/profile/Simone_Plak).
 
 #### Present
 
-* 2019/20&#151;<a href="/assets/lectures/2020_we_r_champions/2020_we_r_champions.html">We R Champions</a> (syllabus). <a href="/assets/lectures/2020_we_r_champions/2020_we_r_preppers.html">We R Preppers</a> (prep guide). <a href="/assets/lectures/2020_we_r_champions/2020_we_r_novices.html">We R Novices</a> (R and tidyverse foundations). <a href="/assets/lectures/2020_we_r_champions/2020_we_r_analysts.html">We R Analysts</a> (data analysis).
+* 2019/20&#151;<a href="/assets/lectures/2020_we_r_champions/2020_we_r_champions.html">We R Champions</a> (syllabus). <a href="/assets/lectures/2020_we_r_champions/2020_we_r_preppers.html">We R Preppers</a> (prep guide). <a href="/assets/lectures/2020_we_r_champions/2020_we_r_novices.html">We R Novices</a> (R and tidyverse foundations). <a href="/assets/lectures/2020_we_r_champions/2020_we_r_analysts.html">We R Analysts</a> (data analysis). We R Transformers (data transformation). We R Visualizers (data visualization). We R Communicators (data communication). We R Programmers (base R). We R Reproducible (code reproducibility). We R Speedsters (code optimization). We R Debuggers (code debugging).
 
 ## Introduction to Mathematical Psychology
 
