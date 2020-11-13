@@ -50,6 +50,14 @@ Open science indicators:
 -->
 
 <p style="margin-left: .3in; text-indent: -.3in;">
+ Savi, A. O., Deonovic, B. E., Bolsinova, M., van der Maas, H. L. J., & Maris, G. K. J. (2020).
+ <font color="#F0E442">Tracing systematic errors to personalize recommendations in single digit multiplication and beyond.</font>
+ doi:10.31234/osf.io/53muj
+ <a href="https://doi.org/10.31234/osf.io/53muj">preprint</a> /
+ <font color="#56B4E9">&Omicron;</font>
+</p>
+
+<p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O., Cornelisz, I., Sjerps, M. J., Greup, S. L., Bres, C. M., & van Klaveren, C. (2020).
  <font color="#D55E00"><em>Balancing trade-offs in the detection of schools at risk.</em></font>
  Manuscript submitted for publication. doi:10.35542/osf.io/q6z4r <a href="https://doi.org/10.35542/osf.io/q6z4r">preprint</a> /
@@ -84,14 +92,6 @@ Open science indicators:
  <em>Towards an idiographic education</em> (Doctoral dissertation).
  University of Amsterdam, The Netherlands. doi:10.31237/osf.io/7gqhz
  <a href="https://doi.org/10.31237/osf.io/7gqhz">full text</a> /
- <font color="#56B4E9">&Omicron;</font>
-</p>
-
-<p style="margin-left: .3in; text-indent: -.3in;">
- Savi, A. O., Deonovic, B. E., Bolsinova, M., van der Maas, H. L. J., & Maris, G. K. J. (2018).
- <font color="#F0E442">Automated diagnosis of misconceptions in single digit multiplication.</font>
- doi:10.31234/osf.io/53muj
- <a href="https://doi.org/10.31234/osf.io/53muj">preprint</a> /
  <font color="#56B4E9">&Omicron;</font>
 </p>
 
