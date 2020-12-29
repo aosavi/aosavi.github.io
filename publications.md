@@ -148,7 +148,8 @@ Open science indicators:
  Savi, A. O., van der Maas, H. L. J., & Maris, G. K. J. (2015).
  <font color="#CC79A7">Navigating massive open online courses.</font>
  <em>Science, 347</em>, 958. doi:10.1126/science.347.6225.958
- <a href="http://www.sciencemag.org/cgi/content/full/347/6225/958?ijkey=Cvwc9s8Vmj7jM&amp;keytype=ref&amp;siteid=sci">full text</a>, <a href="http://www.sciencemag.org/cgi/rapidpdf/347/6225/958?ijkey=Cvwc9s8Vmj7jM&amp;keytype=ref&amp;siteid=sci">reprint</a>
+ <a href="http://www.sciencemag.org/cgi/content/full/347/6225/958?ijkey=Cvwc9s8Vmj7jM&amp;keytype=ref&amp;siteid=sci">full text</a>, <a href="http://www.sciencemag.org/cgi/rapidpdf/347/6225/958?ijkey=Cvwc9s8Vmj7jM&amp;keytype=ref&amp;siteid=sci">reprint</a>, <a href="https://doi.org/10.31234/osf.io/kch9u">preprint</a> /
+ <font color="#56B4E9">&Omicron;</font>
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
