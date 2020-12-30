@@ -6,11 +6,11 @@ title: Publications
 Keywords: <font color="#E69F00">developmental intelligence</font>, <font color="#F0E442">learning diagnosis</font>, <font color="#CC79A7">A/B tests in online learning</font>, <font color="#009E73">computerized adaptive practice</font>, <font color="#D55E00">predictive modeling</font>.
 
 Open science indicators:
-[&Omicron;](https://en.wikipedia.org/wiki/Open_access) gold and/or green open access,
-[&Delta;](https://en.wikipedia.org/wiki/Open_data) open code and/or data,
-[&Rho;](https://en.wikipedia.org/wiki/Open_peer_review) open peer review,
-[&Pi;](https://en.wikipedia.org/wiki/Preregistration) registered report,
-[&Nu;](https://en.wikipedia.org/wiki/Publication_bias) null results.
+<font color="#0072B2">[&Omicron;](https://en.wikipedia.org/wiki/Open_access)</font> gold/green open access,
+<font color="#0072B2">[&Delta;](https://en.wikipedia.org/wiki/Open_data)</font> open code/data,
+<font color="#0072B2">[&Rho;](https://en.wikipedia.org/wiki/Open_peer_review)</font> open peer review,
+<font color="#0072B2">[&Pi;](https://en.wikipedia.org/wiki/Preregistration)</font> registered report,
+<font color="#0072B2">[&Nu;](https://en.wikipedia.org/wiki/Publication_bias)</font> null results.
 
 
 
@@ -54,7 +54,7 @@ Open science indicators:
  <font color="#F0E442">Tracing systematic errors to personalize recommendations in single digit multiplication and beyond.</font>
  doi:10.31234/osf.io/53muj
  <a href="https://doi.org/10.31234/osf.io/53muj">preprint</a> /
- <font color="#56B4E9">&Omicron;</font>
+ <font color="#0072B2">&Omicron;</font>
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
@@ -62,7 +62,7 @@ Open science indicators:
  <font color="#D55E00">Balancing trade-offs in the detection of schools at risk.</font>
  doi:10.35542/osf.io/q6z4r
  <a href="https://doi.org/10.35542/osf.io/q6z4r">preprint</a> /
- <font color="#56B4E9">&Omicron;</font>
+ <font color="#0072B2">&Omicron;</font>
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
@@ -70,7 +70,7 @@ Open science indicators:
  <font color="#E69F00">Mitochondrial functioning &#8800; general intelligence.</font>
  <em>Journal of Intelligence, 8</em>, 20. doi:10.3390/jintelligence8020020
  <a href="https://doi.org/10.3390/jintelligence8020020">full text</a> /
- <font color="#56B4E9">&Omicron;</font> <font color="#56B4E9">&Rho;</font>
+ <font color="#0072B2">&Omicron;</font> <font color="#0072B2">&Rho;</font>
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
@@ -78,7 +78,7 @@ Open science indicators:
  <font color="#E69F00">The wiring of intelligence.</font>
  <em>Perspectives on Psychological Science, 14</em>, 1034–1061. doi:10.1177/1745691619866447
  <a href="https://doi.org/10.1177/1745691619866447">full text</a>, <a href="https://doi.org/10.31234/osf.io/32wr8">preprint</a> /
- <font color="#56B4E9">&Omicron;</font>
+ <font color="#0072B2">&Omicron;</font>
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
@@ -93,7 +93,7 @@ Open science indicators:
  <em>Towards an idiographic education</em> (Doctoral dissertation).
  University of Amsterdam, The Netherlands. doi:10.31237/osf.io/7gqhz
  <a href="https://doi.org/10.31237/osf.io/7gqhz">full text</a> /
- <font color="#56B4E9">&Omicron;</font>
+ <font color="#0072B2">&Omicron;</font>
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
@@ -101,7 +101,7 @@ Open science indicators:
  <font color="#009E73">Learning as it happens: A decade of analyzing and shaping a large-scale online learning system.</font>
  <em>Journal of Learning Analytics, 5</em>, 29-46. doi:10.18608/jla.2018.52.3
  <a href="https://doi.org/10.18608/jla.2018.52.3">full text</a>, <a href="https://doi.org/10.31234/osf.io/g4z85">preprint</a> /
- <font color="#56B4E9">&Omicron;</font>
+ <font color="#0072B2">&Omicron;</font>
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
@@ -109,7 +109,7 @@ Open science indicators:
  <font color="#CC79A7">Delaying access to a problem-skipping option increases effortful practice: Application of an A/B test in large-scale online learning.</font>
  <em>Computers & Education, 119</em>, 84-94. doi:10.1016/j.compedu.2017.12.008
  <a href="https://doi.org/10.1016/j.compedu.2017.12.008">full text</a>, <a href="https://doi.org/10.31235/osf.io/m6jqe">preprint</a>, <a href="https://osf.io/z88wh/">code&data</a>, <a href="/assets/talks/2017_Poster_IOPS/poster.pdf">poster</a> /
- <font color="#56B4E9">&Omicron;</font> <font color="#56B4E9">&Delta;</font>
+ <font color="#0072B2">&Omicron;</font> <font color="#0072B2">&Delta;</font>
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
@@ -117,7 +117,7 @@ Open science indicators:
  <font color="#CC79A7">A tool to support MOOC teachers with questionnaires, adaptive lessons, and experimental comparisons.</font>
  doi:10.31219/osf.io/q53jx
  <a href="http://doi.org/10.31219/osf.io/q53jx">preprint</a>, <a href="https://github.com/renspoesse/uva-qualtrics-lti-bridge">code</a> /
- <font color="#56B4E9">&Omicron;</font> <font color="#56B4E9">&Delta;</font>
+ <font color="#0072B2">&Omicron;</font> <font color="#0072B2">&Delta;</font>
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
@@ -125,7 +125,7 @@ Open science indicators:
  <font color="#CC79A7">The role of A/B tests in the study of large-scale online learning.</font>
  doi:10.31219/osf.io/83jsg
  <a href="https://doi.org/10.31219/osf.io/83jsg">preprint</a> /
- <font color="#56B4E9">&Omicron;</font>
+ <font color="#0072B2">&Omicron;</font>
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
@@ -133,7 +133,7 @@ Open science indicators:
  <font color="#009E73">Self-adapting the success rate when practicing math.</font>
  <em>Learning and Individual Differences, 51</em>, 1-10. doi:10.1016/j.lindif.2016.08.027
  <a href="http://doi.org/10.1016/j.lindif.2016.08.027">full text</a> /
- <font color="#56B4E9">&Nu;</font>
+ <font color="#0072B2">&Nu;</font>
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
@@ -141,7 +141,7 @@ Open science indicators:
  Making large-scale networks from fMRI data.
  <em>PLoS ONE, 10</em>(9): e0129074. doi:10.1371/journal.pone.0129074
  <a href="http://doi.org/10.1371/journal.pone.0129074">full text</a>, <a href="http://persistent-identifier.nl/?identifier=urn:nbn:nl:ui:13-okb6-1d">data</a> /
- <font color="#56B4E9">&Omicron;</font> <font color="#56B4E9">&Delta;</font>
+ <font color="#0072B2">&Omicron;</font> <font color="#0072B2">&Delta;</font>
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
@@ -149,7 +149,7 @@ Open science indicators:
  <font color="#CC79A7">Navigating massive open online courses.</font>
  <em>Science, 347</em>, 958. doi:10.1126/science.347.6225.958
  <a href="http://www.sciencemag.org/cgi/content/full/347/6225/958?ijkey=Cvwc9s8Vmj7jM&amp;keytype=ref&amp;siteid=sci">full text</a>, <a href="http://www.sciencemag.org/cgi/rapidpdf/347/6225/958?ijkey=Cvwc9s8Vmj7jM&amp;keytype=ref&amp;siteid=sci">reprint</a>, <a href="https://doi.org/10.31234/osf.io/kch9u">preprint</a> /
- <font color="#56B4E9">&Omicron;</font>
+ <font color="#0072B2">&Omicron;</font>
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
@@ -157,7 +157,7 @@ Open science indicators:
  <em>Testing children’s Theory of Mind: Suitability of the strategic n-coin game</em> (Master’s thesis).
  Retrieved from http://www.scriptiesonline.uba.uva.nl/en/467418
  <a href="http://www.scriptiesonline.uba.uva.nl/en/467418">full text</a> /
- <font color="#56B4E9">&Omicron;</font>
+ <font color="#0072B2">&Omicron;</font>
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
@@ -165,7 +165,7 @@ Open science indicators:
  <em>Accurately explaining exploratory decisions in a non-stationary bandit problem: A recovery study of the Kalman filter model</em> (Internship report).
  Retrieved from http://doi.org/10.6084/m9.figshare.1286872
  <a href="http://doi.org/10.6084/m9.figshare.1286872">full text (CC-BY)</a>, data included /
- <font color="#56B4E9">&Omicron;</font> <font color="#56B4E9">&Delta;</font>
+ <font color="#0072B2">&Omicron;</font> <font color="#0072B2">&Delta;</font>
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
@@ -173,7 +173,7 @@ Open science indicators:
  <em>Automated inductive causation: Recovering causal structures from observational data</em> (Bachelor’s thesis).
  Retrieved from http://doi.org/10.6084/m9.figshare.1286876
  <a href="http://doi.org/10.6084/m9.figshare.1286876">full text (CC-BY)</a>, <a href="http://doi.org/10.6084/m9.figshare.1286876">code&data (GPL≥v3)</a> /
- <font color="#56B4E9">&Omicron;</font> <font color="#56B4E9">&Delta;</font>
+ <font color="#0072B2">&Omicron;</font> <font color="#0072B2">&Delta;</font>
 </p>
 
 <p class="message">
