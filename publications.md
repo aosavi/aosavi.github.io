@@ -6,8 +6,8 @@ title: Publications
 Keywords: <font color="#E69F00">developmental intelligence</font>, <font color="#F0E442">learning diagnosis</font>, <font color="#CC79A7">A/B tests in online learning</font>, <font color="#009E73">computerized adaptive practice</font>, <font color="#D55E00">predictive modeling</font>.
 
 Open science indicators:
-[&Omicron;](https://en.wikipedia.org/wiki/Open_access) open access or preprint,
-[&Delta;](https://en.wikipedia.org/wiki/Open_data) open data,
+[&Omicron;](https://en.wikipedia.org/wiki/Open_access) gold and/or green open access,
+[&Delta;](https://en.wikipedia.org/wiki/Open_data) open code and/or data,
 [&Rho;](https://en.wikipedia.org/wiki/Open_peer_review) open peer review,
 [&Pi;](https://en.wikipedia.org/wiki/Preregistration) registered report,
 [&Nu;](https://en.wikipedia.org/wiki/Publication_bias) null results.
@@ -116,8 +116,8 @@ Open science indicators:
  Savi, A. O. (2017).
  <font color="#CC79A7">A tool to support MOOC teachers with questionnaires, adaptive lessons, and experimental comparisons.</font>
  doi:10.31219/osf.io/q53jx
- <a href="http://doi.org/10.31219/osf.io/q53jx">preprint</a> /
- <font color="#56B4E9">&Omicron;</font>
+ <a href="http://doi.org/10.31219/osf.io/q53jx">preprint</a>, <a href="https://github.com/renspoesse/uva-qualtrics-lti-bridge">code</a> /
+ <font color="#56B4E9">&Omicron;</font> <font color="#56B4E9">&Delta;</font>
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
