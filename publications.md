@@ -7,7 +7,7 @@ Keywords: <font color="#E69F00">developmental intelligence</font>, <font color="
 
 Open science indicators:
 [<font color="#0072B2">&Omicron;</font>](https://en.wikipedia.org/wiki/Open_access) gold/green open access,
-[<font color="#0072B2">&Delta;</font>](https://en.wikipedia.org/wiki/Open_data)</font> open code/data,
+[<font color="#0072B2">&Delta;</font>](https://en.wikipedia.org/wiki/Open_data) open code/data,
 [<font color="#0072B2">&Rho;</font>](https://en.wikipedia.org/wiki/Open_peer_review) open peer review,
 [<font color="#0072B2">&Pi;</font>](https://en.wikipedia.org/wiki/Preregistration) registered report,
 [<font color="#0072B2">&Nu;</font>](https://en.wikipedia.org/wiki/Publication_bias) null results.
