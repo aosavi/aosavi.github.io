@@ -77,15 +77,16 @@ Open science indicators:
  Savi, A. O., Marsman, M., van der Maas, H. L. J., & Maris, G. K. J. (2019).
  <font color="#E69F00">The wiring of intelligence.</font>
  <em>Perspectives on Psychological Science, 14</em>, 1034–1061. doi:10.1177/1745691619866447
- <a href="https://doi.org/10.1177/1745691619866447">full text</a>, <a href="https://doi.org/10.31234/osf.io/32wr8">preprint</a> /
- <font color="#0072B2">&Omicron;</font>
+ <a href="https://doi.org/10.1177/1745691619866447">full text</a>, <a href="https://doi.org/10.31234/osf.io/32wr8">preprint</a>, <a href="https://doi.org/10.17605/OSF.IO/EY7MA">code</a> /
+ <font color="#0072B2">&Omicron;</font> <font color="#0072B2">&Delta;</font>
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
  van der Maas, H. L. J., Savi, A. O., Hofman, A., Kan, K.-J., & Marsman, M. (2019).
  <font color="#E69F00">The network approach to general intelligence.</font>
  In D. J. McFarland (Ed.), <em>General and specific mental abilities</em> (pp. 108–131). Cambridge Scholars Publishing.
- <a href="https://www.cambridgescholars.com/general-and-specific-mental-abilities">chapter</a>
+ <a href="https://www.cambridgescholars.com/general-and-specific-mental-abilities">chapter</a>, <a href="https://doi.org/10.31234/osf.io/e96m8">preprint</a> /
+ <font color="#0072B2">&Omicron;</font>
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
