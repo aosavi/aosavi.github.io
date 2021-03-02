@@ -47,7 +47,7 @@ Open science indicators:
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O., Marsman, M., van der Maas, H. L. J., & Maris, G. K. J. (2019).
  <font color="#E69F00">The wiring of intelligence.</font>
- <em>Perspectives on Psychological Science, 14</em>, 1034–1061.<br>
+ <em>Perspectives on Psychological Science, 14</em>(6), 1034&ndash;1061.<br>
  <a href="https://doi.org/10.1177/1745691619866447">full text</a>, <a href="https://doi.org/10.31234/osf.io/32wr8">preprint</a>, <a href="https://doi.org/10.17605/OSF.IO/EY7MA">code</a> /
  <font color="#0072B2">&Omicron;</font> <font color="#0072B2">&Delta;</font>
 </p>
@@ -55,7 +55,7 @@ Open science indicators:
 <p style="margin-left: .3in; text-indent: -.3in;">
  van der Maas, H. L. J., Savi, A. O., Hofman, A., Kan, K.-J., & Marsman, M. (2019).
  <font color="#E69F00">The network approach to general intelligence.</font>
- In D. J. McFarland (Ed.), <em>General and specific mental abilities</em> (pp. 108–131). Cambridge Scholars Publishing.<br>
+ In D. J. McFarland (Ed.), <em>General and specific mental abilities</em> (pp. 108&ndash;131). Cambridge Scholars Publishing.<br>
  <a href="https://www.cambridgescholars.com/general-and-specific-mental-abilities">chapter</a>, <a href="https://doi.org/10.31234/osf.io/e96m8">preprint</a> /
  <font color="#0072B2">&Omicron;</font>
 </p>
@@ -71,7 +71,7 @@ Open science indicators:
 <p style="margin-left: .3in; text-indent: -.3in;">
  Brinkhuis, M. J. S., Savi, A. O., Coomans, F., Hofman, A. D., van der Maas, H. L. J., & Maris, G. (2018).
  <font color="#009E73">Learning as it happens: A decade of analyzing and shaping a large-scale online learning system.</font>
- <em>Journal of Learning Analytics, 5</em>, 29-46.<br>
+ <em>Journal of Learning Analytics, 5</em>(2), 29&ndash;46.<br>
  <a href="https://doi.org/10.18608/jla.2018.52.3">full text</a>, <a href="https://doi.org/10.31234/osf.io/g4z85">preprint</a> /
  <font color="#0072B2">&Omicron;</font>
 </p>
@@ -79,7 +79,7 @@ Open science indicators:
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O., Ruijs, N. M., Maris, G. K. J., & van der Maas, H. L. J. (2018).
  <font color="#CC79A7">Delaying access to a problem-skipping option increases effortful practice: Application of an A/B test in large-scale online learning.</font>
- <em>Computers & Education, 119</em>, 84-94.<br>
+ <em>Computers & Education, 119</em>, 84&ndash;94.<br>
  <a href="https://doi.org/10.1016/j.compedu.2017.12.008">full text</a>, <a href="https://doi.org/10.31235/osf.io/m6jqe">preprint</a>, <a href="https://osf.io/z88wh/">code&data</a>, <a href="/assets/talks/2017_Poster_IOPS/poster.pdf">poster</a> /
  <font color="#0072B2">&Omicron;</font> <font color="#0072B2">&Delta;</font> <font color="#0072B2">&Chi;</font>
 </p>
@@ -103,7 +103,7 @@ Open science indicators:
 <p style="margin-left: .3in; text-indent: -.3in;">
  Jansen, B. R. J., Hofman, A. D., Savi, A. O., Visser, I., & van der Maas, H. L. J. (2016).
  <font color="#009E73">Self-adapting the success rate when practicing math.</font>
- <em>Learning and Individual Differences, 51</em>, 1-10.<br>
+ <em>Learning and Individual Differences, 51</em>, 1&ndash;10.<br>
  <a href="https://doi.org/10.1016/j.lindif.2016.08.027">full text</a> /
  <font color="#0072B2">&Nu;</font>
 </p>
@@ -111,7 +111,7 @@ Open science indicators:
 <p style="margin-left: .3in; text-indent: -.3in;">
  Schmittmann, V. D., Jahfari, S., Borsboom, D., Savi, A. O., & Waldorp, L. J. (2015).
  Making large-scale networks from fMRI data.
- <em>PLoS ONE, 10</em>(9): e0129074.<br>
+ <em>PLoS ONE, 10</em>(9), 1&ndash;32.<br>
  <a href="https://doi.org/10.1371/journal.pone.0129074">full text</a>, <a href="https://persistent-identifier.nl/?identifier=urn:nbn:nl:ui:13-okb6-1d">data</a> /
  <font color="#0072B2">&Omicron;</font> <font color="#0072B2">&Delta;</font>
 </p>
@@ -119,7 +119,7 @@ Open science indicators:
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O., van der Maas, H. L. J., & Maris, G. K. J. (2015).
  <font color="#CC79A7">Navigating massive open online courses.</font>
- <em>Science, 347</em>, 958.<br>
+ <em>Science, 347</em>(6225), 958.<br>
  <a href="https://www.sciencemag.org/cgi/content/full/347/6225/958?ijkey=Cvwc9s8Vmj7jM&amp;keytype=ref&amp;siteid=sci">full text</a>, <a href="https://www.sciencemag.org/cgi/rapidpdf/347/6225/958?ijkey=Cvwc9s8Vmj7jM&amp;keytype=ref&amp;siteid=sci">reprint</a>, <a href="https://doi.org/10.31234/osf.io/kch9u">preprint</a> /
  <font color="#0072B2">&Omicron;</font>
 </p>
