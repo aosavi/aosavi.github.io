@@ -50,6 +50,14 @@ Open science indicators:
 -->
 
 <p style="margin-left: .3in; text-indent: -.3in;">
+ Savi, A. O., Marsman, M., & van der Maas, H. L. J. (2021).
+ <font color="#E69F00">Evolving networks of human intelligence.</font>
+ doi:10.31234/osf.io/shq87<br>
+ <a href="https://doi.org/10.31234/osf.io/shq87">preprint</a> /
+ <font color="#0072B2">&Omicron;</font>
+</p>
+
+<p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O., Deonovic, B. E., Bolsinova, M., van der Maas, H. L. J., & Maris, G. K. J. (2020).
  <font color="#F0E442">Tracing systematic errors to personalize recommendations in single digit multiplication and beyond.</font>
  doi:10.31234/osf.io/53muj<br>
