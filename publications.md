@@ -15,7 +15,7 @@ Open science indicators:
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O., Marsman, M., & van der Maas, H. L. J. (2021).
  <font color="#E69F00">Evolving networks of human intelligence.</font>
- PsyArXiv.<br>
+ <em>PsyArXiv</em>.<br>
  <a href="https://doi.org/10.31234/osf.io/shq87">preprint</a> /
  <font color="#0072B2">&Omicron;</font>
 </p>
@@ -23,7 +23,7 @@ Open science indicators:
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O., Deonovic, B. E., Bolsinova, M., van der Maas, H. L. J., & Maris, G. K. J. (2020).
  <font color="#F0E442">Tracing systematic errors to personalize recommendations in single digit multiplication and beyond.</font>
- PsyArXiv.<br>
+ <em>PsyArXiv</em>.<br>
  <a href="https://doi.org/10.31234/osf.io/53muj">preprint</a> /
  <font color="#0072B2">&Omicron;</font>
 </p>
@@ -31,7 +31,7 @@ Open science indicators:
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O., Cornelisz, I., Sjerps, M. J., Greup, S. L., Bres, C. M., & van Klaveren, C. (2020).
  <font color="#D55E00">Balancing trade-offs in the detection of schools at risk.</font>
- EdArXiv.<br>
+ <em>EdArXiv</em>.<br>
  <a href="https://doi.org/10.35542/osf.io/q6z4r">preprint</a> /
  <font color="#0072B2">&Omicron;</font>
 </p>
@@ -62,8 +62,8 @@ Open science indicators:
 
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O. (2019).
- <em>Towards an idiographic education</em> [Doctoral dissertation, University of Amsterdam].
- Thesis Commons.<br>
+ Towards an idiographic education [Doctoral dissertation, University of Amsterdam].
+ <em>Thesis Commons</em>.<br>
  <a href="https://doi.org/10.31237/osf.io/7gqhz">full text</a> /
  <font color="#0072B2">&Omicron;</font>
 </p>
@@ -87,7 +87,7 @@ Open science indicators:
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O. (2017).
  <font color="#CC79A7">A tool to support MOOC teachers with questionnaires, adaptive lessons, and experimental comparisons.</font>
- OSF Preprints.<br>
+ <em>OSF Preprints</em>.<br>
  <a href="https://doi.org/10.31219/osf.io/q53jx">preprint</a>, <a href="https://github.com/renspoesse/uva-qualtrics-lti-bridge">code</a> /
  <font color="#0072B2">&Omicron;</font> <font color="#0072B2">&Delta;</font>
 </p>
@@ -95,7 +95,7 @@ Open science indicators:
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O., Williams, J. J., Maris, G. K. J., & van der Maas, H. L. J. (2017).
  <font color="#CC79A7">The role of A/B tests in the study of large-scale online learning.</font>
- OSF Preprints.<br>
+ <em>OSF Preprints</em>.<br>
  <a href="https://doi.org/10.31219/osf.io/83jsg">preprint</a> /
  <font color="#0072B2">&Omicron;</font>
 </p>
@@ -126,24 +126,24 @@ Open science indicators:
 
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O. (2013).
- <em>Testing children’s Theory of Mind: Suitability of the strategic n-coin game</em> [Master’s thesis, University of Amsterdam].
- UvA Scripties.<br>
+ Testing children’s Theory of Mind: Suitability of the strategic n-coin game [Master’s thesis, University of Amsterdam].
+ <em>UvA Scripties</em>.<br>
  <a href="https://www.scriptiesonline.uba.uva.nl/en/467418">full text</a> /
  <font color="#0072B2">&Omicron;</font>
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O. (2013).
- <em>Accurately explaining exploratory decisions in a non-stationary bandit problem: A recovery study of the Kalman filter model</em> [Internship report, University of Amsterdam].
- Figshare.<br>
+ Accurately explaining exploratory decisions in a non-stationary bandit problem: A recovery study of the Kalman filter model [Internship report, University of Amsterdam].
+ <em>Figshare</em>.<br>
  <a href="https://doi.org/10.6084/m9.figshare.1286872">full text (CC-BY)</a>, data included /
  <font color="#0072B2">&Omicron;</font> <font color="#0072B2">&Delta;</font>
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O. (2010).
- <em>Automated inductive causation: Recovering causal structures from observational data</em> [Bachelor’s thesis, University of Amsterdam].
- Figshare.<br>
+ Automated inductive causation: Recovering causal structures from observational data [Bachelor’s thesis, University of Amsterdam].
+ <em>Figshare</em>.<br>
  <a href="https://doi.org/10.6084/m9.figshare.1286876">full text (CC-BY)</a>, <a href="https://doi.org/10.6084/m9.figshare.1286876">code&data (GPL≥v3)</a> /
  <font color="#0072B2">&Omicron;</font> <font color="#0072B2">&Delta;</font>
 </p>
