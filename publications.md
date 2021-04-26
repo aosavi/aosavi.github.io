@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-Keywords: <font color="#E69F00">developmental intelligence</font>, <font color="#F0E442">learning diagnosis</font>, <font color="#CC79A7">A/B tests in online learning</font>, <font color="#009E73">computerized adaptive practice</font>, <font color="#D55E00">predictive modeling</font>.
+Keywords: <font color="#E69F00">developmental intelligence</font>, <font color="#CC79A7">A/B tests in online learning</font>, <font color="#009E73">computerized adaptive practice</font>, <font color="#D55E00">predictive modeling</font>.
 
 Open science indicators:
 [<font color="#0072B2">&Omicron;</font>](https://en.wikipedia.org/wiki/Open_access) gold/green open access,
@@ -11,6 +11,14 @@ Open science indicators:
 [<font color="#0072B2">&Rho;</font>](https://en.wikipedia.org/wiki/Open_peer_review) open peer review,
 [<font color="#0072B2">&Pi;</font>](https://en.wikipedia.org/wiki/Preregistration) registered report,
 [<font color="#0072B2">&Nu;</font>](https://en.wikipedia.org/wiki/Publication_bias) null results, <font color="#0072B2">&Chi;</font> holdout principle.
+
+<p style="margin-left: .3in; text-indent: -.3in;">
+ Savi, A. O. (2021).
+ <font color="#E69F00">Setworks: Networks of complex set intersections.</font>
+ <em>PsyArXiv</em>.<br>
+ <a href="https://doi.org/10.31234/osf.io/kj7vg">preprint</a>, <a href="https://aosavi.shinyapps.io/setworks/">shiny app</a> /
+ <font color="#0072B2">&Omicron;</font> <font color="#0072B2">&Delta;</font>
+</p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O., Marsman, M., & van der Maas, H. L. J. (2021).
@@ -22,7 +30,7 @@ Open science indicators:
 
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O., Deonovic, B. E., Bolsinova, M., van der Maas, H. L. J., & Maris, G. K. J. (2020).
- <font color="#F0E442">Tracing systematic errors to personalize recommendations in single digit multiplication and beyond.</font>
+ <font color="#009E73">Tracing systematic errors to personalize recommendations in single digit multiplication and beyond.</font>
  <em>PsyArXiv</em>.<br>
  <a href="https://doi.org/10.31234/osf.io/53muj">preprint</a> /
  <font color="#0072B2">&Omicron;</font>
