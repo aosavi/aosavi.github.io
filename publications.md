@@ -16,7 +16,7 @@ Open science indicators:
  Savi, A. O. (2021).
  Setworks: Networks of complex set intersections.
  <em>PsyArXiv</em>.<br>
- <a href="https://doi.org/10.31234/osf.io/kj7vg">preprint</a>, <a href="https://aosavi.shinyapps.io/setworks/">shiny app</a> /
+ <a href="https://doi.org/10.31234/osf.io/kj7vg">preprint</a>, <a href="https://aosavi.shinyapps.io/setworks/">shiny app</a>, <a href="https://github.com/aosavi/setworks">github</a> /
  <font color="#0072B2">&Omicron;</font> <font color="#0072B2">&Delta;</font>
 </p>
 
