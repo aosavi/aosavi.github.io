@@ -56,7 +56,7 @@ Open science indicators:
  Savi, A. O., Marsman, M., van der Maas, H. L. J., & Maris, G. K. J. (2019).
  <font color="#E69F00">The wiring of intelligence.</font>
  <em>Perspectives on Psychological Science, 14</em>(6), 1034&ndash;1061.<br>
- <a href="https://doi.org/10.1177/1745691619866447">full text</a>, <a href="https://doi.org/10.31234/osf.io/32wr8">preprint</a>, <a href="https://doi.org/10.17605/OSF.IO/EY7MA">code</a> /
+ <a href="https://doi.org/10.1177/1745691619866447">full text</a>, <a href="https://doi.org/10.31234/osf.io/32wr8">preprint</a>, <a href="https://doi.org/10.17605/OSF.IO/EY7MA">code</a>, <a href="https://youtu.be/NF7GfzBjrsA">podcast</a> /
  <font color="#0072B2">&Omicron;</font> <font color="#0072B2">&Delta;</font>
 </p>
 
