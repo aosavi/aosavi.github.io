@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-Keywords: <font color="#E69F00">developmental intelligence</font>, <font color="#CC79A7">A/B tests in online learning</font>, <font color="#009E73">computerized adaptive practice</font>, <font color="#D55E00">predictive modeling</font>.
+Keywords: <font color="#E69F00">developmental intelligence</font>, <font color="#CC79A7">A/B tests in online learning</font>, <font color="#009E73">computerized adaptive practice</font>, <font color="#F0E442">networks</font>, <font color="#D55E00">predictive modeling</font>.
 
 Open science indicators:
 [<font color="#0072B2">&Omicron;</font>](https://en.wikipedia.org/wiki/Open_access) gold/green open access,
@@ -14,7 +14,7 @@ Open science indicators:
 
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O. (2021).
- Setworks: Networks of complex set intersections.
+ <font color="#F0E442">Setworks: Networks of complex set intersections.</font>
  <em>PsyArXiv</em>.<br>
  <a href="https://doi.org/10.31234/osf.io/kj7vg">preprint</a>, <a href="https://aosavi.shinyapps.io/setworks/">shiny app</a>, <a href="https://github.com/aosavi/setworks">github</a> /
  <font color="#0072B2">&Omicron;</font> <font color="#0072B2">&Delta;</font>
@@ -118,7 +118,7 @@ Open science indicators:
 
 <p style="margin-left: .3in; text-indent: -.3in;">
  Schmittmann, V. D., Jahfari, S., Borsboom, D., Savi, A. O., & Waldorp, L. J. (2015).
- Making large-scale networks from fMRI data.
+ <font color="#F0E442">Making large-scale networks from fMRI data.</font>
  <em>PLoS ONE, 10</em>(9), 1&ndash;32.<br>
  <a href="https://doi.org/10.1371/journal.pone.0129074">full text</a>, <a href="https://persistent-identifier.nl/?identifier=urn:nbn:nl:ui:13-okb6-1d">data</a> /
  <font color="#0072B2">&Omicron;</font> <font color="#0072B2">&Delta;</font>
