@@ -29,18 +29,18 @@ Open science indicators:
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
- Savi, A. O., Deonovic, B. E., Bolsinova, M., van der Maas, H. L. J., & Maris, G. K. J. (2020).
- <font color="#009E73">Tracing systematic errors to personalize recommendations in single digit multiplication and beyond.</font>
- <em>PsyArXiv</em>.<br>
- <a href="https://doi.org/10.31234/osf.io/53muj">preprint</a> /
+ Savi, A. O., Cornelisz, I., Sjerps, M. J., Greup, S. L., Bres, C. M., & van Klaveren, C. (2021).
+ <font color="#D55E00">Balancing trade-offs in the detection of primary schools at risk.</font>
+ <em>Educational Measurement: Issues and Practice</em>.<br>
+ <a href="https://onlinelibrary.wiley.com/share/author/AP4PAACTRX7JASJPYAP3?target=10.1111/emip.12433">full text</a>, <a href="https://doi.org/10.35542/osf.io/q6z4r">preprint</a> /
  <font color="#0072B2">&Omicron;</font>
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
- Savi, A. O., Cornelisz, I., Sjerps, M. J., Greup, S. L., Bres, C. M., & van Klaveren, C. (2020).
- <font color="#D55E00">Balancing trade-offs in the detection of schools at risk.</font>
- <em>EdArXiv</em>.<br>
- <a href="https://doi.org/10.35542/osf.io/q6z4r">preprint</a> /
+ Savi, A. O., Deonovic, B. E., Bolsinova, M., van der Maas, H. L. J., & Maris, G. K. J. (2020).
+ <font color="#009E73">Tracing systematic errors to personalize recommendations in single digit multiplication and beyond.</font>
+ <em>PsyArXiv</em>.<br>
+ <a href="https://doi.org/10.31234/osf.io/53muj">preprint</a> /
  <font color="#0072B2">&Omicron;</font>
 </p>
 
