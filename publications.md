@@ -13,6 +13,14 @@ Open science indicators:
 [<font color="#0072B2">&Nu;</font>](https://en.wikipedia.org/wiki/Publication_bias) null results, <font color="#0072B2">&Chi;</font> holdout principle.
 
 <p style="margin-left: .3in; text-indent: -.3in;">
+ Savi, A. O., ten Broeke, N., & Hofman, A. D. (2021).
+ <font color="#CC79A7">Adaptive learning systems and interference in causal inference.</font>
+ <em>Educational A/B Testing at Scale</em>.<br>
+ <a href="https://sites.google.com/carnegielearning.com/edu-ab-testing-at-scale-2021/">workshop paper</a> /
+ <font color="#0072B2">&Omicron;</font>
+</p>
+
+<p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O. (2021).
  <font color="#F0E442">Setworks: Networks of complex set intersections.</font>
  <em>PsyArXiv</em>.<br>
