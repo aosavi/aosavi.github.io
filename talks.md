@@ -5,6 +5,8 @@ title: Talks
 
 2021-10-10 <font color="#009E73">DE</font> [IACAT](https://www.iacat2021.com/) From adaptive practicing to one-to-one tutoring
 
+2021-06-22 <font color="#009E73">DE</font> [Learning @ Scale](https://emoocs2021.eu/) Adaptive learning systems and interference in causal inference
+
 2020-01-28 <font color="#E69F00">NL</font> [Stichting Tabijn](https://www.tabijn.nl/) Data in het onderwijs
 
 2019-09-17 <font color="#E69F00">NL</font> [LEARN! Annual Conference](https://learn.vu.nl/) The wiring of intelligence
