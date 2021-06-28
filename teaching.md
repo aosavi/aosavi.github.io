@@ -19,13 +19,17 @@ Disruptive innovation, disruptive technologyIn this course, we'll go beyond the 
 * 18/12/06 <a href="/assets/lectures/2018_IIS_DisruptingScience_TeaserTalk.pdf">Sneak peek</a>
 -->
 
-## <font color="#D55E00">Psychometrics</font>
+## <font color="#009E73">Psychometrics</font>
+
+Understanding follows measurement. Psychometrics provides the theory and techniques for psychological measurement.
 
 #### Present
 
-* 2021/22&#151;[Syllabus](https://studiegids.uva.nl/xmlpages/page/2021-2022-en/search-course/course/91308).
+* 2021/22&#151;[Syllabus](https://studiegids.uva.nl/xmlpages/page/2021-2022-en/search-course/course/91308). [Book](https://doi.org/10.1007/978-3-319-93177-7).
 
-## <font color="#0072B2">Behavioural Data Science Toolbox: Data Visualization</font>
+## <font color="#D55E00">Behavioral Data Science Toolbox: Data Visualization</font>
+
+Show, don't tell. (Interactive) data visualization in R&#151;in collaboration with [Abe Hofman](http://www.abehofman.com/).
 
 #### Present
 
