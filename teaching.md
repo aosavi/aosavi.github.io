@@ -19,11 +19,23 @@ Disruptive innovation, disruptive technologyIn this course, we'll go beyond the 
 * 18/12/06 <a href="/assets/lectures/2018_IIS_DisruptingScience_TeaserTalk.pdf">Sneak peek</a>
 -->
 
+## <font color="#D55E00">Psychometrics</font>
+
+#### Present
+
+* 2021/22&#151;[Syllabus](https://studiegids.uva.nl/xmlpages/page/2021-2022-en/search-course/course/91308).
+
+## <font color="#0072B2">Behavioural Data Science Toolbox: Data Visualization</font>
+
+#### Present
+
+* 2021/22&#151;[Syllabus](https://studiegids.uva.nl/xmlpages/page/2021-2022-en/search-course/course/91468).
+
 ## <font color="#E69F00">We R Champions</font>
 
 A modular masterclass series on programming in R, with a primary focus on the tidyverse&#151;in collaboration with [Simone Plak](https://www.researchgate.net/profile/Simone_Plak).
 
-#### Present
+#### Past
 
 * 2019/20&#151;<a href="/assets/lectures/2020_we_r_champions/2020_we_r_champions.html">We R Champions</a> (syllabus). <a href="/assets/lectures/2020_we_r_champions/2020_we_r_preppers.html">We R Preppers</a> (prep guide). <a href="/assets/lectures/2020_we_r_champions/2020_we_r_novices.html">We R Novices</a> (R and tidyverse foundations). <a href="/assets/lectures/2020_we_r_champions/2020_we_r_analysts.html">We R Analysts</a> (data analysis). We R Transformers (data transformation). We R Visualizers (data visualization). We R Communicators (data communication). We R Programmers (base R). We R Reproducible (code reproducibility). We R Speedsters (code optimization). We R Debuggers (code debugging).
 
