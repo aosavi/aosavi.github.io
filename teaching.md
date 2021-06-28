@@ -33,7 +33,7 @@ Show, don't tell. (Interactive) data visualization in R&#151;in collaboration wi
 
 #### Present
 
-* 2021/22&#151;[Syllabus](https://studiegids.uva.nl/xmlpages/page/2021-2022-en/search-course/course/91468).
+* 2021/22&#151;[Syllabus](https://studiegids.uva.nl/xmlpages/page/2021-2022-en/search-course/course/91468). [Book](https://r4ds.had.co.nz/data-visualisation.html).
 
 ## <font color="#E69F00">We R Champions</font>
 
