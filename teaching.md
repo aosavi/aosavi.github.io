@@ -27,9 +27,9 @@ Understanding follows measurement. Psychometrics provides the theory and techniq
 
 * 2021/22&#151;[Syllabus](https://studiegids.uva.nl/xmlpages/page/2021-2022-en/search-course/course/91308). [Book](https://doi.org/10.1007/978-3-319-93177-7).
 
-## <font color="#D55E00">Behavioral Data Science Toolbox: Data Visualization</font>
+## <font color="#D55E00">Behavioral Data Science: Data Visualization</font>
 
-Show, don't tell. (Interactive) data visualization in R&#151;in collaboration with [Abe Hofman](http://www.abehofman.com/).
+Show, don't tell. Students expand their behavioral data science skills with (interactive) data visualizations in R&#151;in collaboration with [Abe Hofman](http://www.abehofman.com/).
 
 #### Present
 
