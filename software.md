@@ -11,7 +11,7 @@ Read the [preprint](https://doi.org/10.31234/osf.io/kj7vg). Use the [Shiny app](
 
 <p class="message">
 <small>
-Savi, A. O. (2021). _Setworks: Networks of complex set intersections._ PsyArXiv. doi.org/10.31234/osf.io/kj7vg
+Savi, A. O. (2021). <em>Setworks: Networks of complex set intersections.</em> PsyArXiv. doi.org/10.31234/osf.io/kj7vg
 </small>
 </p>
 
@@ -23,6 +23,6 @@ Read the [preprint](https://doi.org/10.31219/osf.io/q53jx), [documentation](http
 
 <p class="message">
 <small>
-Savi, A. O. (2017). _A tool to support MOOC teachers with questionnaires, adaptive lessons, and experimental comparisons._ OSF Preprints. doi.org/10.31219/osf.io/q53jx
+Savi, A. O. (2017). <em>A tool to support MOOC teachers with questionnaires, adaptive lessons, and experimental comparisons.</em> OSF Preprints. doi.org/10.31219/osf.io/q53jx
 </small>
 </p>
