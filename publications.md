@@ -13,6 +13,14 @@ Open science indicators:
 [<font color="#0072B2">&Nu;</font>](https://en.wikipedia.org/wiki/Publication_bias) null results, <font color="#0072B2">&Chi;</font> holdout principle.
 
 <p style="margin-left: .3in; text-indent: -.3in;">
+ Savi, A. O., van Klaveren, C., & Cornelisz, I. (2021).
+ <font color="#CC79A7">Combating effort avoidance in computer adaptive practicing: Does a problem skipping restriction promote learning?</font>
+ <em>PsyArXiv</em>.<br>
+ <a href="">preprint</a> /
+ <font color="#0072B2">&Omicron;</font>
+</p>
+
+<p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O., ten Broeke, N., & Hofman, A. D. (2021).
  <font color="#CC79A7">Adaptive learning systems and interference in causal inference.</font>
  <em>Educational A/B Testing at Scale</em>.<br>
@@ -31,7 +39,7 @@ Open science indicators:
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O., Marsman, M., & van der Maas, H. L. J. (2021).
  <font color="#E69F00">Evolving networks of human intelligence.</font>
- <em>PsyArXiv</em>.<br>
+ <em>Intelligence</em>.<br>
  <a href="https://doi.org/10.31234/osf.io/shq87">preprint</a> /
  <font color="#0072B2">&Omicron;</font>
 </p>
