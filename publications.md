@@ -16,14 +16,14 @@ Open science indicators:
  Savi, A. O., van Klaveren, C., & Cornelisz, I. (2021).
  <font color="#CC79A7">Combating effort avoidance in computer adaptive practicing: Does a problem skipping restriction promote learning?</font>
  <em>PsyArXiv</em>.<br>
- <a href="">preprint</a> /
+ <a href="https://doi.org/10.31234/osf.io/5fmek">preprint</a> /
  <font color="#0072B2">&Omicron;</font>
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O., ten Broeke, N., & Hofman, A. D. (2021).
  <font color="#CC79A7">Adaptive learning systems and interference in causal inference.</font>
- <em>Educational A/B Testing at Scale</em>.<br>
+ <em>Educational A/B Testing at Scale: The Second Virtual Workshop at Learning @ Scale 2021</em>.<br>
  <a href="https://sites.google.com/carnegielearning.com/edu-ab-testing-at-scale-2021/">workshop paper</a> /
  <font color="#0072B2">&Omicron;</font>
 </p>
