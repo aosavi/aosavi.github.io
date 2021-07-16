@@ -17,7 +17,7 @@ Open science indicators:
  <font color="#CC79A7">Combating effort avoidance in computer adaptive practicing: Does a problem skipping restriction promote learning?</font>
  <em>PsyArXiv</em>.<br>
  <a href="https://doi.org/10.31234/osf.io/5fmek">preprint</a> /
- <font color="#0072B2">&Omicron;</font>
+ <font color="#0072B2">&Omicron;</font> <font color="#0072B2">&Nu;</font>
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
