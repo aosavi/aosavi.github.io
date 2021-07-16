@@ -40,7 +40,7 @@ Open science indicators:
  Savi, A. O., Marsman, M., & van der Maas, H. L. J. (2021).
  <font color="#E69F00">Evolving networks of human intelligence.</font>
  <em>Intelligence</em>.<br>
- <a href="https://doi.org/10.31234/osf.io/shq87">preprint</a> /
+ <a href="">full text</a>, <a href="https://doi.org/10.31234/osf.io/shq87">postprint</a> /
  <font color="#0072B2">&Omicron;</font>
 </p>
 
@@ -48,7 +48,7 @@ Open science indicators:
  Savi, A. O., Cornelisz, I., Sjerps, M. J., Greup, S. L., Bres, C. M., & van Klaveren, C. (2021).
  <font color="#D55E00">Balancing trade-offs in the detection of primary schools at risk.</font>
  <em>Educational Measurement: Issues and Practice</em>.<br>
- <a href="https://onlinelibrary.wiley.com/share/author/AP4PAACTRX7JASJPYAP3?target=10.1111/emip.12433">full text</a>, <a href="https://doi.org/10.35542/osf.io/q6z4r">preprint</a> /
+ <a href="https://onlinelibrary.wiley.com/share/author/AP4PAACTRX7JASJPYAP3?target=10.1111/emip.12433">full text</a>, <a href="https://doi.org/10.35542/osf.io/q6z4r">postprint</a> /
  <font color="#0072B2">&Omicron;</font>
 </p>
 
@@ -72,7 +72,7 @@ Open science indicators:
  Savi, A. O., Marsman, M., van der Maas, H. L. J., & Maris, G. K. J. (2019).
  <font color="#E69F00">The wiring of intelligence.</font>
  <em>Perspectives on Psychological Science, 14</em>(6), 1034&ndash;1061.<br>
- <a href="https://doi.org/10.1177/1745691619866447">full text</a>, <a href="https://doi.org/10.31234/osf.io/32wr8">preprint</a>, <a href="https://doi.org/10.17605/OSF.IO/EY7MA">code</a>, <a href="https://youtu.be/NF7GfzBjrsA">podcast</a> /
+ <a href="https://doi.org/10.1177/1745691619866447">full text</a>, <a href="https://doi.org/10.31234/osf.io/32wr8">postprint</a>, <a href="https://doi.org/10.17605/OSF.IO/EY7MA">code</a>, <a href="https://youtu.be/NF7GfzBjrsA">podcast</a> /
  <font color="#0072B2">&Omicron;</font> <font color="#0072B2">&Delta;</font>
 </p>
 
@@ -80,7 +80,7 @@ Open science indicators:
  van der Maas, H. L. J., Savi, A. O., Hofman, A., Kan, K.-J., & Marsman, M. (2019).
  <font color="#E69F00">The network approach to general intelligence.</font>
  In D. J. McFarland (Ed.), <em>General and specific mental abilities</em> (pp. 108&ndash;131). Cambridge Scholars Publishing.<br>
- <a href="https://www.cambridgescholars.com/general-and-specific-mental-abilities">chapter</a>, <a href="https://doi.org/10.31234/osf.io/e96m8">preprint</a> /
+ <a href="https://www.cambridgescholars.com/general-and-specific-mental-abilities">chapter</a>, <a href="https://doi.org/10.31234/osf.io/e96m8">postprint</a> /
  <font color="#0072B2">&Omicron;</font>
 </p>
 
@@ -96,7 +96,7 @@ Open science indicators:
  Brinkhuis, M. J. S., Savi, A. O., Coomans, F., Hofman, A. D., van der Maas, H. L. J., & Maris, G. (2018).
  <font color="#009E73">Learning as it happens: A decade of analyzing and shaping a large-scale online learning system.</font>
  <em>Journal of Learning Analytics, 5</em>(2), 29&ndash;46.<br>
- <a href="https://doi.org/10.18608/jla.2018.52.3">full text</a>, <a href="https://doi.org/10.31234/osf.io/g4z85">preprint</a> /
+ <a href="https://doi.org/10.18608/jla.2018.52.3">full text</a>, <a href="https://doi.org/10.31234/osf.io/g4z85">postprint</a> /
  <font color="#0072B2">&Omicron;</font>
 </p>
 
@@ -104,7 +104,7 @@ Open science indicators:
  Savi, A. O., Ruijs, N. M., Maris, G. K. J., & van der Maas, H. L. J. (2018).
  <font color="#CC79A7">Delaying access to a problem-skipping option increases effortful practice: Application of an A/B test in large-scale online learning.</font>
  <em>Computers & Education, 119</em>, 84&ndash;94.<br>
- <a href="https://doi.org/10.1016/j.compedu.2017.12.008">full text</a>, <a href="https://doi.org/10.31235/osf.io/m6jqe">preprint</a>, <a href="https://osf.io/z88wh/">code&data</a>, <a href="/assets/talks/2017_Poster_IOPS/poster.pdf">poster</a> /
+ <a href="https://doi.org/10.1016/j.compedu.2017.12.008">full text</a>, <a href="https://doi.org/10.31235/osf.io/m6jqe">postprint</a>, <a href="https://osf.io/z88wh/">code&data</a>, <a href="/assets/talks/2017_Poster_IOPS/poster.pdf">poster</a> /
  <font color="#0072B2">&Omicron;</font> <font color="#0072B2">&Delta;</font> <font color="#0072B2">&Chi;</font>
 </p>
 
@@ -128,8 +128,8 @@ Open science indicators:
  Jansen, B. R. J., Hofman, A. D., Savi, A. O., Visser, I., & van der Maas, H. L. J. (2016).
  <font color="#009E73">Self-adapting the success rate when practicing math.</font>
  <em>Learning and Individual Differences, 51</em>, 1&ndash;10.<br>
- <a href="https://doi.org/10.1016/j.lindif.2016.08.027">full text</a> /
- <font color="#0072B2">&Nu;</font>
+ <a href="https://doi.org/10.1016/j.lindif.2016.08.027">full text</a>, <a href="https://doi.org/10.31234/osf.io/8qnxw">postprint</a> /
+ <font color="#0072B2">&Omicron;</font> <font color="#0072B2">&Nu;</font>
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
@@ -144,7 +144,7 @@ Open science indicators:
  Savi, A. O., van der Maas, H. L. J., & Maris, G. K. J. (2015).
  <font color="#CC79A7">Navigating massive open online courses.</font>
  <em>Science, 347</em>(6225), 958.<br>
- <a href="https://www.sciencemag.org/cgi/content/full/347/6225/958?ijkey=Cvwc9s8Vmj7jM&amp;keytype=ref&amp;siteid=sci">full text</a>, <a href="https://www.sciencemag.org/cgi/rapidpdf/347/6225/958?ijkey=Cvwc9s8Vmj7jM&amp;keytype=ref&amp;siteid=sci">reprint</a>, <a href="https://doi.org/10.31234/osf.io/kch9u">preprint</a> /
+ <a href="https://www.sciencemag.org/cgi/content/full/347/6225/958?ijkey=Cvwc9s8Vmj7jM&amp;keytype=ref&amp;siteid=sci">full text</a>, <a href="https://www.sciencemag.org/cgi/rapidpdf/347/6225/958?ijkey=Cvwc9s8Vmj7jM&amp;keytype=ref&amp;siteid=sci">reprint</a>, <a href="https://doi.org/10.31234/osf.io/kch9u">postprint</a> /
  <font color="#0072B2">&Omicron;</font>
 </p>
 
