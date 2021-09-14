@@ -47,7 +47,7 @@ Open science indicators:
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O., Cornelisz, I., Sjerps, M. J., Greup, S. L., Bres, C. M., & van Klaveren, C. (2021).
  <font color="#D55E00">Balancing trade-offs in the detection of primary schools at risk.</font>
- <em>Educational Measurement: Issues and Practice</em>.<br>
+ <em>Educational Measurement: Issues and Practice, 40</em>(3), 110&ndash;124.<br>
  <a href="https://onlinelibrary.wiley.com/share/author/AP4PAACTRX7JASJPYAP3?target=10.1111/emip.12433">full text</a>, <a href="https://doi.org/10.35542/osf.io/q6z4r">postprint</a> /
  <font color="#0072B2">&Omicron;</font>
 </p>
