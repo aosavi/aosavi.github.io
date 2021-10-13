@@ -24,7 +24,7 @@ Open science indicators:
  Savi, A. O., ten Broeke, N., & Hofman, A. D. (2021).
  <font color="#CC79A7">Adaptive learning systems and interference in causal inference.</font>
  <em>Educational A/B Testing at Scale: The Second Virtual Workshop at Learning @ Scale 2021</em>.<br>
- <a href="https://sites.google.com/carnegielearning.com/edu-ab-testing-at-scale-2021/">workshop paper</a> /
+ <a href="https://sites.google.com/carnegielearning.com/edu-ab-testing-at-scale-2021/">workshop paper</a>, <a href="https://doi.org/10.31234/osf.io/4ax25">postprint</a> /
  <font color="#0072B2">&Omicron;</font>
 </p>
 
