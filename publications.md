@@ -39,7 +39,7 @@ Open science indicators:
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O., Marsman, M., & van der Maas, H. L. J. (2021).
  <font color="#E69F00">Evolving networks of human intelligence.</font>
- <em>Intelligence</em>.<br>
+ <em>Intelligence, 88</em>, Article 101567.<br>
  <a href="https://doi.org/10.1016/j.intell.2021.101567">full text</a>, <a href="https://doi.org/10.31234/osf.io/shq87">postprint</a> /
  <font color="#0072B2">&Omicron;</font>
 </p>
