@@ -3,7 +3,7 @@ layout: page
 title: Talks
 ---
 
-2021-10-10 <font color="#009E73">DE</font> [IACAT](https://www.iacat2021.com/) From adaptive practicing to one-to-one tutoring
+2022-09-20 <font color="#009E73">DE</font> [IACAT](https://www.iacat2021.com/) From adaptive practicing to one-to-one tutoring
 
 2021-06-22 <font color="#009E73">DE</font> [Learning @ Scale](https://emoocs2021.eu/) Adaptive learning systems and interference in causal inference
 
