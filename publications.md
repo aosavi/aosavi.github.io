@@ -55,8 +55,8 @@ Open science indicators:
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O., Deonovic, B. E., Bolsinova, M., van der Maas, H. L. J., & Maris, G. K. J. (2021).
  <font color="#009E73">Tracing systematic errors to personalize recommendations in single digit multiplication and beyond.</font>
- <em>Journal of Educational Data Mining, 13</em>(4).<br>
- in press, <a href="https://doi.org/10.31234/osf.io/53muj">preprint</a> /
+ <em>Journal of Educational Data Mining, 13</em>(4), 1&ndash;30.<br>
+ <a href="https://jedm.educationaldatamining.org/index.php/JEDM/article/view/382">full text</a>, <a href="https://doi.org/10.31234/osf.io/53muj">preprint</a> /
  <font color="#0072B2">&Omicron;</font>
 </p>
 
