@@ -19,13 +19,13 @@ Disruptive innovation, disruptive technologyIn this course, we'll go beyond the 
 * 18/12/06 <a href="/assets/lectures/2018_IIS_DisruptingScience_TeaserTalk.pdf">Sneak peek</a>
 -->
 
-## <font color="#D55E00">Behavioral Data Science: Data Visualization</font>
+## <font color="#D55E00">Behavioral Data Science Toolbox</font>
 
 Show, don't tell. Students expand their behavioral data science skills with (interactive) data visualizations in R&#151;in collaboration with [Abe Hofman](http://www.abehofman.com/).
 
 #### Present
 
-* 2022/23&#151;[Syllabus](https://studiegids.uva.nl/xmlpages/page/2021-2022-en/search-course/course/91468). <a href="/assets/lectures/2022_bds_toolbox/bds_toolbox_dataviz.html">Slides</a>.
+* 2022/23&#151;[Syllabus](https://studiegids.uva.nl/xmlpages/page/2022-2023-en/search-course/course/102073). <a href="/assets/lectures/2022_bds_toolbox/bds_toolbox_dataviz.html">Data Visualization</a>.
 
 #### Past
 
