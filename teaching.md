@@ -19,21 +19,25 @@ Disruptive innovation, disruptive technologyIn this course, we'll go beyond the 
 * 18/12/06 <a href="/assets/lectures/2018_IIS_DisruptingScience_TeaserTalk.pdf">Sneak peek</a>
 -->
 
-## <font color="#009E73">Psychometrics</font>
-
-Understanding follows measurement. Psychometrics provides the theory and techniques for psychological measurement. We'll cover latent variable models, network models, and latent process models.
-
-#### Present
-
-* 2021/22&#151;[Syllabus](https://studiegids.uva.nl/xmlpages/page/2021-2022-en/search-course/course/91308). [Book](https://doi.org/10.1007/978-3-319-93177-7). Classical test theory (Denny Borsboom). Factor analysis (Dylan Molenaar). Item response theory (Alexander Savi). Categorical latent variable models (Han van der Maas). Network analysis (Denny Borsboom). Bayesian model averaging (Maarten Marsman). Cognitive psychometrics (Andrew Heathcote).
-
 ## <font color="#D55E00">Behavioral Data Science: Data Visualization</font>
 
 Show, don't tell. Students expand their behavioral data science skills with (interactive) data visualizations in R&#151;in collaboration with [Abe Hofman](http://www.abehofman.com/).
 
 #### Present
 
+* 2022/23&#151;[Syllabus](https://studiegids.uva.nl/xmlpages/page/2021-2022-en/search-course/course/91468). <a href="/assets/lectures/2022_bds_toolbox/bds_toolbox_dataviz.html">Slides</a>.
+
+#### Past
+
 * 2021/22&#151;[Syllabus](https://studiegids.uva.nl/xmlpages/page/2021-2022-en/search-course/course/91468). [Book](https://r4ds.had.co.nz/data-visualisation.html).
+
+## <font color="#009E73">Psychometrics</font>
+
+Understanding follows measurement. Psychometrics provides the theory and techniques for psychological measurement. We'll cover latent variable models, network models, and latent process models.
+
+#### Past
+
+* 2021/22&#151;[Syllabus](https://studiegids.uva.nl/xmlpages/page/2021-2022-en/search-course/course/91308). [Book](https://doi.org/10.1007/978-3-319-93177-7). Classical test theory (Denny Borsboom). Factor analysis (Dylan Molenaar). Item response theory (Alexander Savi). Categorical latent variable models (Han van der Maas). Network analysis (Denny Borsboom). Bayesian model averaging (Maarten Marsman). Cognitive psychometrics (Andrew Heathcote).
 
 ## <font color="#E69F00">We R Champions</font>
 
