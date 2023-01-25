@@ -17,7 +17,7 @@ baseurlknitr:     /
 author:
   name:           'Alexander Savi'
   email:          o.a.savi@gmail.com
-  url:            https://twitter.com/alexandersavi
+  url:            https://www.alexandersavi.nl/
 
 paginate:         25
 paginate_path:    "blog/page:num/"
