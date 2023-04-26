@@ -151,8 +151,8 @@ Open science indicators:
 <p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O. (2013).
  Testing children’s Theory of Mind: Suitability of the strategic n-coin game [Master’s thesis, University of Amsterdam].
- <em>UvA Scripties</em>.<br>
- <a href="https://www.scriptiesonline.uba.uva.nl/en/467418">full text</a> /
+ <em>UvA Theses</em>.<br>
+ <a href="https://scripties.uba.uva.nl/search?id=record_31626">full text</a> /
  <font color="#0072B2">&Omicron;</font>
 </p>
 
