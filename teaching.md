@@ -5,7 +5,7 @@ title: Teaching
 
 <p class="message">
 <small>
-Anything to share with regard to my teaching? Tell me in person or use the (anonymous) <a href="https://docs.google.com/forms/d/e/1FAIpQLSfm1D8cx7JFgaGEBuo3I77qX52TXWkwmuHdcT7F0IxqI9aEhg/viewform">feedback form</a>.
+Something you want to share about my teaching? Tell me personally or use the (anonymous) <a href="https://docs.google.com/forms/d/e/1FAIpQLSfm1D8cx7JFgaGEBuo3I77qX52TXWkwmuHdcT7F0IxqI9aEhg/viewform">feedback form</a>.
 </small>
 </p>
 
