@@ -13,9 +13,9 @@ Open science indicators:
 [<font color="#0072B2">&Nu;</font>](https://en.wikipedia.org/wiki/Publication_bias) null results, <font color="#0072B2">&Chi;</font> holdout principle.
 
 <p style="margin-left: .3in; text-indent: -.3in;">
- Savi, A. O., van Klaveren, C., & Cornelisz, I. (2021).
+ Savi, A. O., van Klaveren, C., & Cornelisz, I. (2023).
  <font color="#CC79A7">Combating effort avoidance in computer adaptive practicing: Does a problem skipping restriction promote learning?</font>
- <em>PsyArXiv</em>.<br>
+ <em>Computers & Education</em>.<br> 
  <a href="https://doi.org/10.31234/osf.io/5fmek">preprint</a> /
  <font color="#0072B2">&Omicron;</font> <font color="#0072B2">&Nu;</font>
 </p>
