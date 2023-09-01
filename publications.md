@@ -16,7 +16,7 @@ Open science indicators:
  Savi, A. O., van Klaveren, C., & Cornelisz, I. (2023).
  <font color="#CC79A7">Combating effort avoidance in computer adaptive practicing: Does a problem skipping restriction promote learning?</font>
  <em>Computers & Education</em>.<br> 
- <a href="https://doi.org/10.31234/osf.io/5fmek">preprint</a> /
+ <a href="https://doi.org/10.1016/j.compedu.2023.104908">full text</a>, <a href="https://doi.org/10.31234/osf.io/5fmek">preprint</a> /
  <font color="#0072B2">&Omicron;</font> <font color="#0072B2">&Nu;</font>
 </p>
 
