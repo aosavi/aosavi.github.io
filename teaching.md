@@ -23,7 +23,7 @@ Disruptive innovation, disruptive technologyIn this course, we'll go beyond the 
 
 #### Present
 
-* 2023/24&#151;[Syllabus](https://studiegids.uva.nl/xmlpages/page/2023-2024/zoek-vak/vak/110074). <a href="/assets/lectures/2023_pb_wsr/pb_wsr_lecture_1.pdf">Introduction</a>. <a href="/assets/lectures/2023_pb_wsr/pb_wsr_lecture_2.pdf">Frequentist Inference</a>. href="/assets/lectures/2023_pb_wsr/pb_wsr_lecture_3.pdf">Linear Regression & T-test</a>.
+* 2023/24&#151;[Syllabus](https://studiegids.uva.nl/xmlpages/page/2023-2024/zoek-vak/vak/110074). <a href="/assets/lectures/2023_pb_wsr/pb_wsr_lecture_1.pdf">Introduction</a>. <a href="/assets/lectures/2023_pb_wsr/pb_wsr_lecture_2.pdf">Frequentist Inference</a>. <a href="/assets/lectures/2023_pb_wsr/pb_wsr_lecture_3.pdf">Linear Regression & T-test</a>.
 
 ## <font color="#D55E00">Behavioral Data Science Toolbox</font>
 
