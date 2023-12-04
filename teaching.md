@@ -5,7 +5,7 @@ title: Teaching
 
 <p class="message">
 <small>
-Something you want to share about my teaching? Tell me personally or use the (anonymous) <a href="https://docs.google.com/forms/d/e/1FAIpQLSfm1D8cx7JFgaGEBuo3I77qX52TXWkwmuHdcT7F0IxqI9aEhg/viewform">feedback form</a>.
+Something you want to tell me about my teaching? Tell me personally or use the (anonymous) <a href="https://docs.google.com/forms/d/e/1FAIpQLSfm1D8cx7JFgaGEBuo3I77qX52TXWkwmuHdcT7F0IxqI9aEhg/viewform">feedback form</a>.
 </small>
 </p>
 
@@ -21,7 +21,11 @@ Disruptive innovation, disruptive technologyIn this course, we'll go beyond the 
 
 ## <font color="#CC79A7">Statistical Reasoning</font>
 
+Students learn statistics to reason under uncertainty and avoid cognitive biases.
+
 #### Present
+
+#### Past
 
 * 2023/24&#151;[Syllabus](https://studiegids.uva.nl/xmlpages/page/2023-2024/zoek-vak/vak/110074). <a href="/assets/lectures/2023_pb_wsr/pb_wsr_lecture_1.pdf">Introduction</a>. <a href="/assets/lectures/2023_pb_wsr/pb_wsr_lecture_2.pdf">Frequentist Inference</a>. <a href="/assets/lectures/2023_pb_wsr/pb_wsr_lecture_3.pdf">Linear Regression & T-test</a>. <a href="/assets/lectures/2023_pb_wsr/pb_wsr_lecture_4.pdf">Moderation</a>. <a href="/assets/lectures/2023_pb_wsr/pb_wsr_lecture_5.pdf">F-distribution & Nonparametric Inference</a>. <a href="/assets/lectures/2023_pb_wsr/pb_wsr_lecture_6.pdf">Factorial ANOVA & Repeated Measures ANOVA</a>. <a href="/assets/lectures/2023_pb_wsr/pb_wsr_lecture_7.pdf">Bayesian Inference</a>.
 
