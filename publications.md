@@ -13,6 +13,14 @@ Open science indicators:
 [<font color="#0072B2">&Nu;</font>](https://en.wikipedia.org/wiki/Publication_bias) null results, <font color="#0072B2">&Chi;</font> holdout principle.
 
 <p style="margin-left: .3in; text-indent: -.3in;">
+ Johansson, A. M., Savi, A. O., van der Maas, H. L. J., & Hofman, A. D. (2024).
+ <font color="#009E73">Three strikes and who is out? Individual differences in error-induced quitting.</font>
+ <em>PsyArXiv</em>.<br>
+ <a href="https://doi.org/10.31234/osf.io/6tduv">preprint</a>, <a href="https://ann1ejohansson.github.io/three-strikes/">code&data</a> /
+ <font color="#0072B2">&Omicron;</font> <font color="#0072B2">&Delta;</font>
+</p>
+
+<p style="margin-left: .3in; text-indent: -.3in;">
  Savi, A. O., van Klaveren, C., & Cornelisz, I. (2023).
  <font color="#CC79A7">Combating effort avoidance in computer adaptive practicing: Does a problem skipping restriction promote learning?</font>
  <em>Computers & Education, 206</em>, Article 104908.<br>
