@@ -25,9 +25,11 @@ Students learn statistics to reason under uncertainty and avoid cognitive biases
 
 #### Present
 
+* 2024/25&#151;[Syllabus](https://studiegids.uva.nl/xmlpages/page/2024-2025/zoek-vak/vak/119603). Intro. Frequentist Inference. Multiple Linear Regression. Factorial ANOVA. Nonparametric Inference. Bayesian Inference. Outro.
+
 #### Past
 
-* 2023/24&#151;[Syllabus](https://studiegids.uva.nl/xmlpages/page/2023-2024/zoek-vak/vak/110074). <a href="/assets/lectures/2023_pb_wsr/pb_wsr_lecture_1.pdf">Introduction</a>. <a href="/assets/lectures/2023_pb_wsr/pb_wsr_lecture_2.pdf">Frequentist Inference</a>. <a href="/assets/lectures/2023_pb_wsr/pb_wsr_lecture_3.pdf">Linear Regression & T-test</a>. <a href="/assets/lectures/2023_pb_wsr/pb_wsr_lecture_4.pdf">Moderation</a>. <a href="/assets/lectures/2023_pb_wsr/pb_wsr_lecture_5.pdf">F-distribution & Nonparametric Inference</a>. <a href="/assets/lectures/2023_pb_wsr/pb_wsr_lecture_6.pdf">Factorial ANOVA & Repeated Measures ANOVA</a>. <a href="/assets/lectures/2023_pb_wsr/pb_wsr_lecture_7.pdf">Bayesian Inference</a>.
+* 2023/24&#151;[Syllabus](https://studiegids.uva.nl/xmlpages/page/2023-2024/zoek-vak/vak/110074). Introduction. Frequentist Inference. Linear Regression & T-test. Moderation. F-distribution & Nonparametric Inference. Factorial ANOVA & Repeated Measures ANOVA. Bayesian Inference.
 
 ## <font color="#D55E00">Behavioral Data Science Toolbox</font>
 
