@@ -25,7 +25,7 @@ Students learn statistics to reason under uncertainty and avoid cognitive biases
 
 #### Present
 
-* 2024/25&#151;[Syllabus](https://studiegids.uva.nl/xmlpages/page/2024-2025/zoek-vak/vak/119603). <a href="/assets/lectures/2024_PB_WSR/pb_wsr_lecture_1.pdf">Intro</a>. Frequentist Inference. Multiple Linear Regression. Factorial ANOVA. Nonparametric Inference. Bayesian Inference. Outro.
+* 2024/25&#151;[Syllabus](https://studiegids.uva.nl/xmlpages/page/2024-2025/zoek-vak/vak/119603). <a href="/assets/lectures/2024_pb_wsr/pb_wsr_lecture_1.pdf">Intro</a>. Frequentist Inference. Multiple Linear Regression. Factorial ANOVA. Nonparametric Inference. Bayesian Inference. Outro.
 
 #### Past
 
