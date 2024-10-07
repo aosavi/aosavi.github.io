@@ -25,7 +25,7 @@ Students learn statistics to reason under uncertainty and avoid cognitive biases
 
 #### Present
 
-* 2024/25&#151;[Syllabus](https://studiegids.uva.nl/xmlpages/page/2024-2025/zoek-vak/vak/119603). <a href="/assets/lectures/2024_pb_wsr/pb_wsr_lecture_1.pdf">Intro</a>. <a href="/assets/lectures/2024_pb_wsr/pb_wsr_lecture_2.pdf">Frequentist Inference</a>. <a href="/assets/lectures/2024_pb_wsr/pb_wsr_lecture_3.pdf">Multiple Linear Regression</a>. <a href="/assets/lectures/2024_pb_wsr/pb_wsr_lecture_4.pdf">Factorial ANOVA</a>. <a href="/assets/lectures/2024_pb_wsr/pb_wsr_lecture_5.pdf">Nonparametric Inference</a>. Bayesian Inference. Outro.
+* 2024/25&#151;[Syllabus](https://studiegids.uva.nl/xmlpages/page/2024-2025/zoek-vak/vak/119603). <a href="/assets/lectures/2024_pb_wsr/pb_wsr_lecture_1.pdf">Intro</a>. <a href="/assets/lectures/2024_pb_wsr/pb_wsr_lecture_2.pdf">Frequentist Inference</a>. <a href="/assets/lectures/2024_pb_wsr/pb_wsr_lecture_3.pdf">Multiple Linear Regression</a>. <a href="/assets/lectures/2024_pb_wsr/pb_wsr_lecture_4.pdf">Factorial ANOVA</a>. <a href="/assets/lectures/2024_pb_wsr/pb_wsr_lecture_5.pdf">Nonparametric Inference</a>. <a href="/assets/lectures/2024_pb_wsr/pb_wsr_lecture_6.pdf">Bayesian Inference</a>. Outro.
 
 #### Past
 
