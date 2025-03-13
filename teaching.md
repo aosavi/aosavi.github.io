@@ -25,7 +25,7 @@ Students learn statistics to reason under uncertainty and avoid cognitive biases
 
 #### Present
 
-* 2025/26&#151;[Book & online resources](https://us.sagepub.com/en-us/nam/applied-statistics-using-r/book266647).
+* 2025/26&#151;[Book & online resources](https://us.sagepub.com/en-us/nam/applied-statistics-using-r/book266647). Statistical Reasoning with GLM. Multiple Linear Regression. Dummy-Variable Regression. Logistic Regression. Multilevel and Longitudinal Analysis. Bayesian Statistics. Outro.
 
 #### Past
 
