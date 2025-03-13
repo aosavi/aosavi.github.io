@@ -23,7 +23,7 @@ Open science indicators:
 <p style="margin-left: .3in; text-indent: -.3in;">
  Johansson, A. M., Savi, A. O., & Hofman, A. D. (2024).
  <font color="#009E73">A problem that shouldn't be skipped: Problem skipping limits the accuracy of ability estimates in online learning.</font>
- <em></em>.<br>
+ <em></em><br>
  <a href="https://ann1ejohansson.github.io/qm-trees/irtrees2024.pdf">preprint</a> /
  <font color="#0072B2">&Omicron;</font>
 </p>
