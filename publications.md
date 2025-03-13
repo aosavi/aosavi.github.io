@@ -13,6 +13,22 @@ Open science indicators:
 [<font color="#0072B2">&Nu;</font>](https://en.wikipedia.org/wiki/Publication_bias) null results, <font color="#0072B2">&Chi;</font> holdout principle.
 
 <p style="margin-left: .3in; text-indent: -.3in;">
+ Plak, S., Savi, A. O., & Meeter, M. (2025).
+ <font color="#009E73">SMILE: A simulation-based model of intelligence, learning, and education.</font>
+ <em>PsyArXiv</em>.<br>
+ <a href="">preprint</a>, <a href="">code</a> /
+ <font color="#0072B2">&Omicron;</font> <font color="#0072B2">&Delta;</font>
+</p>
+
+<p style="margin-left: .3in; text-indent: -.3in;">
+ Johansson, A. M., Savi, A. O., & Hofman, A. D. (2024).
+ <font color="#009E73">A problem that shouldn't be skipped: Problem skipping limits the accuracy of ability estimates in online learning.</font>
+ <em>PsyArXiv</em>.<br>
+ <a href="https://ann1ejohansson.github.io/qm-trees/irtrees2024.pdf">preprint</a> /
+ <font color="#0072B2">&Omicron;</font>
+</p>
+
+<p style="margin-left: .3in; text-indent: -.3in;">
  Johansson, A. M., Savi, A. O., van der Maas, H. L. J., & Hofman, A. D. (2024).
  <font color="#009E73">Three strikes and who is out? Individual differences in error-induced quitting.</font>
  <em>PsyArXiv</em>.<br>
