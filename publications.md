@@ -14,7 +14,7 @@ Open science indicators:
 
 <p style="margin-left: .3in; text-indent: -.3in;">
  Plak, S., Savi, A. O., & Meeter, M. (2025).
- <font color="#009E73">SMILE: A simulation-based model of intelligence, learning, and education.</font>
+ <font color="#E69F00">SMILE: A simulation-based model of intelligence, learning, and education.</font>
  <em>PsyArXiv</em>.<br>
  <a href="">preprint</a>, <a href="">code</a> /
  <font color="#0072B2">&Omicron;</font> <font color="#0072B2">&Delta;</font>
