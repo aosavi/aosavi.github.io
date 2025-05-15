@@ -13,10 +13,18 @@ Open science indicators:
 [<font color="#0072B2">&Nu;</font>](https://en.wikipedia.org/wiki/Publication_bias) null results, <font color="#0072B2">&Chi;</font> holdout principle.
 
 <p style="margin-left: .3in; text-indent: -.3in;">
+ Ye, L., Savi, A. O., & Hofman, A. D. (2025).
+ <font color="#E69F00">Assessing reliability in AI-powered learning systems with A/A tests</font>
+ <em>Proceedings of the Twelfth ACM Conference on Learning @ Scale (L@S '25)</em>.<br>
+ <a href="https://doi.org/10.1145/3698205.3729553">full text</a> /
+ <font color="#0072B2">&Omicron;</font>
+</p>
+
+<p style="margin-left: .3in; text-indent: -.3in;">
  Plak, S., Savi, A. O., & Meeter, M. (2025).
  <font color="#E69F00">SMILE: A simulation-based model of intelligence, learning, and education.</font>
  <em>PsyArXiv</em>.<br>
- <a href="">preprint</a>, <a href="">code</a> /
+ <a href="https://osf.io/642rq/">preprint</a>, <a href="https://osf.io/642rq/">code</a> /
  <font color="#0072B2">&Omicron;</font> <font color="#0072B2">&Delta;</font>
 </p>
 
