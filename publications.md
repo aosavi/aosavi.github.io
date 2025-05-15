@@ -14,7 +14,7 @@ Open science indicators:
 
 <p style="margin-left: .3in; text-indent: -.3in;">
  Ye, L., Savi, A. O., & Hofman, A. D. (2025).
- <font color="#CC79A7">Assessing reliability in AI-powered learning systems with A/A tests</font>
+ <font color="#CC79A7">Assessing reliability in AI-powered learning systems with A/A tests.</font>
  <em>Proceedings of the Twelfth ACM Conference on Learning @ Scale (L@S '25)</em>.<br>
  <a href="https://doi.org/10.1145/3698205.3729553">full text</a> /
  <font color="#0072B2">&Omicron;</font>
