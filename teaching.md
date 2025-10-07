@@ -25,7 +25,7 @@ Students learn statistics to reason under uncertainty and avoid cognitive biases
 
 #### Present
 
-* 2025/26&#151;[Syllabus](https://studiegids.uva.nl/xmlpages/page/2025-2026/zoek-vak/vak/129887). [Textbook w/ online resources](https://us.sagepub.com/en-us/nam/applied-statistics-using-r/book266647). <a href="/assets/lectures/2025_pb_wsr/pb_wsr_lecture_1.pdf">Statistical Reasoning with GLM</a>. <a href="/assets/lectures/2025_pb_wsr/pb_wsr_lecture_2.pdf">Multiple Linear Regression</a>. <a href="/assets/lectures/2025_pb_wsr/pb_wsr_lecture_3.pdf">Dummy-Variable Regression</a>. <a href="/assets/lectures/2025_pb_wsr/pb_wsr_lecture_4.pdf">Logistic Regression</a>. <a href="/assets/lectures/2025_pb_wsr/pb_wsr_lecture_5.pdf">Multilevel and Longitudinal Analysis</a>. Statistical Superpowers. Bayesian Statistics.
+* 2025/26&#151;[Syllabus](https://studiegids.uva.nl/xmlpages/page/2025-2026/zoek-vak/vak/129887). [Textbook w/ online resources](https://us.sagepub.com/en-us/nam/applied-statistics-using-r/book266647). <a href="/assets/lectures/2025_pb_wsr/pb_wsr_lecture_1.pdf">Statistical Reasoning with GLM</a>. <a href="/assets/lectures/2025_pb_wsr/pb_wsr_lecture_2.pdf">Multiple Linear Regression</a>. <a href="/assets/lectures/2025_pb_wsr/pb_wsr_lecture_3.pdf">Dummy-Variable Regression</a>. <a href="/assets/lectures/2025_pb_wsr/pb_wsr_lecture_4.pdf">Logistic Regression</a>. <a href="/assets/lectures/2025_pb_wsr/pb_wsr_lecture_5.pdf">Multilevel and Longitudinal Analysis</a>. <a href="/assets/lectures/2025_pb_wsr/pb_wsr_lecture_6.pdf">Statistics Superpowers</a>. Bayesian Statistics.
 
 #### Past
 
