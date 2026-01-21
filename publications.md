@@ -16,7 +16,7 @@ Open science indicators:
  Miske, O., Abatayo, A. L., Daley, M., Dirzo, M., Fox, N., Haber, N., Hahn, K. M., Kline Struhl, M., Mawhinney, B., Silverstein, P., Stankov, T., Tyner, A. H., Adamkovič, M., Alzahawi, S., Anafinova, S., Awtrey, E., Axxe, E., Bailey, J., Bakker, B. N., . . . Errington, T. M. (in press).
  <font color="">Investigating the reproducibility of the social and behavioural sciences.</font>
  <em>Nature</em>.<br>
- <a href="">preprint</a>, <a href="">full text</a> /
+ <a href="">full text</a>, <a href="">preprint</a> /
  <font color="#0072B2">&Omicron;</font>
 </p>
 
