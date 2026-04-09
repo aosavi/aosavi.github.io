@@ -17,7 +17,7 @@ Open science indicators:
  <font color="">Investigating the reproducibility of the social and behavioural sciences.</font>
  <em>Nature, 652</em>, 126&ndash;134.<br>
  <a href="https://doi.org/10.1038/s41586-026-10203-5">full text</a>, <a href="https://doi.org/10.31222/osf.io/wqt9u_v2">preprint</a> /
- <font color="#0072B2">&Omicron;</font>
+ <font color="#0072B2">&Omicron;</font> <font color="#0072B2">&Delta;</font> <font color="#0072B2">&Pi;</font>
 </p>
 
 <p style="margin-left: .3in; text-indent: -.3in;">
