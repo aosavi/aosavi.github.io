@@ -13,10 +13,10 @@ Open science indicators:
 [<font color="#0072B2">&Nu;</font>](https://en.wikipedia.org/wiki/Publication_bias) null results, <font color="#0072B2">&Chi;</font> holdout principle.
 
 <p style="margin-left: .3in; text-indent: -.3in;">
- Miske, O., Abatayo, A. L., Daley, M., Dirzo, M., Fox, N., Haber, N., Hahn, K. M., Kline Struhl, M., Mawhinney, B., Silverstein, P., Stankov, T., Tyner, A. H., Adamkovič, M., Alzahawi, S., Anafinova, S., Awtrey, E., Axxe, E., Bailey, J., Bakker, B. N., . . . Errington, T. M. (in press).
+ Miske, O., Abatayo, A. L., Daley, M., Dirzo, M., Fox, N., Haber, N., Hahn, K. M., Kline Struhl, M., Mawhinney, B., Silverstein, P., Stankov, T., Tyner, A. H., Adamkovič, M., Alzahawi, S., Anafinova, S., Awtrey, E., Axxe, E., Bailey, J., Bakker, B. N., . . . Errington, T. M. (2026).
  <font color="">Investigating the reproducibility of the social and behavioural sciences.</font>
- <em>Nature</em>.<br>
- <a href="">full text</a>, <a href="">preprint</a> /
+ <em>Nature, 652</em>, 126&ndash;134.<br>
+ <a href="https://doi.org/10.1038/s41586-026-10203-5">full text</a>, <a href="https://doi.org/10.31222/osf.io/wqt9u_v2">preprint</a> /
  <font color="#0072B2">&Omicron;</font>
 </p>
 
