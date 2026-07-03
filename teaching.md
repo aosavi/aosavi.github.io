@@ -19,16 +19,23 @@ Disruptive innovation, disruptive technologyIn this course, we'll go beyond the 
 * 18/12/06 <a href="/assets/lectures/2018_IIS_DisruptingScience_TeaserTalk.pdf">Sneak peek</a>
 -->
 
+## <font color="#F0E442">Advanced Research Methods & Statistics</font>
+
+#### Present
+
+* 2026/27&#151;[Syllabus](https://studiegids.uva.nl/nl/vakken/2026/1/59094).
+
 ## <font color="#CC79A7">Statistical Reasoning</font>
 
 Students learn statistics to reason under uncertainty and avoid cognitive biases.
 
 #### Present
 
-* 2025/26&#151;[Syllabus](https://studiegids.uva.nl/xmlpages/page/2025-2026/zoek-vak/vak/129887). [Textbook w/ online resources](https://us.sagepub.com/en-us/nam/applied-statistics-using-r/book266647). <a href="/assets/lectures/2025_pb_wsr/pb_wsr_lecture_1.pdf">Statistical Reasoning with GLM</a>. <a href="/assets/lectures/2025_pb_wsr/pb_wsr_lecture_2.pdf">Multiple Linear Regression</a>. <a href="/assets/lectures/2025_pb_wsr/pb_wsr_lecture_3.pdf">Dummy-Variable Regression</a>. <a href="/assets/lectures/2025_pb_wsr/pb_wsr_lecture_4.pdf">Logistic Regression</a>. <a href="/assets/lectures/2025_pb_wsr/pb_wsr_lecture_5.pdf">Multilevel and Longitudinal Analysis</a>. <a href="/assets/lectures/2025_pb_wsr/pb_wsr_lecture_6.pdf">Statistics Superpowers</a>. <a href="/assets/lectures/2025_pb_wsr/pb_wsr_lecture_7.pdf">Bayesian Statistics</a>.
+* 2026/27&#151;[Syllabus](https://studiegids.uva.nl/xmlpages/page/2025-2026/zoek-vak/vak/129887). [Textbook w/ online resources](https://us.sagepub.com/en-us/nam/applied-statistics-using-r/book266647). <a href="">Statistical Reasoning with GLM</a>. <a href="">Multiple Linear Regression</a>. <a href="">Dummy-Variable Regression</a>. <a href="">Bayesian Statistics</a>. <a href="">Logistic Regression</a>. <a href="">Multilevel and Longitudinal Analysis</a>. <a href="">Statistics Superpowers</a>.
 
 #### Past
 
+* 2025/26&#151;[Syllabus](https://studiegids.uva.nl/xmlpages/page/2025-2026/zoek-vak/vak/129887). [Textbook w/ online resources](https://us.sagepub.com/en-us/nam/applied-statistics-using-r/book266647). Statistical Reasoning with GLM. Multiple Linear Regression. Dummy-Variable Regression. Logistic Regression. Multilevel and Longitudinal Analysis. Statistics Superpowers. Bayesian Statistics.
 * 2024/25&#151;[Syllabus](https://studiegids.uva.nl/xmlpages/page/2024-2025/zoek-vak/vak/119603). Intro. Frequentist Inference. Multiple Linear Regression. Factorial ANOVA. Nonparametric Inference. Bayesian Inference. Outro.
 * 2023/24&#151;[Syllabus](https://studiegids.uva.nl/xmlpages/page/2023-2024/zoek-vak/vak/110074). Introduction. Frequentist Inference. Linear Regression & T-test. Moderation. F-distribution & Nonparametric Inference. Factorial ANOVA & Repeated Measures ANOVA. Bayesian Inference.
 
