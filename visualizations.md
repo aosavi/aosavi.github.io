@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Software
+title: Visualizations
 ---
 
 ## <font color="#E69F00">Learner Trajectories</font>
