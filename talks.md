@@ -3,7 +3,7 @@ layout: page
 title: Talks
 ---
 
-2026-10-30 <font color="#E69F00">NL</font> [Dag van Intelligentie]() Wat is intelligentie? Nieuwe inzichten en verklaringen
+2026-10-30 <font color="#E69F00">NL</font> [Bij WAISe van Intelligentie](https://www.pearsonclinical.nl/nl-nl/Aanbod/Tests/Gedrag/Online-congres%3A-Bij-WAISe-van-intelligentie/p/P100146002) Wat is intelligentie? Nieuwe inzichten en verklaringen
 
 2022-09-20 <font color="#009E73">DE</font> [IACAT](https://www.iacat2021.com/) From adaptive practicing to one-to-one tutoring
 
